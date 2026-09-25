@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-u23-63305" group-title="Biaom TV" , 26-09-2026 17:30 ⚽ Nhật Bản U23 vs Korea DPR U23 [SCHEDULED] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4ODY1ODg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmZ2ZWUzMG0yb2Zvdjhsd2l2dmk0a291Zg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Hungary vs Ukraine [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ6cTAxZm5yNWJ1NGx0em5vOWRucTJhNw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-18564" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Thụy Điển vs Romania [LIVE] (NEM NƯỚNG )
@@ -7,7 +9,3 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om9
 https://cdnhls.xbdbotv.live/live/MTk2NzY2OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh4NGV3Yngzejl1dGw0ODhkNmdhMnVjcA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Thổ Nhĩ Kỳ vs Pháp [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2OTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnNkbHE5ZGh1NHdmZXBjaW52cnJjd20yZw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Biaom TV" , 25-09-2026 23:00 ⚽ Armenia vs Latvia [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmZmcjBoMGRjemllNGxiajkwcmYwMjUzeQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-18692" group-title="Biaom TV" , 25-09-2026 23:00 ⚽ Georgia vs Bắc Ireland [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3NDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnEzdHZkMHZ6emhnOWg1MnZleGx2bmxvNg/index.m3u8
