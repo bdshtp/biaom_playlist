@@ -1,11 +1,25 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/serbia-18873" group-title="Biaom TV" , 25-09-2026 01:45 ⚽ Serbia vs Hy Lạp [SCHEDULED] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2OTQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmlkbXF2a245aW51cmI3ZHh5eGx0YmEycA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/norway-18578" group-title="Biaom TV" , 25-09-2026 01:45 ⚽ Na Uy vs Đan Mạch [SCHEDULED] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2OTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmVudW82enB1OXZudGFsd2hwemEwbnZlZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-18694" group-title="Biaom TV" , 25-09-2026 01:45 ⚽ Hà Lan vs Đức [SCHEDULED] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2OTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmpzNHZyNjVlMWFsc3pwcmVmdDFqMzZ3aQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/portugal-18701" group-title="Biaom TV" , 25-09-2026 01:45 ⚽ Bồ Đào Nha vs Wales [SCHEDULED] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk2NzY2OTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnI2ZWl6NHR0MHRkZThtejd3c3V0eDNrag/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/andorra-18781" group-title="Biaom TV" , 24-09-2026 23:00 ⚽ Andorra vs Malta [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk2NzY4MDM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnJycGx6MGM1eGJidmk0YXd6NzE2cmMwOA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hungary-18732" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Hungary vs Ukraine [SCHEDULED] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ6cTAxZm5yNWJ1NGx0em5vOWRucTJhNw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-18564" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Thụy Điển vs Romania [SCHEDULED] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om9xN3hwZWdvMGx6cHA2dDE5YWV2aDJpNw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/poland-18699" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Ba Lan vs Bosnia và Herzegovina [SCHEDULED] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmcza2RndG0ydXVwYzJ1eTh2YTB0bDI2ag/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Ý vs Bỉ [SCHEDULED] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk2NzY2OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmh4NGV3Yngzejl1dGw0ODhkNmdhMnVjcA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" group-title="Biaom TV" , 26-09-2026 01:45 ⚽ Thổ Nhĩ Kỳ vs Pháp [SCHEDULED] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk2NzY2OTA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnNkbHE5ZGh1NHdmZXBjaW52cnJjd20yZw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Biaom TV" , 25-09-2026 23:00 ⚽ Armenia vs Latvia [SCHEDULED] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3OTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmZmcjBoMGRjemllNGxiajkwcmYwMjUzeQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-18692" group-title="Biaom TV" , 25-09-2026 23:00 ⚽ Georgia vs Bắc Ireland [SCHEDULED] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3NDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnEzdHZkMHZ6emhnOWg1MnZleGx2bmxvNg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-u23-63315" group-title="Biaom TV" , 25-09-2026 17:30 ⚽ Hàn Quốc U23 vs Việt Nam U23 [SCHEDULED] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4ODY1OTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVwejVveWhxaXBhZzc2amE1MXJpdTFmdA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-w-149618" group-title="Biaom TV" , 25-09-2026 17:30 ⚽ Nhật Bản nữ vs Philippines W [SCHEDULED] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk4ODY1NzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm1uZXhkNWdudjVwZXh1azMwZWVpbWJ5Mg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/south-korea-w-149617" group-title="Biaom TV" , 25-09-2026 17:30 ⚽ Hàn Quốc nữ vs Uzbekistan W [SCHEDULED] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk4ODY1Njk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om52ZHp5cnh6cjdvbHh1OXZnNHNxMThtNg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" group-title="Biaom TV" , 25-09-2026 17:00 ⚽ Úc vs Brazil [SCHEDULED] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk3MzE0ODQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omk0Ymo2Z2N1YjhvcjZiNW81cWg2amthbA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" group-title="Biaom TV" , 25-09-2026 17:00 ⚽ Úc vs Brazil [SCHEDULED] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk3MzE0ODQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnZ0NGgwZzQxaXpwd29jcmdpMWc0dDFmdA/index.m3u8
