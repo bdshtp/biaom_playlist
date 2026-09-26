@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645" group-title="Biaom TV" , 27-09-2026 01:45 ⚽ Anh vs Tây Ban Nha [SCHEDULED] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZsM3o5eDFtbmJlMmR0ZWVvdzE4bGswcA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/san-marino-18872" group-title="Biaom TV" , 26-09-2026 23:00 ⚽ San Marino vs Phần Lan [SCHEDULED] (TRÚC BẠCH)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/san-marino-18872" group-title="Biaom TV" , 26-09-2026 23:00 ⚽ San Marino vs Phần Lan [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmM0eTc2d3g5a25ldHYyOXRrM2NxeTMxeA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-u21-75715" group-title="Biaom TV" , 26-09-2026 22:00 ⚽ Georgia U21 vs Hy Lạp U21 [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTkzODU0NjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxhZjhoYzVsMm9xc2pwNDAyeWgxajJteA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slovakia-18648" group-title="Biaom TV" , 27-09-2026 01:45 ⚽ Slovakia vs Moldova [SCHEDULED] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om11bXhlbG1uOWR1ZG9zc3JpbW11bncwMQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641" group-title="Biaom TV" , 27-09-2026 01:45 ⚽ Albania vs Belarus [SCHEDULED] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnU4dGhmMno3YXlyaDlubzQyeXNyb3RmNw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/north-macedonia-18689" group-title="Biaom TV" , 27-09-2026 01:45 ⚽ Bắc Macedonia vs Thụy Sĩ [SCHEDULED] (TRÚC BẠCH)
@@ -15,11 +13,9 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm1
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnlveDd6cXN3ZmxzYzZ6MTQxNXhvN3Njag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645" group-title="Biaom TV" , 27-09-2026 01:45 ⚽ Anh vs Tây Ban Nha [SCHEDULED] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnBiOTVva2l4YTVsNmE2Y3ZlcHN5ZmRqbg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/san-marino-18872" group-title="Biaom TV" , 26-09-2026 23:00 ⚽ San Marino vs Phần Lan [SCHEDULED] (333)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODY6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnpyaXEzcGR3MDQ2Y2J1OGpxamV2a285bA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/iceland-18635" group-title="Biaom TV" , 26-09-2026 23:00 ⚽ Iceland vs Estonia [SCHEDULED] (Vịt Nướng)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/iceland-18635" group-title="Biaom TV" , 26-09-2026 23:00 ⚽ Iceland vs Estonia [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZqNXFkd2Q2OWU3bG1oNGIyM3kzY3RqOQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bulgaria-18690" group-title="Biaom TV" , 26-09-2026 23:00 ⚽ Bulgaria vs Luxembourg [SCHEDULED] (ASAHI)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bulgaria-18690" group-title="Biaom TV" , 26-09-2026 23:00 ⚽ Bulgaria vs Luxembourg [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmlidWNibGI0MDB2ZXdnemVvenBvdjNuMg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-u21-75715" group-title="Biaom TV" , 26-09-2026 22:00 ⚽ Georgia U21 vs Hy Lạp U21 [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTkzODU0NjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJma3hueHg2bm10bWY4eHVicTE4aGtzeA/index.m3u8
