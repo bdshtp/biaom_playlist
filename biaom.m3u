@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-u21-75715" group-title="Biaom TV" , 26-09-2026 22:00 ⚽ Georgia U21 vs Hy Lạp U21 [SCHEDULED] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTkzODU0NjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxhZjhoYzVsMm9xc2pwNDAyeWgxajJteA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-18709" group-title="Biaom TV" , 26-09-2026 19:30 ⚽ Việt Nam vs Philippines [SCHEDULED] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4ODM4Nzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZ4Zms0a3Jqdm45NGMycDl6amcyMmdiaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slovakia-18648" group-title="Biaom TV" , 27-09-2026 01:45 ⚽ Slovakia vs Moldova [SCHEDULED] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om11bXhlbG1uOWR1ZG9zc3JpbW11bncwMQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641" group-title="Biaom TV" , 27-09-2026 01:45 ⚽ Albania vs Belarus [SCHEDULED] (Vịt Nướng)
