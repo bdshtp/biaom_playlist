@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Đang phát" , 27-09-2026 17:00 ⚽ Gangwon FC vs Incheon United [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk2NDgxMDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmY0anNxeWt1MHFjbTQwY3hscmYyc3U5dA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/china-pr-18599" group-title="Đang phát" , 27-09-2026 18:35 ⚽ Trung Quốc vs New Zealand [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NzIyODk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om15OTd2d2l2c3RuczlndzJrcTBjMWMweQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lithuania-27065" group-title="Đang phát" , 27-09-2026 20:00 ⚽ Litva vs Azerbaijan [LIVE] (SAPPORO)
@@ -15,14 +13,8 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmc
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZrdzdnY2EydWxmd213OXlmODkwYTB0cw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-18583" group-title="Đang phát" , 27-09-2026 23:00 ⚽ Đan Mạch vs Wales [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmI3a2VqMGQ1cGx1cDZzM3l4bnVnMzhsaQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f4822468-2cfb-4774-872f-2e3bb7721dbf" group-title="Sắp diễn ra" , 28-09-2026 00:00 ⚽ Binh Minh Sai Gon vs Thai Nguyen (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/bmsg-thainguyen-vleague2/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e144a99b-be0c-4386-93a1-9cb69835e0f8" group-title="Sắp diễn ra" , 28-09-2026 00:00 ⚽ Cambodia vs Myanmar (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/cam-mya-ffasean/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pumas-unam-2989" group-title="Đang phát" , 28-09-2026 01:00 ⚽ Pumas UNAM vs Atlético San Luis [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MTUyMjg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZzc3RoZndkOTh1bWtnbWtoZnFyZjh3MA/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9faa0b03-79fb-4fd9-9159-aeac5132288f" group-title="Sắp diễn ra" , 28-09-2026 01:00 ⚽ Shaanxi Union vs Dalian K'un City (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/shaa-kun-chnl1/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4fd90142-9954-4f38-85d9-f4a91c36564b" group-title="Sắp diễn ra" , 28-09-2026 01:35 ⚽ China vs New Zealand (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/chn-nzl-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/israel-18657" group-title="Đang phát" , 28-09-2026 01:45 ⚽ Israel vs Ireland [LIVE] (NEM NƯỚNG )
