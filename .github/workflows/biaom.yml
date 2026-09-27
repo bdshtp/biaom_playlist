@@ -3,7 +3,7 @@ name: Build M3U Playlist
 on:
   workflow_dispatch:
   schedule:
-    - cron: "0 * * * *"
+    - cron: "0 * * * *"   # chạy mỗi giờ vào phút thứ 0
 
 jobs:
   build:
@@ -25,13 +25,14 @@ jobs:
       - name: Run biaom.py
         run: python biaom.py
 
-      - name: List files
-        run: ls -R
+      - name: List files (debug)
+        run: ls -R ${{ github.workspace }}
 
       - name: Commit and push m3u
         run: |
           git config --global user.name "github-actions[bot]"
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git status
           git add biaom.m3u
           git commit -m "Update biaom.m3u" || echo "No changes to commit"
           git push
