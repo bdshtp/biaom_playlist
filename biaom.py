@@ -4,7 +4,7 @@ import os
 
 FIXTURES_URL = "https://biaomtv.link/wp-json/s8-live/v1/fixtures"
 DETAIL_URL = "https://biaomtv.link/wp-json/s8-live/v1/fixture/{}"
-OUTPUT_FILE = "biaom_full.m3u"
+OUTPUT_FILE = "biaom.m3u"
 
 VN_TZ = timezone(timedelta(hours=7))
 
