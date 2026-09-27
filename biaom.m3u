@@ -1,29 +1,59 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/israel-18657" group-title="Biaom TV" , 28-09-2026 01:45 ⚽ Israel vs Ireland [SCHEDULED] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk2NzY3MzQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN3ZWd6Ym12N2JhZDg4dWNpd3E5MW1kYg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/norway-18578" group-title="Biaom TV" , 28-09-2026 01:45 ⚽ Na Uy vs Bồ Đào Nha [SCHEDULED] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2ODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmdjM2M5MXhkc3p6aDQwamU4ODRrYXQwcQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/norway-18578" group-title="Biaom TV" , 28-09-2026 01:45 ⚽ Na Uy vs Bồ Đào Nha [SCHEDULED] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2ODQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omx6ZG9iNjhzYjBnZ3d6Y2Fmdm9qc2s4OA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/germany-18660" group-title="Biaom TV" , 28-09-2026 01:45 ⚽ Đức vs Hy Lạp [SCHEDULED] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2ODU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm9yeG5iYmx2Zzh1cnY1Z2gwdXNrZ2d3eA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pumas-unam-2989" group-title="Biaom TV" , 28-09-2026 01:00 ⚽ Pumas UNAM vs Atlético San Luis [SCHEDULED] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTUyMjg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZzc3RoZndkOTh1bWtnbWtoZnFyZjh3MA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gibraltar-27487" group-title="Biaom TV" , 27-09-2026 23:00 ⚽ Gibraltar vs Andorra [SCHEDULED] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk2NzY4MDA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om8wZXg2NGxsNTNtYXNxZ3ViaGFuZG1hbw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-18643" group-title="Biaom TV" , 27-09-2026 23:00 ⚽ Áo vs Kosovo [SCHEDULED] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk2NzY3MzU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omg3Z2lsNXN5YmlycDFyb2VsMWpvM25kaA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/serbia-18873" group-title="Biaom TV" , 27-09-2026 23:00 ⚽ Serbia vs Hà Lan [SCHEDULED] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2ODc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmc4MXNmY3Y5bG12ODFvNjVtM256ZHN1NA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/serbia-18873" group-title="Biaom TV" , 27-09-2026 23:00 ⚽ Serbia vs Hà Lan [SCHEDULED] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2ODc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZrdzdnY2EydWxmd213OXlmODkwYTB0cw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-18583" group-title="Biaom TV" , 27-09-2026 23:00 ⚽ Đan Mạch vs Wales [SCHEDULED] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2ODY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmI3a2VqMGQ1cGx1cDZzM3l4bnVnMzhsaQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lithuania-27065" group-title="Biaom TV" , 27-09-2026 20:00 ⚽ Litva vs Azerbaijan [SCHEDULED] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk2NzY4MDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmg1ZXFzMTBpdm04aGhnaG9zNWJ0cXU1Yg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/china-pr-18599" group-title="Biaom TV" , 27-09-2026 18:35 ⚽ Trung Quốc vs New Zealand [SCHEDULED] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NzIyODk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnYwb3A1MmliYXEydzZqazAydXhpb3RxaQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/china-pr-18599" group-title="Biaom TV" , 27-09-2026 18:35 ⚽ Trung Quốc vs New Zealand [SCHEDULED] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk4NzIyODk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om15OTd2d2l2c3RuczlndzJrcTBjMWMweQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Biaom TV" , 27-09-2026 17:00 ⚽ Gangwon FC vs Incheon United [SCHEDULED] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk2NDgxMDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmY0anNxeWt1MHFjbTQwY3hscmYyc3U5dA/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ea825f6c-5bf7-4871-ab80-8744398f58d1" group-title="Biaom TV" , 27-09-2026 23:30 ⚽ FC Ufa vs Torpedo Moscow (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/ufa-tor-rus1st/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f4822468-2cfb-4774-872f-2e3bb7721dbf" group-title="Biaom TV" , 28-09-2026 00:00 ⚽ Binh Minh Sai Gon vs Thai Nguyen (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/bmsg-thainguyen-vleague2/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/62e8fe8a-2663-45b1-be76-fa524209fa95" group-title="Biaom TV" , 28-09-2026 00:00 ⚽ Gangwon Football Club vs Incheon United (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/gangwon-incheon-k1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e144a99b-be0c-4386-93a1-9cb69835e0f8" group-title="Biaom TV" , 28-09-2026 00:00 ⚽ Cambodia vs Myanmar (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/cam-mya-ffasean/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9faa0b03-79fb-4fd9-9159-aeac5132288f" group-title="Biaom TV" , 28-09-2026 01:00 ⚽ Shaanxi Union vs Dalian K'un City (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/shaa-kun-chnl1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4fd90142-9954-4f38-85d9-f4a91c36564b" group-title="Biaom TV" , 28-09-2026 01:35 ⚽ China vs New Zealand (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/chn-nzl-intfr/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/08f3e2e4-a722-49cd-bfdd-f614650b1849" group-title="Biaom TV" , 28-09-2026 02:00 ⚽ Real Valladolid CF vs Cordoba (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/valla-cordo-spa2nd/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/098b8d62-bfdc-41c0-b2c1-c02732ae8379" group-title="Biaom TV" , 28-09-2026 03:00 ⚽ Lithuania vs Azerbaijan (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/lit-aze-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9178d0c0-cdc6-40cc-95aa-1e41b04c25ec" group-title="Biaom TV" , 28-09-2026 04:00 ⚽ Criciuma vs Avai FC (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/criciu-avai-brasb/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e00867e9-6433-4597-ad10-ceda378425e6" group-title="Biaom TV" , 28-09-2026 04:15 ⚽ RCD Mallorca vs Almeria (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/mallo-almer-spa2nd/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1e0d9a56-6432-44e9-a3c4-73f3b63fd33a" group-title="Biaom TV" , 28-09-2026 05:30 ⚽ Chelsea Women vs Arsenal Women (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/che-ars-wsl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/b03b7d01-a35a-4bbb-8e5f-111cbe1ee79f" group-title="Biaom TV" , 28-09-2026 06:00 ⚽ Serbia vs Netherlands (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/ser-ned-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d2c0ae71-524c-4bb1-bb4c-e1e01a2e61fb" group-title="Biaom TV" , 28-09-2026 06:00 ⚽ Denmark vs Wales (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/den-wal-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d4e800a8-1c96-4cff-a9a0-ff5cf3347deb" group-title="Biaom TV" , 28-09-2026 06:00 ⚽ Austria vs Kosovo (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/aut-kos-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/32792d21-4039-4bb2-b1a5-afc547d31ebe" group-title="Biaom TV" , 28-09-2026 06:00 ⚽ Gibraltar vs Andorra (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/gib-and-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/82b5da94-32e4-42aa-b24d-86d1e98a0234" group-title="Biaom TV" , 28-09-2026 06:30 ⚽ Eibar vs UD Las Palmas (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/eibar-palmas-spa2nd/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9fd75c00-8083-4e51-9b47-13ca861dabff" group-title="Biaom TV" , 28-09-2026 08:00 ⚽ Bahrain vs United Arab Emirates (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/bah-uae-arab/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bc00d975-70ea-4db2-b917-ff90f88a0fd0" group-title="Biaom TV" , 28-09-2026 08:00 ⚽ Pumas U.N.A.M. vs Atletico San Luis (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/pumas-asl-mexliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/74aae8fa-6cb4-4a4c-ab40-c45b13c701f3" group-title="Biaom TV" , 28-09-2026 08:45 ⚽ Germany vs Greece (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/ger-gre-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/80ee3c8b-3366-491b-aee3-0ab1b87c8fb7" group-title="Biaom TV" , 28-09-2026 08:45 ⚽ Norway vs Portugal (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/nor-por-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/01751b10-1df3-4a8d-a4b6-47f872c1ebb6" group-title="Biaom TV" , 28-09-2026 08:45 ⚽ Israel vs Ireland (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/isr-ire-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2ff4d67a-e4ed-43f1-8e3b-439c2170378f" group-title="Biaom TV" , 28-09-2026 09:00 ⚽ Real Oviedo vs Sporting Gijon (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/ovie-gijon-spa2nd/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/40eafaa4-36a5-4968-b342-dcedd9cb9b85" group-title="Biaom TV" , 28-09-2026 11:00 ⚽ Jaguares de Cordoba vs Alianza Fútbol Club (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/columbus-miami-mls/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/40eafaa4-36a5-4968-b342-dcedd9cb9b85" group-title="Biaom TV" , 28-09-2026 11:00 ⚽ Jaguares de Cordoba vs Alianza Fútbol Club (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/cordo-alian-cate/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e299c8ba-13ea-4e19-a2c9-2e5a92f0ef66" group-title="Biaom TV" , 28-09-2026 13:00 ⚽ Columbus Crew vs Inter Miami CF (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/columbus-miami-mls/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3dd252ab-2acb-4cb8-bc3e-ae0967e391e1" group-title="Biaom TV" , 28-09-2026 13:00 ⚽ Haiti vs Costa Rica (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/hai-cos-concacafnl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/077728eb-4993-4beb-a86b-c0f74b83d99f" group-title="Biaom TV" , 28-09-2026 13:05 ⚽ Fortaleza F.C vs Deportes Tolima (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/forta-tolima-cate/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="Biaom TV" , 28-09-2026 15:00 ⚽ Club Leon vs FC Juarez (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/leon-%20juarez-mexliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Biaom TV" , 28-09-2026 17:10 ⚽ Necaxa vs Club America (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/neca-camer-mexliga/index.m3u8
