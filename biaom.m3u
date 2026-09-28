@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e299c8ba-13ea-4e19-a2c9-2e5a92f0ef66" group-title="Sắp diễn ra" , 28-09-2026 13:00 ⚽ Columbus Crew vs Inter Miami CF (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/columbus-miami-mls/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/077728eb-4993-4beb-a86b-c0f74b83d99f" group-title="Sắp diễn ra" , 28-09-2026 13:05 ⚽ Fortaleza F.C vs Deportes Tolima (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/forta-tolima-cate/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="Sắp diễn ra" , 28-09-2026 15:00 ⚽ Club Leon Women vs FC Juarez Women (NGƯỜI NẶN)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="Sắp diễn ra" , 28-09-2026 15:00 ⚽ Club Leon vs FC Juarez (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/leonw-juarezw-mexligaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 28-09-2026 17:10 ⚽ Necaxa Women vs Club America (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/neca-camer-mexliga/index.m3u8
@@ -65,8 +61,6 @@ https://hls.lauthaitv.cc/live/rom-bih-uefanl/index.m3u8
 https://hls.lauthaitv.cc/live/bot-tun-afcon/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/5288b1d6-9e78-4223-8223-429f6a522696" group-title="Sắp diễn ra" , 29-09-2026 11:00 ⚽ Cuba vs Bonaire (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/cub-bon-concacafnl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a7fde817-1251-45c0-a7c2-5fea975ab599" group-title="Sắp diễn ra" , 29-09-2026 13:00 ⚽ Club Leon Women vs Club America Women (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/leonw-americaw-mexligaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/be756058-685b-4d5f-8962-c75e7eb90a70" group-title="Sắp diễn ra" , 29-09-2026 14:00 ⚽ Jamaica vs Honduras (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/jam-hon-concacafnl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 29-09-2026 15:06 ⚽ Necaxa Women vs Toluca Women (NGƯỜI NẶN)
