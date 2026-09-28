@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Latvia vs Síp [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnc3NnVuY2V3MjRvaXQ4cG53MXhqdHUyNg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Latvia vs Síp [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmF0MHd4eGdvN3dyNjRubjV4ZGcwem5tMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Armenia vs Montenegro [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3ODM6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnRvNWQxeW91dGx1MGtvcWxwNmIwMDI1cQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/georgia-18692" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Georgia vs Ukraine [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3MzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmd5OTByMnVzdWQyajB6NDI0OGVjMXhicw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-u21-60072" group-title="Đang phát" , 28-09-2026 23:30 ⚽ Đan Mạch U21 vs Belarus U21 [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTkzODU1Mjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9tMDRwdmc0cjJwZWp2emtqcDFmbHZpZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-18743" group-title="Đang phát" , 29-09-2026 01:45 ⚽ Bỉ vs Pháp [LIVE] (Vịt Nướng)
@@ -23,12 +15,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZ
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnY0bDc3cjRkcGtjcWRpd214ZGhzOGt2aQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/cb95ef66-9ebf-4f5b-8383-91d59ef053ae" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Zimbabwe vs CHDC Congo (NGƯỜI CHÈ)
 https://hls.lauthaitv.cc/live/zim-cod-afcon/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/72e46c35-e89f-4f3d-8c31-0d7e4716d602" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Georgia vs Ukraine (NGƯỜI DÊ)
-https://hls.lauthaitv.cc/live/geo-ukr-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/11f53b2a-3c94-48a6-acd8-973549e20394" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Armenia vs Montenegro (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/arm-mon-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c9841036-8abf-4b89-8904-438b3c48065f" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Latvia vs Cyprus (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/lat-cyp-uefanl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/28691872-b4d4-4ebc-8dfc-933559765685" group-title="Sắp diễn ra" , 29-09-2026 08:30 ⚽ CD Leganes vs Castellon (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/legan-caste-spa2nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="Sắp diễn ra" , 29-09-2026 08:45 ⚽ Belgium vs France (NGƯỜI CAT)
