@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-u21-60072" group-title="Đang phát" , 28-09-2026 23:30 ⚽ Đan Mạch U21 vs Belarus U21 [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTkzODU1Mjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9tMDRwdmc0cjJwZWp2emtqcDFmbHZpZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-18743" group-title="Đang phát" , 29-09-2026 01:45 ⚽ Bỉ vs Pháp [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmY1NXd1cnV1eGM3ZXR2cW1mNzVxNmgzdw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-18564" group-title="Đang phát" , 29-09-2026 01:45 ⚽ Thụy Điển vs Ba Lan [LIVE] (NEM NƯỚNG )
@@ -13,8 +11,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MzI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmI
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZqdjl5OWRpazZhMTNwenR3cmZqb3FtNA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belgium-18743" group-title="Đang phát" , 29-09-2026 01:45 ⚽ Bỉ vs Pháp [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2ODM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnY0bDc3cjRkcGtjcWRpd214ZGhzOGt2aQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/cb95ef66-9ebf-4f5b-8383-91d59ef053ae" group-title="Sắp diễn ra" , 29-09-2026 06:00 ⚽ Zimbabwe vs CHDC Congo (NGƯỜI CHÈ)
-https://hls.lauthaitv.cc/live/zim-cod-afcon/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/28691872-b4d4-4ebc-8dfc-933559765685" group-title="Sắp diễn ra" , 29-09-2026 08:30 ⚽ CD Leganes vs Castellon (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/legan-caste-spa2nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="Sắp diễn ra" , 29-09-2026 08:45 ⚽ Belgium vs France (NGƯỜI CAT)
