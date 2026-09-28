@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/japan-18597" group-title="Đang phát" , 28-09-2026 17:25 ⚽ Nhật Bản vs Venezuela [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3ODM2NTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmpkZncwY2dxOWV5MGoxdm50YTc5bXhwMg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" group-title="Đang phát" , 28-09-2026 18:00 ⚽ Hàn Quốc vs Uruguay [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3OTMxMTE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ong4OWJnM2d0bXV2ZmRqc3dxdnhuNzNxYw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/korea-republic-18567" group-title="Đang phát" , 28-09-2026 18:00 ⚽ Hàn Quốc vs Uruguay [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3OTMxMTE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmE4Znl5enJjeXVnanFpbXM2cmFlajVjeg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Latvia vs Síp [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnc3NnVuY2V3MjRvaXQ4cG53MXhqdHUyNg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="Đang phát" , 28-09-2026 23:00 ⚽ Latvia vs Síp [LIVE] (NEM NƯỚNG )
@@ -15,10 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3ODM6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnR
 https://cdnhls.xbdbotv.live/live/MTk2NzY3MzM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmd5OTByMnVzdWQyajB6NDI0OGVjMXhicw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-u21-60072" group-title="Đang phát" , 28-09-2026 23:30 ⚽ Đan Mạch U21 vs Belarus U21 [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTkzODU1Mjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9tMDRwdmc0cjJwZWp2emtqcDFmbHZpZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c8aa8c48-ef22-467c-b88b-4c42811ede03" group-title="Sắp diễn ra" , 29-09-2026 00:25 ⚽ Japan vs Venezuela (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/jpn-ven-intcf/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="Sắp diễn ra" , 29-09-2026 01:00 ⚽ South Korea vs Uruguay (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/kor-uru-intcf/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sweden-18564" group-title="Đang phát" , 29-09-2026 01:45 ⚽ Thụy Điển vs Ba Lan [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk2NzY3MzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omc4aTA3eGozNzlyc2V0emFidGQ2aWlrcg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/romania-18638" group-title="Đang phát" , 29-09-2026 01:45 ⚽ Romania vs Bosnia và Herzegovina [LIVE] (TÔM CHIÊN)
@@ -61,3 +51,21 @@ https://hls.lauthaitv.cc/live/jam-hon-concacafnl/index.m3u8
 https://hls.lauthaitv.cc/live/necaw-toluw-mexligaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/14fd4734-359a-433a-affb-00a8845720e0" group-title="Sắp diễn ra" , 29-09-2026 16:00 ⚽ Guatemala vs El Salvador (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/gua-sal-concacafnl/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Úc vs Brazil [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk3MzE0ODU6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om1wYW5uMzFjam5wcDMwY3B3eTNkb3B4cg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/montedio-yamagata-14834" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Montedio Yamagata vs Yokohama F. Marinos [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk3MjQ2MjY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnduYmU1a2g1dWVqdHFjNHAxbnE4aWo5NQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/consadole-sapporo-2685" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Consadole Sapporo vs Fagiano Okayama [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk3MjQ2MjM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJpd20xdzh3cGc0M3Z3ZGVoaXNrenpqeA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fujieda-myfc-18272" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Fujieda MYFC vs Cerezo Osaka [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MjQ2MTc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnhyYXJibG01NjdxZXBzcnA1aTBmeDJmZg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" group-title="Đang phát" , 29-09-2026 19:30 ⚽ Thái Lan vs Việt Nam [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4ODM4Nzc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnQ3MHI4c3E2dWhtbGpvcTh5a3U5cGZocg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/norway-u21-60074" group-title="Đang phát" , 29-09-2026 23:00 ⚽ Na Uy U21 vs Bosnia-Herzegovina U21 [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTkzODU0ODk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZsbHBpMHYzOGtlNTZmb2U0dWc5OThreQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/estonia-u21-60057" group-title="Đang phát" , 29-09-2026 23:00 ⚽ Estonia U21 vs Pháp U21 [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTkzODUzNzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnJrMHJzd3ZlamgyNTFjbng4b2JoN2x3dQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/finland-18570" group-title="Đang phát" , 29-09-2026 23:00 ⚽ Phần Lan vs Belarus [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3ODE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm90d3pjNHpqeGIzZ3NxdXl3bXdibnljYg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/moldova-18778" group-title="Đang phát" , 29-09-2026 23:00 ⚽ Moldova vs Quần đảo Faroe [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3Nzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnk5dXF6dGxha2Y3bXhhenF4ZGJzc2s4aw/index.m3u8
