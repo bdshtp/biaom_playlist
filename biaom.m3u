@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Úc vs Brazil [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MzE0ODU6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om1wYW5uMzFjam5wcDMwY3B3eTNkb3B4cg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/montedio-yamagata-14834" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Montedio Yamagata vs Yokohama F. Marinos [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MjQ2MjY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnduYmU1a2g1dWVqdHFjNHAxbnE4aWo5NQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/consadole-sapporo-2685" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Consadole Sapporo vs Fagiano Okayama [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3MjQ2MjM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJpd20xdzh3cGc0M3Z3ZGVoaXNrenpqeA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fujieda-myfc-18272" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Fujieda MYFC vs Cerezo Osaka [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MjQ2MTc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnhyYXJibG01NjdxZXBzcnA1aTBmeDJmZg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" group-title="Đang phát" , 29-09-2026 19:30 ⚽ Thái Lan vs Việt Nam [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4ODM4Nzc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnQ3MHI4c3E2dWhtbGpvcTh5a3U5cGZocg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/norway-u21-60074" group-title="Đang phát" , 29-09-2026 23:00 ⚽ Na Uy U21 vs Bosnia-Herzegovina U21 [LIVE] (NEM NƯỚNG )
@@ -17,12 +9,8 @@ https://cdnhls.xbdbotv.live/live/MTkzODUzNzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnJ
 https://cdnhls.xbdbotv.live/live/MTk2NzY3ODE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm90d3pjNHpqeGIzZ3NxdXl3bXdibnljYg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/moldova-18778" group-title="Đang phát" , 29-09-2026 23:00 ⚽ Moldova vs Quần đảo Faroe [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3Nzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnk5dXF6dGxha2Y3bXhhenF4ZGJzc2s4aw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f4d17ec9-f5d8-4cb5-b933-5295f285cc12" group-title="Sắp diễn ra" , 29-09-2026 23:00 ⚽ Philippines vs Pakistan (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/phi-pak-ffasean/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/b922d3fe-526d-4bfe-84d2-e1bae40eb9bc" group-title="Sắp diễn ra" , 30-09-2026 00:00 ⚽ Australia vs Brazil (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/aus-bra-intfr/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/848d8dc3-cad0-4db5-b102-5a5bef0803b5" group-title="Sắp diễn ra" , 30-09-2026 00:00 ⚽ Roasso Kumamoto vs Kawasaki Frontale (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/kuma-kawa-jcup/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c8aa8c48-ef22-467c-b88b-4c42811ede03" group-title="Sắp diễn ra" , 30-09-2026 00:30 ⚽ Japan Women vs South Korea Women (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/jpn-kor-asiadw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bulgaria-18690" group-title="Đang phát" , 30-09-2026 01:45 ⚽ Bulgaria vs Estonia [LIVE] (TRÚC BẠCH)
@@ -39,6 +27,8 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2ODE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl
 https://hls.lauthaitv.cc/live/tha-vie-asiad-cat/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9deb6aa1-28d7-4001-96e0-0ac540fee953" group-title="Sắp diễn ra" , 30-09-2026 02:30 ⚽ Thailand vs Viet Nam (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/tha-vie-asiad-nan/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9deb6aa1-28d7-4001-96e0-0ac540fee953" group-title="Sắp diễn ra" , 30-09-2026 02:30 ⚽ Thailand vs Viet Nam (BLV BÚA TẠ)
+https://hls.lauthaitv.cc/live/tha-vie-ffasean-buata/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2af33cba-1023-4185-8748-b275ea7ccd0f" group-title="Sắp diễn ra" , 30-09-2026 03:00 ⚽ Ethiopia vs Senegal (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/eth-sen-cafnc/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a2f9a055-9767-4915-98d4-e1fca1c9e9a7" group-title="Sắp diễn ra" , 30-09-2026 03:00 ⚽ Lesotho vs Morocco (NGƯỜI PHÁO)
