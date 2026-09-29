@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 29-09-2026 15:06 ⚽ Necaxa Women vs Toluca Women (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/necaw-toluw-mexligaw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/14fd4734-359a-433a-affb-00a8845720e0" group-title="Sắp diễn ra" , 29-09-2026 16:00 ⚽ Guatemala vs El Salvador (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/gua-sal-concacafnl/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/australia-18730" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Úc vs Brazil [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk3MzE0ODU6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om1wYW5uMzFjam5wcDMwY3B3eTNkb3B4cg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/montedio-yamagata-14834" group-title="Đang phát" , 29-09-2026 17:00 ⚽ Montedio Yamagata vs Yokohama F. Marinos [LIVE] (SAPPORO)
