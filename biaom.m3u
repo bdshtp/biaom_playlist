@@ -1,14 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6a502244-abd2-48ef-8167-a5b00a48a174" group-title="Sắp diễn ra" , 30-09-2026 20:00 ⚽ Vietnam U16 vs Kyrgyzstan U16 (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/vie-kyr-peaceu16/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1f891b98-8ce7-41f2-afe7-b54acff5b9cf" group-title="Sắp diễn ra" , 30-09-2026 22:00 ⚽ Khovd Broncos vs FC Ulaanbaatar (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/bronn-ulaan-mglprem/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malta-u21-132968" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Malta U21 vs Đức U21 [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTkzODU0Njg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmkwbnN6dGZyanNvY3p3aDQzbTA1MTB4ZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-u21-60070" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Cộng hòa Séc U21 vs Bulgaria U21 [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTkzODUzNDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndycDlwNXFvOTZ0bHFldWJxc28xZWk4aw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d6a94c86-8169-4170-b078-796b48d4e083" group-title="Sắp diễn ra" , 30-09-2026 23:00 ⚽ Timor Leste vs Cambodia (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/tim-cam-ffasean/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="Đang phát" , 30-09-2026 23:45 ⚽ Paris W vs Arsenal W [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmlkaWd0azN6YTJxMTUyd2Z0OWhpcjA3Ng/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Đang phát" , 30-09-2026 23:45 ⚽ BK Häcken W vs Juventus W [LIVE] (TÔM CHIÊN)
