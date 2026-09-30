@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Sắp diễn ra" , 30-09-2026 14:00 ⚽ USA vs Chile (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/usa-chi-intfr/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="Sắp diễn ra" , 30-09-2026 15:00 ⚽ Mexico vs Peru (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/mex-per-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="Sắp diễn ra" , 30-09-2026 20:00 ⚽ South Korea U23 vs China U23 (NGƯỜI BẠC)
 https://hls.lauthaitv.cc/live/kor-chn-asiad/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6a502244-abd2-48ef-8167-a5b00a48a174" group-title="Sắp diễn ra" , 30-09-2026 20:00 ⚽ Vietnam U16 vs Kyrgyzstan U16 (NGƯỜI SẮT)
