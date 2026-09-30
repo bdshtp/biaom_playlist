@@ -1,18 +1,14 @@
 #EXTM3U
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/poland-u21-60056" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Ba Lan U21 vs Thụy Điển U21 [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTkzODU0Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZhMnp5b3Z5Nm5ndjJrcXl0NWpvNmRyZg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malta-u21-132968" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Malta U21 vs Đức U21 [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTkzODU0Njg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmkwbnN6dGZyanNvY3p3aDQzbTA1MTB4ZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-u21-60070" group-title="Đang phát" , 30-09-2026 23:00 ⚽ Cộng hòa Séc U21 vs Bulgaria U21 [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTkzODUzNDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndycDlwNXFvOTZ0bHFldWJxc28xZWk4aw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="Đang phát" , 30-09-2026 23:45 ⚽ Paris W vs Arsenal W [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmlkaWd0azN6YTJxMTUyd2Z0OWhpcjA3Ng/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Đang phát" , 30-09-2026 23:45 ⚽ BK Häcken W vs Juventus W [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9mczJwZHdsbTRyZDlhOWNrbXUxZnNxaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-w-230721" group-title="Đang phát" , 30-09-2026 23:45 ⚽ AS Roma W vs Barcelona W [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOms0YXJsOWZrdDFmY3dkY29nenh1dmJ0dA/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/28cf0197-7a6e-4fa2-abbf-fd0415225940" group-title="Sắp diễn ra" , 01-10-2026 03:30 ⚽ FC Vsetin vs Bohemians FC (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/vsetin-bohem-czecup/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/46adbaf8-5b39-42fb-9590-51d587f7fbb3" group-title="Sắp diễn ra" , 01-10-2026 04:00 ⚽ Aktobe W vs Ajax Amsterdam Women (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/follo-sarps-norcup/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f4453e4f-5019-4ad8-a013-7f1f66e58d02" group-title="Sắp diễn ra" , 01-10-2026 06:00 ⚽ Eritrea vs South Africa (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/eri-southafrica-cafcon/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/8390cd0d-a66e-413e-a729-0d9271961c92" group-title="Sắp diễn ra" , 01-10-2026 06:45 ⚽ AS Roma Women vs Barcelona Women (NGƯỜI SÓI)
