@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/azerbaijan-18623" group-title="Đang phát" , 01-10-2026 23:00 ⚽ Azerbaijan vs Liechtenstein [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3OTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm40ajQwaDdiNnpzcTYzNHY4MGwzd2c1dg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/azerbaijan-18623" group-title="Đang phát" , 01-10-2026 23:00 ⚽ Azerbaijan vs Liechtenstein [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3OTk6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnRteXJxZ2M1ZGF0ZWp0NzUzemdnYzRjag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kge-239407" group-title="Đang phát" , 01-10-2026 23:45 ⚽ Køge vs Servette Chênois W [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1Mjk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnBnOHN1Ymw3OGRlZ2F4aGZvOGQydjZyeA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" group-title="Đang phát" , 01-10-2026 23:45 ⚽ Austria Wien W vs Inter Milano W [LIVE] (TRÚC BẠCH)
@@ -19,10 +15,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp
 https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnFibHJoZTl6b25neDcxNmw4dmF1N3JraQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/denmark-18583" group-title="Đang phát" , 02-10-2026 01:45 ⚽ Đan Mạch vs Bồ Đào Nha [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2Nzc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmVkN3Z3dTZtejFkeXJ5c2N4dGVpb2Y4OA/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/accd2c7a-85ed-4ff1-9479-8a578f1bbb4a" group-title="Sắp diễn ra" , 02-10-2026 06:00 ⚽ Azerbaijan vs Liechtenstein (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/aze-lie-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/b9002433-34d5-46f3-8363-68296602d8ba" group-title="Sắp diễn ra" , 02-10-2026 06:00 ⚽ Guinea vs Kenya (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/gui-ken-afcon/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/59c74f96-27db-4ee5-b279-85016db24240" group-title="Sắp diễn ra" , 02-10-2026 06:45 ⚽ Austria Wien Women vs Inter Milan Women (NGƯỜI DÊ)
 https://hls.lauthaitv.cc/live/austria-inter-c1w/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d2c0ae71-524c-4bb1-bb4c-e1e01a2e61fb" group-title="Sắp diễn ra" , 02-10-2026 08:45 ⚽ Denmark vs Portugal (NGƯỜI CAT)
@@ -59,3 +51,5 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3NzU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmV
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZuZm1xZXo0aDZ1Mjl1MTR5ZW5nOGgxOQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cyprus-18626" group-title="Đang phát" , 02-10-2026 23:00 ⚽ Síp vs Armenia [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmwyYjBwMWFwa2tub2Zod3l5eGVocHRmcg/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9b911583-dfec-4e4e-b76d-86fd6d14bc71" group-title="Sắp diễn ra" , 02-10-2026 23:00 ⚽ Viet Nam vs Pakistan (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/vie-pak-ffasean/index.m3u8
