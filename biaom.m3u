@@ -59,5 +59,7 @@ https://hls.lauthaitv.cc/live/cap-plata-copaarg/index.m3u8
 https://hls.lauthaitv.cc/live/bogota-caldas-cate/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6913fd7e-1fcb-4a9e-95de-89848e2a266b" group-title="Sắp diễn ra" , 02-10-2026 15:30 ⚽ Seattle Sounders vs Sporting Kansas City (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/seattle-kansas-mls/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thailand-18593" group-title="Đang phát" , 02-10-2026 16:00 ⚽ Thái Lan vs Philippines [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk4ODM4ODA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om1zZmIxeHhkOTRheGV1MGI5ZHZ0NDR0MQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="Sắp diễn ra" , 02-10-2026 16:00 ⚽ Nicaragua vs Costa Rica (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/nic-cos-concacaf/index.m3u8
