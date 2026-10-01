@@ -29,4 +29,37 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3NzQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Omw
 https://hls.lauthaitv.cc/live/vie-pak-ffasean/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9deb6aa1-28d7-4001-96e0-0ac540fee953" group-title="Sắp diễn ra" , 02-10-2026 23:00 ⚽ Thailand vs Philippines (NGƯỜI BẠC)
 https://hls.lauthaitv.cc/live/tha-phi-ffasean/index.m3u8
-#EXTINF:-1 , 03-10-2026 00:30 ⚽ North Korea Women vs Japan Women (NGƯỜI THỎ)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/eddadc74-b6d1-4755-b54c-771d8980df8f" group-title="Sắp diễn ra" , 03-10-2026 00:30 ⚽ North Korea Women vs Japan Women (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/pkr-jpn-asiadw/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6954d174-3fb1-41d7-a2cf-b6a6494fb3ba" group-title="Sắp diễn ra" , 03-10-2026 01:00 ⚽ South Korea vs Venezuela (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/kor-ven-intfr/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4fd90142-9954-4f38-85d9-f4a91c36564b" group-title="Sắp diễn ra" , 03-10-2026 01:35 ⚽ China vs Palestine (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/chn-pal-intfr/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/94d7c487-e591-47e8-b44c-ec7f2cc82799" group-title="Sắp diễn ra" , 03-10-2026 03:15 ⚽ Al Wasl SC vs Ittihad Kalba FC (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/wasl-kalba-uae/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1e1196ad-2781-4b72-84ed-2bedfe7c6749" group-title="Sắp diễn ra" , 03-10-2026 04:00 ⚽ Kazakhstan vs Moldova (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/kaz-mol-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6632daa0-788b-4421-ae5d-ab64247f5073" group-title="Sắp diễn ra" , 03-10-2026 05:45 ⚽ Shabab Al Ahli vs Al-Nasr Dubai (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/shabab-alnasr-uae/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/05645db4-3a1d-47e5-91d1-071a04fe9672" group-title="Sắp diễn ra" , 03-10-2026 06:00 ⚽ Cyprus vs Armenia (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/cyp-arm-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c9841036-8abf-4b89-8904-438b3c48065f" group-title="Sắp diễn ra" , 03-10-2026 06:00 ⚽ Latvia vs Montenegro (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/lat-mon-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/23d6c9a1-6b45-4db3-9769-0d08b0b96e5f" group-title="Sắp diễn ra" , 03-10-2026 08:30 ⚽ Eldense vs Real Oviedo (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/eldense-oviedo-spa2nd/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a918e2e8-479a-4a9d-8c26-a0a7b2612652" group-title="Sắp diễn ra" , 03-10-2026 08:45 ⚽ France vs Italia (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/fra-ita-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="Sắp diễn ra" , 03-10-2026 08:45 ⚽ Belgium vs Turkey (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/bel-tur-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a804ddec-1dc7-432d-b1bd-57fe7fe78aeb" group-title="Sắp diễn ra" , 03-10-2026 08:45 ⚽ Bosnia-Herzegovina vs Sweden (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/bih-swe-uefanl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f22246d5-fa6c-4182-a18b-2f88f09e5ebf" group-title="Sắp diễn ra" , 03-10-2026 12:15 ⚽ CA Independiente vs Instituto de Córdoba (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/cainde-ordoba-argdiv1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="Sắp diễn ra" , 03-10-2026 13:00 ⚽ Sao Paulo vs Santos FC (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/saopaulo-santos-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6edf5d9a-fd8c-436a-b119-b87de6cce365" group-title="Sắp diễn ra" , 03-10-2026 14:00 ⚽ Colombia vs Paraguay (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/col-par-intfr/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2892d848-829b-4ac7-83e6-659bec7bbd50" group-title="Sắp diễn ra" , 03-10-2026 16:00 ⚽ El Salvador vs Jamaica (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/sal-jam-concacaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/509cfb1e-9501-492b-8d5e-621efb440523" group-title="Sắp diễn ra" , 03-10-2026 17:00 ⚽ Monterrey Women vs Club America Women (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/monte-camer-mexligaw/index.m3u8
