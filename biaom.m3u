@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/45e9d15f-1bac-40a4-a235-5256c2321b07" group-title="Sắp diễn ra" , 01-10-2026 13:30 ⚽ New York Red Bulls vs St.Louis City (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/nyrb-stlouis-mls/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="Sắp diễn ra" , 01-10-2026 14:00 ⚽ Argentina vs Bolivia (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/arg-bol-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 01-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Atletico Junior Barranquilla (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/medellin-barran-cate/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaysia-18615" group-title="Đang phát" , 01-10-2026 19:30 ⚽ Malaysia vs Singapore [LIVE] (NEM NƯỚNG )
