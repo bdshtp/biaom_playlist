@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d2c0ae71-524c-4bb1-bb4c-e1e01a2e61fb" group-title="Sắp diễn ra" , 02-10-2026 08:45 ⚽ Denmark vs Portugal (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/den-por-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9503f45e-a556-4e08-a617-d0d289d48c03" group-title="Sắp diễn ra" , 02-10-2026 08:45 ⚽ Greece vs Netherlands (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/gre-ned-uefanl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/cadce54e-ab9a-4c22-971f-663dec6a0b03" group-title="Sắp diễn ra" , 02-10-2026 12:00 ⚽ Curacao vs Trinidad & Tobago (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/cur-tat-concacaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d9c02d82-9011-4c34-a9b0-7eb36e5444e3" group-title="Sắp diễn ra" , 02-10-2026 13:30 ⚽ Athletic Club vs Sport Club do Recife (NGƯỜI NẶN)
@@ -21,6 +17,8 @@ https://cdnhls.xbdbotv.live/live/MTk4ODM4ODA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om1
 https://hls.lauthaitv.cc/live/nic-cos-concacaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/north-korea-w-149606" group-title="Đang phát" , 02-10-2026 17:30 ⚽ Triều Tiên nữ vs Nhật Bản nữ [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk4ODY1NzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmlqMHh6NXI2eTltM2NzbG9pZXp4OXk5ag/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/71c8f477-0dfd-450a-980c-45839d2d95ed" group-title="Sắp diễn ra" , 02-10-2026 20:00 ⚽ China Women vs South Korea Women (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/chn-kor-asiadw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kazakhstan-18603" group-title="Đang phát" , 02-10-2026 21:00 ⚽ Kazakhstan vs Moldova [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrOXh6ZXdjbzR4eHZjc2lieGZvbGk2Zw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/latvia-18735" group-title="Đang phát" , 02-10-2026 23:00 ⚽ Latvia vs Montenegro [LIVE] (Lẩu Ếch)
@@ -29,3 +27,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZ
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmwyYjBwMWFwa2tub2Zod3l5eGVocHRmcg/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9b911583-dfec-4e4e-b76d-86fd6d14bc71" group-title="Sắp diễn ra" , 02-10-2026 23:00 ⚽ Viet Nam vs Pakistan (NGƯỜI CAT)
 https://hls.lauthaitv.cc/live/vie-pak-ffasean/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9deb6aa1-28d7-4001-96e0-0ac540fee953" group-title="Sắp diễn ra" , 02-10-2026 23:00 ⚽ Thailand vs Philippines (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/tha-phi-ffasean/index.m3u8
+#EXTINF:-1 , 03-10-2026 00:30 ⚽ North Korea Women vs Japan Women (NGƯỜI THỎ)
