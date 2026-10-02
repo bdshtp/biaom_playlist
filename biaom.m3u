@@ -1,11 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a918e2e8-479a-4a9d-8c26-a0a7b2612652" group-title="Sắp diễn ra" , 03-10-2026 08:45 ⚽ France vs Italia (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/fra-ita-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bee37761-53b3-4142-819d-e15ec5ce5f13" group-title="Sắp diễn ra" , 03-10-2026 08:45 ⚽ Belgium vs Turkey (NGƯỜI DÊ)
-https://hls.lauthaitv.cc/live/bel-tur-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a804ddec-1dc7-432d-b1bd-57fe7fe78aeb" group-title="Sắp diễn ra" , 03-10-2026 08:45 ⚽ Bosnia-Herzegovina vs Sweden (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/bih-swe-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f22246d5-fa6c-4182-a18b-2f88f09e5ebf" group-title="Sắp diễn ra" , 03-10-2026 12:15 ⚽ CA Independiente vs Instituto de Córdoba (NGƯỜI PHÁO)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f22246d5-fa6c-4182-a18b-2f88f09e5ebf" group-title="Sắp diễn ra" , 03-10-2026 12:15 ⚽ CA Independiente vs Instituto de Córdoba (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/cainde-ordoba-argdiv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="Sắp diễn ra" , 03-10-2026 13:00 ⚽ Sao Paulo vs Santos FC (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/saopaulo-santos-brasa/index.m3u8
@@ -17,8 +11,8 @@ https://hls.lauthaitv.cc/live/sal-jam-concacaf/index.m3u8
 https://cdnhls.xbdbotv.live/live/MTk3NDU0NzI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmpwbjZxeDc4dm9rdnJ5cW1qNGVmNGNiMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/509cfb1e-9501-492b-8d5e-621efb440523" group-title="Sắp diễn ra" , 03-10-2026 17:00 ⚽ Monterrey Women vs Club America Women (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/monte-camer-mexligaw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/0797f3c8-1541-40b8-bd30-a52baf4cf7dc" group-title="Sắp diễn ra" , 03-10-2026 19:00 ⚽ Australia U23 vs South Korea U23 (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/aus-kor-intu23/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1cb28af9-fb7e-40c2-8002-55a867224b4f" group-title="Sắp diễn ra" , 03-10-2026 19:00 ⚽ Albirex Niigata FC vs Tokushima Vortis (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/niigita-vortis-j2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/finland-18570" group-title="Đang phát" , 03-10-2026 20:00 ⚽ Phần Lan vs Albania [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmR0Y25xZ295YXNwbjJ2enpjdHNndXkzYQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/377a0e78-7ffe-4d72-bcd5-b18822eabb3e" group-title="Sắp diễn ra" , 03-10-2026 20:00 ⚽ China U23 vs Uzbekistan U23 (NGƯỜI NẶN)
