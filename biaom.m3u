@@ -5,10 +5,6 @@ https://cdnhls.xbdbotv.live/live/MTk3NDU0NzI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omp
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NzE6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmR0Y25xZ295YXNwbjJ2enpjdHNndXkzYQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/india-18609" group-title="Đang phát" , 03-10-2026 21:00 ⚽ Ấn Độ vs Brazil [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3ODY0NTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmo2ZjMzZmRuNnA0OW1vNTdoZ2p0cDMycQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/813bdd8b-2d0c-4a07-977d-b268e4968433" group-title="Sắp diễn ra" , 03-10-2026 21:00 ⚽ Machida Zelvia vs Kyoto Sanga (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/zelvia-sanga-jlcup/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/954d2cfa-6abd-443a-9abc-f4f82b5f899e" group-title="Sắp diễn ra" , 03-10-2026 22:00 ⚽ Oita Trinita vs Montedio Yamagata FC (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/oita-monte-j2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/iceland-18635" group-title="Đang phát" , 03-10-2026 23:00 ⚽ Iceland vs Bulgaria [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3Njg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmEwZGlvazBtcmNtb3FtdGgyY214dnRncQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/estonia-18697" group-title="Đang phát" , 03-10-2026 23:00 ⚽ Estonia vs Luxembourg [LIVE] (SAPPORO)
@@ -75,3 +71,5 @@ https://hls.lauthaitv.cc/live/arg-bur-intfr/index.m3u8
 https://hls.lauthaitv.cc/live/usa-mex-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 04-10-2026 17:10 ⚽ Necaxa Women vs Cruz Azul Women (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/neca-cruz-mexligaw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Đang phát" , 10-10-2026 01:30 ⚽ Borussia Dortmund vs Werder Bremen [LIVE] (TEST SPORT STREAM )
+https://cdnhls.xbdbotv.live/live/MTk3MzUxNjE6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnJ0cmJmeGZoa2dweGt0M2dnYTJ6b3k0cw/index.m3u8
