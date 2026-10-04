@@ -1,16 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 04-10-2026 17:10 ⚽ Necaxa Women vs Cruz Azul Women (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/neca-cruz-mexligaw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/81864da1-af75-44e1-ae9b-ca08a628015e" group-title="Sắp diễn ra" , 04-10-2026 18:00 ⚽ Hokkaido Consadole Sapporo vs Iwaki FC (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/hokkai-iwaki-j2/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/932faf00-a422-4b20-9e9a-460a99512a91" group-title="Sắp diễn ra" , 04-10-2026 19:00 ⚽ Blaublitz Akita vs Sagan Tosu (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/blau-sagan-j2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/azerbaijan-18623" group-title="Đang phát" , 04-10-2026 20:00 ⚽ Azerbaijan vs Litva [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3OTc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1rZ2F1ZDZ3N2t1cTJpd2lnYzN0cnVwaw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bcc2d551-3a2f-4ce4-bae9-4199bfa5f680" group-title="Sắp diễn ra" , 04-10-2026 20:00 ⚽ Vegalta Sendai vs Jubilo Iwata (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/vega-jubi-j2/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/0bbebc73-46f4-4f67-8bff-28714308bb5b" group-title="Sắp diễn ra" , 04-10-2026 22:00 ⚽ Deren FC vs Khovd Broncos (NGƯỜI DÊ)
-https://hls.lauthaitv.cc/live/deren-khovd-mglprem/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kosovo-27488" group-title="Đang phát" , 04-10-2026 23:00 ⚽ Kosovo vs Áo [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3MTk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm5qNXNseGNhb2J2MTkyNGEwdDNlZ2o5cA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malta-18691" group-title="Đang phát" , 04-10-2026 23:00 ⚽ Malta vs Andorra [LIVE] (Lẩu Ếch)
