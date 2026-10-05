@@ -1,20 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaysia-18615" group-title="Đang phát" , 05-10-2026 16:00 ⚽ Malaysia vs Việt Nam [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk4ODk4MjI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmxuZ2VudTVpdmxjajM5MDh0Z3BrYXJraQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaysia-18615" group-title="Đang phát" , 05-10-2026 16:00 ⚽ Malaysia vs Việt Nam [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk4ODk4MjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnA0d3RqZXA5cTQ5d3gydHlvMWRicmNwbw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/indonesia-18705" group-title="Đang phát" , 05-10-2026 20:00 ⚽ Indonesia vs Thái Lan [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4ODk4MjM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnphODFrdXdueDBiNjYxczR4ZDVpdDBudw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2c3a98b9-d786-4b9a-9943-728cf2df3036" group-title="Sắp diễn ra" , 05-10-2026 20:30 ⚽ Ecuador vs Panama (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/ecu-pan-jpnkirin/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/0a91c8f8-74ec-4d51-bf2c-68b7a8e22728" group-title="Sắp diễn ra" , 05-10-2026 22:00 ⚽ Hunters FC vs Amtat FC (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/hunter-amtat-mglprem/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cyprus-18626" group-title="Đang phát" , 05-10-2026 23:00 ⚽ Síp vs Latvia [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3Njc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnM0dnh0Z2VibGcydXdkZnI4ZnFidGdtMw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/7054295b-eeb6-4e4e-ab07-1b49db397d04" group-title="Sắp diễn ra" , 05-10-2026 23:00 ⚽ Malaysia vs Viet Nam (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/mal-vie-ffasean-cat/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/7054295b-eeb6-4e4e-ab07-1b49db397d04" group-title="Sắp diễn ra" , 05-10-2026 23:00 ⚽ Malaysia vs Viet Nam (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/mal-vie-ffasean-bac/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c8aa8c48-ef22-467c-b88b-4c42811ede03" group-title="Sắp diễn ra" , 06-10-2026 00:30 ⚽ Japan vs New Zealand (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/jpn-nzl-jpnkirin/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/romania-18638" group-title="Đang phát" , 06-10-2026 01:45 ⚽ Romania vs Thụy Điển [LIVE] (Lẩu Ếch)
@@ -57,5 +45,3 @@ https://hls.lauthaitv.cc/live/monte-torque-uruprim/index.m3u8
 https://hls.lauthaitv.cc/live/mdellin-santafe-cate/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/04d2fe21-99d5-42e1-b5dc-b17ac70a4879" group-title="Sắp diễn ra" , 06-10-2026 16:00 ⚽ Honduras vs Jamaica (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/hon-jam-concacaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/st-louis-city-267299" group-title="Đang phát" , 12-10-2026 06:00 ⚽ St. Louis City vs LA Galaxy [LIVE] (TEST SPORT STREAM )
-https://cdnhls.xbdbotv.live/live/MTk2MDk4NzE6bTg4eHdvZHM4Z25zMmJiNmRrMHl6amtyOnludm1hOWt1cGhvcnZ1cTMya3N5YXpqaw/index.m3u8
