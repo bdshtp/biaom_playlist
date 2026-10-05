@@ -1,9 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2c9754e1-ff45-4ffc-9660-609ff70f490b" group-title="Sắp diễn ra" , 05-10-2026 13:10 ⚽ Atletico Bucaramanga vs Atletico Junior Barranquilla (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/bucara-barran-cate/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bcdd6da8-a03b-4bdb-8dec-1bcb79afafc4" group-title="Sắp diễn ra" , 05-10-2026 14:00 ⚽ Costa Rica vs Haiti (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/cos-hai-concacaf/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ec8c9282-0ccd-4560-8205-ea9a6486d7f9" group-title="Sắp diễn ra" , 05-10-2026 15:15 ⚽ Llaneros FC vs America de Cali (NGƯỜI PHÁO)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ec8c9282-0ccd-4560-8205-ea9a6486d7f9" group-title="Sắp diễn ra" , 05-10-2026 15:15 ⚽ Llaneros FC vs America de Cali (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/llane-decali-cate/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaysia-18615" group-title="Đang phát" , 05-10-2026 16:00 ⚽ Malaysia vs Việt Nam [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk4ODk4MjI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmxuZ2VudTVpdmxjajM5MDh0Z3BrYXJraQ/index.m3u8
