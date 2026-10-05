@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ec8c9282-0ccd-4560-8205-ea9a6486d7f9" group-title="Sắp diễn ra" , 05-10-2026 15:15 ⚽ Llaneros FC vs America de Cali (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/llane-decali-cate/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaysia-18615" group-title="Đang phát" , 05-10-2026 16:00 ⚽ Malaysia vs Việt Nam [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk4ODk4MjI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmxuZ2VudTVpdmxjajM5MDh0Z3BrYXJraQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaysia-18615" group-title="Đang phát" , 05-10-2026 16:00 ⚽ Malaysia vs Việt Nam [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk4ODk4MjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnA0d3RqZXA5cTQ5d3gydHlvMWRicmNwbw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6cf7883c-d031-42d9-9b49-a9c1eaee52c4" group-title="Sắp diễn ra" , 05-10-2026 16:00 ⚽ Nicaragua vs Dominican Republic (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/nic-dom-concacaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/08b23882-8355-454a-8333-da1b4f9eaf53" group-title="Sắp diễn ra" , 05-10-2026 19:00 ⚽ FC Ulaanbaatar vs Ulaagom City (NGƯỜI DÊ)
 https://hls.lauthaitv.cc/live/baatar-gomcity-mglprem/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/indonesia-18705" group-title="Đang phát" , 05-10-2026 20:00 ⚽ Indonesia vs Thái Lan [LIVE] (TÔM CHIÊN)
