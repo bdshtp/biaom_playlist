@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/04d2fe21-99d5-42e1-b5dc-b17ac70a4879" group-title="Sắp diễn ra" , 06-10-2026 16:00 ⚽ Honduras vs Jamaica (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/hon-jam-concacaf/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/truong-tuoi-ong-nai-128550" group-title="Đang phát" , 06-10-2026 18:00 ⚽ Trường Tươi Đồng Nai vs Đồng Tháp [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk3OTQ4ODE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmN5dnRvYTh2MDFsajJscnV4ZGJuNzBhMw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pvfcand-235487" group-title="Đang phát" , 06-10-2026 18:00 ⚽ PVF-CAND vs Huế [LIVE] (ASAHI)
