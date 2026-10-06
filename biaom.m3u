@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kazakhstan-18603" group-title="Đang phát" , 06-10-2026 21:00 ⚽ Kazakhstan vs Quần đảo Faroe [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3NjU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnk3ZDNqcGoxd2hjNXgxc3NreWVpdHU0cw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/portugal-u21-60060" group-title="Đang phát" , 06-10-2026 23:30 ⚽ Bồ Đào Nha U21 vs Cộng hòa Séc U21 [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTkzODUzNTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnByMHVjYWpnNmtmd250bzk3aWdqbmwwZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u21-61489" group-title="Đang phát" , 06-10-2026 23:45 ⚽ Hà Lan U21 vs Bosnia-Herzegovina U21 [LIVE] (TRÚC BẠCH)
@@ -21,11 +19,9 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NjU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmoyeTAxb2JmeWJ5eGVlNHI2MTJ4bHdpZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/5e47827b-64eb-49d0-856d-e15f30430742" group-title="Sắp diễn ra" , 07-10-2026 04:00 ⚽ India vs Uruguay (NGƯỜI PHÁO)
 https://hls.lauthaitv.cc/live/ind-uru-intfr/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1e1196ad-2781-4b72-84ed-2bedfe7c6749" group-title="Sắp diễn ra" , 07-10-2026 04:00 ⚽ Kazakhstan vs Faroe Islands (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/kaz-far-uefanl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9349aec6-8875-4e30-8fc7-1be0622dd715" group-title="Sắp diễn ra" , 07-10-2026 06:00 ⚽ Russia vs Nigeria (NGƯỜI CHÈ)
 https://hls.lauthaitv.cc/live/rus-nig-intfr/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/dfe1cde4-1074-4be3-b0f7-2c081931596f" group-title="Sắp diễn ra" , 07-10-2026 06:00 ⚽ Germany U21 vs Georgia U21 (NGƯỜI DÊ)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/dfe1cde4-1074-4be3-b0f7-2c081931596f" group-title="Sắp diễn ra" , 07-10-2026 06:00 ⚽ Germany U21 vs Georgia U21 (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/ger-geo-eurou21/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/46b1a3e5-f38a-4b2f-8748-7cc5398109b9" group-title="Sắp diễn ra" , 07-10-2026 07:00 ⚽ Jordan vs Venezuela (NGƯỜI BẠC)
 https://hls.lauthaitv.cc/live/jor-ven-intfr/index.m3u8
