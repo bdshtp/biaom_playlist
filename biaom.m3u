@@ -1,12 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/portugal-u21-60060" group-title="Đang phát" , 06-10-2026 23:30 ⚽ Bồ Đào Nha U21 vs Cộng hòa Séc U21 [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTkzODUzNTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnByMHVjYWpnNmtmd250bzk3aWdqbmwwZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-u21-61489" group-title="Đang phát" , 06-10-2026 23:45 ⚽ Hà Lan U21 vs Bosnia-Herzegovina U21 [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTkzODU0OTI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnJidTBiNGNkNThpd25kY3ZuN2dzd3N3Yw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/croatia-18588" group-title="Đang phát" , 07-10-2026 01:45 ⚽ Croatia vs Tây Ban Nha [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjU6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnlseHNrOTg2Mmx4MTVibDA0eWd3YjZwZg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645" group-title="Đang phát" , 07-10-2026 01:45 ⚽ Anh vs Cộng hòa Séc [LIVE] (HUDA)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NjQ6b3QwY3BrdGJkcmZjNWFnbm1nN2pkZHRyOnoxNWtkYjJkMmt1M3Eyamhva3c5dHUwZw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/belarus-18634" group-title="Đang phát" , 07-10-2026 01:45 ⚽ Belarus vs Phần Lan [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om5nNDF1ZnhnbjJoem1meGZpcm13eng3bw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/switzerland-18708" group-title="Đang phát" , 07-10-2026 01:45 ⚽ Thụy Sĩ vs Bắc Macedonia [LIVE] (TRÚC BẠCH)
@@ -17,16 +11,10 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY3MTM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5obWZud3oxbjltMWpycTUwaG85bzhxOQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645" group-title="Đang phát" , 07-10-2026 01:45 ⚽ Anh vs Cộng hòa Séc [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmoyeTAxb2JmeWJ5eGVlNHI2MTJ4bHdpZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9349aec6-8875-4e30-8fc7-1be0622dd715" group-title="Sắp diễn ra" , 07-10-2026 06:00 ⚽ Russia vs Nigeria (NGƯỜI CHÈ)
-https://hls.lauthaitv.cc/live/rus-nig-intfr/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/46b1a3e5-f38a-4b2f-8748-7cc5398109b9" group-title="Sắp diễn ra" , 07-10-2026 07:00 ⚽ Jordan vs Venezuela (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/jor-ven-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/01432cfd-4173-4fe0-8c65-ace5dc2e34bd" group-title="Sắp diễn ra" , 07-10-2026 08:45 ⚽ England vs Czechia (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/eng-cze-uefanl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/5cdab8fd-84f2-49cf-9fa4-28c5706e9176" group-title="Sắp diễn ra" , 07-10-2026 08:45 ⚽ Croatia vs Spain (NGƯỜI CAT)
 https://hls.lauthaitv.cc/live/cro-esp-uefanl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/036437ed-8fd1-4992-81b8-fe2bb34cf813" group-title="Sắp diễn ra" , 07-10-2026 08:45 ⚽ Switzerland vs North Macedonia (NGƯỜI DÊ)
-https://hls.lauthaitv.cc/live/swi-mac-uefanl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e0544ca9-b6a2-4cb7-baec-409cb8178015" group-title="Sắp diễn ra" , 07-10-2026 08:45 ⚽ Scotland vs Slovenia (NGƯỜI CHÈ)
 https://hls.lauthaitv.cc/live/sco-slo-uefanl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e6b52cef-1ab5-4d8e-948b-f0cd9fec10ec" group-title="Sắp diễn ra" , 07-10-2026 11:00 ⚽ Saint Vincent and the Grenadines vs Sint Maarten (NGƯỜI SÓI)
