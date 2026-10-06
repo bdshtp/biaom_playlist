@@ -19,11 +19,65 @@ https://hls.lauthaitv.cc/live/cro-esp-uefanl/index.m3u8
 https://hls.lauthaitv.cc/live/sco-slo-uefanl/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e6b52cef-1ab5-4d8e-948b-f0cd9fec10ec" group-title="Sắp diễn ra" , 07-10-2026 11:00 ⚽ Saint Vincent and the Grenadines vs Sint Maarten (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/svg-sint-concacaf/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Sắp diễn ra" , 07-10-2026 12:30 ⚽ Internacional vs Corinthians (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/47909319-28d1-478b-b964-8de41e9d619a" group-title="Sắp diễn ra" , 07-10-2026 13:00 ⚽ Argentina vs Benin (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/arg-ben-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Sắp diễn ra" , 07-10-2026 14:00 ⚽ USA vs Canada (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/usa-can-intfr/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Đang phát" , 07-10-2026 16:00 ⚽ Urawa Red Diamonds vs Omiya Ardija [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk3MTY0Njg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onlpa3JpaTZ2MTljcWVuZHM4NjJoMm93dg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sanfrecce-hiroshima-14738" group-title="Đang phát" , 07-10-2026 16:30 ⚽ Sanfrecce Hiroshima vs Iwaki [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk3MTY0NTg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmR2cjhrNHUzbTRsY29pZnF4dHhoODYwZA/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c2277b67-3909-4d7d-81b8-f07552adccaf" group-title="Sắp diễn ra" , 07-10-2026 16:30 ⚽ Mexico vs Chile (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/mex-chi-intfr/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-f-marinos-2756" group-title="Đang phát" , 07-10-2026 17:00 ⚽ Yokohama F. Marinos vs Kyoto Sangyo University [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MTY0Njk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmVxMm5rdWVoZXkwaXU0YXM5NGl3bnM0dw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-tokyo-2988" group-title="Đang phát" , 07-10-2026 17:00 ⚽ FC Tokyo vs Shonan Bellmare [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MTY0NjM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5kNmw4dmdxZWFlbHcxc2x6bm8yd2draA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ratchaburi-mitrphol-fc-6405" group-title="Đang phát" , 07-10-2026 19:00 ⚽ Ratchaburi Mitrphol FC vs Công an TP.Hồ Chí Minh [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MjA0Nzc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5zb2c4M3hqNzhoZGs3ZWU1cTZnd2V2YQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Đang phát" , 07-10-2026 19:00 ⚽ Buriram United vs Borneo [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk3MjA0Nzk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRmeHdwdmJ2eDdsZGhuOXo5cTBtZmp0bA/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d8c6b2b4-b2d5-47cd-9418-c5b9bb7eb203" group-title="Sắp diễn ra" , 07-10-2026 22:00 ⚽ Tai'an Tiankuang vs Ganzhou Ruishi (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/tian-ruishi-chnl2/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gnistan-9036" group-title="Đang phát" , 07-10-2026 23:00 ⚽ Gnistan vs Inter Turku [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk4NzgyNTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmk4MTRvNjA5MWY3NzVjcW5sMnA0a2RjOQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/7a8e8b01-9f29-41f9-bf85-4a41a3ed4153" group-title="Sắp diễn ra" , 07-10-2026 23:30 ⚽ Avispa Fukuoka vs Yokohama FC (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/avispa-yoko-jpncup/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3804e53a-7579-43ce-9319-47f3e43f1925" group-title="Sắp diễn ra" , 08-10-2026 00:00 ⚽ FC Tokyo vs Shonan Bellmare (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/tokyo-shonan-jpncup/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/25523e5a-f734-4ce8-9c7f-7d3a4d7f8217" group-title="Sắp diễn ra" , 08-10-2026 01:00 ⚽ Shenzhen Juniors vs Guangdong Guangzhou Power (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/shenzhen-guangdong-chnl1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/8e5b1b14-b2fc-4b39-b323-37915b385578" group-title="Sắp diễn ra" , 08-10-2026 01:30 ⚽ Nanjing City vs Shaanxi Union (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/nanjing-shaaxi-chnl1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/5ff4ad92-0fd3-42b4-af1c-8ace24c176eb" group-title="Sắp diễn ra" , 08-10-2026 02:00 ⚽ Ratchaburi FC vs Cong An Ho Chi Minh FC (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/ratcha-cahcm-shopee/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/96aaa0db-de61-4332-a70c-b9de8c1ba7da" group-title="Sắp diễn ra" , 08-10-2026 02:00 ⚽ Buriram United vs Borneo FC (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/buriram-borneo-shopee/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/b984cf0d-bf64-41c6-8464-bb923f00b13f" group-title="Sắp diễn ra" , 08-10-2026 03:00 ⚽ Kuching City FC vs Tampines Rovers FC (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/kuching-tampines-shopee/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/b37790d5-cfcc-424c-a92e-8285a6588ab6" group-title="Sắp diễn ra" , 08-10-2026 04:00 ⚽ Neftchi Fergana vs Xorazm Urganch (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/fergana-urganch-uzbsup/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/8c891715-62bf-468b-887d-5dcd44a38749" group-title="Sắp diễn ra" , 08-10-2026 04:00 ⚽ Asyut Petroleum vs Al Ahly FC (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/asyut-ahly-egylc/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1a688653-d534-4ea3-85d8-503bb45dfa71" group-title="Sắp diễn ra" , 08-10-2026 05:00 ⚽ Inter Toronto vs Supra Du Quebec (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/toronto-quebec-canpl/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/05555adc-9270-4b6a-b60f-f54187d14ebf" group-title="Sắp diễn ra" , 08-10-2026 06:00 ⚽ Gnistan Helsinki vs Inter Turku (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/gnistan-inter-finveik/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/5964f959-fe54-4d53-ac03-5770e8e33525" group-title="Sắp diễn ra" , 08-10-2026 08:30 ⚽ CS Cerrito vs Monteveideo Wanderers FC (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/cerrito-wander-urucup/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6b819e46-f5e2-4ade-95b6-d468f125484a" group-title="Sắp diễn ra" , 08-10-2026 10:00 ⚽ CD Universidad Catolica vs Liga Dep Universitaria Quito (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/ucatolica-uquito-ecucopa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Sắp diễn ra" , 08-10-2026 12:30 ⚽ Red Bull Bragantino vs Mirassol (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/bragan-mirassol-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="Sắp diễn ra" , 08-10-2026 13:00 ⚽ Vitoria vs Chapecoense SC (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/vitoria-chapeco-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="Sắp diễn ra" , 08-10-2026 13:30 ⚽ Botafogo vs Vasco de Gama (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/botafogo-basco-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="Sắp diễn ra" , 08-10-2026 14:30 ⚽ Cruzeiro vs Sao Paulo (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/cruzeiro-saopaulo-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 08-10-2026 15:20 ⚽ Atletico Nacional Medellin vs Deportes Tolima (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/mdellin-tolima-cate/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Đang phát" , 08-10-2026 19:15 ⚽ Thể Công-Viettel vs Hồng Lĩnh Hà Tĩnh [LIVE] (HUDA)
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTA6b3QwY3BrdGJkcmZjNWFnbm1nN2pkZHRyOm5zanRmY21ua3hscHBubmlxdms1bnVzcg/index.m3u8
