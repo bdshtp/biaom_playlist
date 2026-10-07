@@ -11,8 +11,20 @@ https://hls.lauthaitv.cc/live/vitoria-chapeco-brasa/index.m3u8
 https://hls.lauthaitv.cc/live/botafogo-basco-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="Sắp diễn ra" , 08-10-2026 14:30 ⚽ Cruzeiro vs Sao Paulo (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/cruzeiro-saopaulo-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lion-city-sailors-fc-8007" group-title="Đang phát" , 08-10-2026 18:30 ⚽ Lion City Sailors FC vs Công an Hà Nội [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MjA0NzQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmk1ZGhsd2NwcmJiazI0ZzduMmk2ZmJzNw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/port-fc-5461" group-title="Đang phát" , 08-10-2026 19:00 ⚽ Port FC vs Persib [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk3MjA0NzY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm1jNGs1dDcyZm93cDkyd2tnejB6M3lwZw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/johor-darul-tazim-2276" group-title="Đang phát" , 08-10-2026 19:00 ⚽ Johor Darul Ta'zim vs Svay Rieng [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk3MjA0NzU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJnb3JxcDJkemc0NXNwYW9penUwM3pkeQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Đang phát" , 08-10-2026 19:15 ⚽ Thể Công-Viettel vs Hồng Lĩnh Hà Tĩnh [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk4NzI5MTA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnE4dGVtMnJnMzh2OHduNDRtNnhqZzl0bw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Đang phát" , 08-10-2026 19:15 ⚽ Thể Công-Viettel vs Hồng Lĩnh Hà Tĩnh [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTA6b3QwY3BrdGJkcmZjNWFnbm1nN2pkZHRyOm5zanRmY21ua3hscHBubmlxdms1bnVzcg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hjk-724" group-title="Đang phát" , 08-10-2026 22:00 ⚽ HJK Helsinki vs VPS [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk4NzgyNDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpuNDE5MzIxMTB1ZnZtdDVsOHl5OXNqZQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" group-title="Đang phát" , 08-10-2026 23:00 ⚽ KuPS vs Oulu [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4NzgyMzE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhmYThzbmdzb3BmZGY4c2l4enpubTgyaQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/18c40765-c8e6-44d7-a168-aab63fbcb896" group-title="Sắp diễn ra" , 08-10-2026 23:00 ⚽ Phong Phu Ha Nam (w) vs Ha Noi (w) (NGƯỜI PHÁO)
 https://hls.lauthaitv.cc/live/hanam-hanoi-vielw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/796e6f0a-d6f4-4bcf-a18c-ee7f49fa772b" group-title="Sắp diễn ra" , 09-10-2026 01:00 ⚽ Thai Nguyen T&T (w) vs Ha Noi II (w) (NGƯỜI BẠC)
