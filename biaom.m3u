@@ -1,8 +1,6 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Sắp diễn ra" , 07-10-2026 12:30 ⚽ Internacional vs Corinthians (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/fc6ee8c4-004c-4450-ad41-6064d74dadcd" group-title="Sắp diễn ra" , 07-10-2026 14:00 ⚽ USA vs Canada (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/usa-can-intfr/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/urawa-reds-280" group-title="Đang phát" , 07-10-2026 16:00 ⚽ Urawa Red Diamonds vs Omiya Ardija [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MTY0Njg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onlpa3JpaTZ2MTljcWVuZHM4NjJoMm93dg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sanfrecce-hiroshima-14738" group-title="Đang phát" , 07-10-2026 16:30 ⚽ Sanfrecce Hiroshima vs Iwaki [LIVE] (TIGER)
