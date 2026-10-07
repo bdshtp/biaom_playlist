@@ -1,13 +1,9 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gnistan-9036" group-title="Đang phát" , 07-10-2026 23:00 ⚽ Gnistan vs Inter Turku [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4NzgyNTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmk4MTRvNjA5MWY3NzVjcW5sMnA0a2RjOQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1a688653-d534-4ea3-85d8-503bb45dfa71" group-title="Sắp diễn ra" , 08-10-2026 05:00 ⚽ Inter Toronto vs Supra Du Quebec (NGƯỜI DÊ)
-https://hls.lauthaitv.cc/live/toronto-quebec-canpl/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/05555adc-9270-4b6a-b60f-f54187d14ebf" group-title="Sắp diễn ra" , 08-10-2026 06:00 ⚽ Gnistan Helsinki vs Inter Turku (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/gnistan-inter-finveik/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/5964f959-fe54-4d53-ac03-5770e8e33525" group-title="Sắp diễn ra" , 08-10-2026 08:30 ⚽ CS Cerrito vs Monteveideo Wanderers FC (NGƯỜI DÊ)
 https://hls.lauthaitv.cc/live/cerrito-wander-urucup/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6b819e46-f5e2-4ade-95b6-d468f125484a" group-title="Sắp diễn ra" , 08-10-2026 10:00 ⚽ CD Universidad Catolica vs Liga Dep Universitaria Quito (NGƯỜI CHÈ)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d0780b1d-2269-4704-940e-9b73e30f2d70" group-title="Sắp diễn ra" , 08-10-2026 12:00 ⚽ Coquimbo Unido vs Cobreloa (NGƯỜI CHÈ)
 https://hls.lauthaitv.cc/live/ucatolica-uquito-ecucopa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Sắp diễn ra" , 08-10-2026 12:30 ⚽ Internacional vs Corinthians (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
