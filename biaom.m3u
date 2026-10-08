@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d0780b1d-2269-4704-940e-9b73e30f2d70" group-title="Sắp diễn ra" , 08-10-2026 12:00 ⚽ Coquimbo Unido vs Cobreloa (NGƯỜI CHÈ)
-https://hls.lauthaitv.cc/live/ucatolica-uquito-ecucopa/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/491523a8-5466-42b4-adbd-aa105c9e82de" group-title="Sắp diễn ra" , 08-10-2026 12:30 ⚽ Internacional vs Corinthians (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/interna-coritin-brasa/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Sắp diễn ra" , 08-10-2026 12:30 ⚽ Red Bull Bragantino vs Mirassol (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/bragan-mirassol-brasa/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/61a2e76a-189c-4530-a89d-48ceb7ce2a33" group-title="Sắp diễn ra" , 08-10-2026 13:00 ⚽ Vitoria vs Chapecoense SC (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/vitoria-chapeco-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3f5cd29b-a2d3-4277-ad1c-e564eaa97af5" group-title="Sắp diễn ra" , 08-10-2026 13:30 ⚽ Botafogo vs Vasco de Gama (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/botafogo-basco-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a45d50af-3e2b-47e9-bd80-a29d431974bf" group-title="Sắp diễn ra" , 08-10-2026 14:30 ⚽ Cruzeiro vs Sao Paulo (NGƯỜI SÓI)
