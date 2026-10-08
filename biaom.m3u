@@ -3,10 +3,6 @@
 https://cdnhls.xbdbotv.live/live/MTk4NzgyNDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpuNDE5MzIxMTB1ZnZtdDVsOHl5OXNqZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kups-4323" group-title="Đang phát" , 08-10-2026 23:00 ⚽ KuPS vs Oulu [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NzgyMzE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhmYThzbmdzb3BmZGY4c2l4enpubTgyaQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/722b03bf-3be1-43e9-a4c2-4949bf48c462" group-title="Sắp diễn ra" , 09-10-2026 03:10 ⚽ Al-Ain FC vs Ittihad Kalba FC (NGƯỜI CHÈ)
-https://hls.lauthaitv.cc/live/ain-kalba-uae/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a81cd5c5-fb20-4b2e-ac54-00c9ba9909cb" group-title="Sắp diễn ra" , 09-10-2026 04:00 ⚽ El Mokawloon El Arab vs El Gounah (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/mokaw-gounah-egylc/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d8bcf35e-ee8e-4aab-ab9b-6e29a6fcc40d" group-title="Sắp diễn ra" , 09-10-2026 04:45 ⚽ Al Shamal vs Al Duhail (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/shamal-duhail-qatstars/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/890713a6-2421-4afc-95f8-0dc66e581201" group-title="Sắp diễn ra" , 09-10-2026 05:00 ⚽ HJK Helsinki vs Vaasa VPS (NGƯỜI DÊ)
@@ -19,7 +15,7 @@ https://hls.lauthaitv.cc/live/wakrah-gharafa-qat/index.m3u8
 https://hls.lauthaitv.cc/live/modern-bank-egylc/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1e5c3ce3-a518-44cf-a3e1-0c24afd69f04" group-title="Sắp diễn ra" , 09-10-2026 07:30 ⚽ CFR Cluj vs FC Universitatea Cluj (NGƯỜI DÊ)
 https://hls.lauthaitv.cc/live/ccluj-ucluj-romliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bae942be-0b80-4da5-a0e5-5aa382a7531c" group-title="Sắp diễn ra" , 09-10-2026 08:45 ⚽ Al Ansar SC vs CS Sagesse (NGƯỜI CHÈ)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e3d96e32-cda0-4c9e-9920-a66f861a3a4e" group-title="Sắp diễn ra" , 09-10-2026 08:45 ⚽ Al Safa SC vs Al Abbassieh FC (NGƯỜI CHÈ)
 https://hls.lauthaitv.cc/live/ansar-sage-lbnprem/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="Sắp diễn ra" , 09-10-2026 12:30 ⚽ Santos FC vs Flamengo (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/santos-flamen-brasa/index.m3u8
