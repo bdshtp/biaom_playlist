@@ -11,8 +11,6 @@ https://cdnhls.xbdbotv.live/live/MTk3Nzg3MzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnh
 https://cdnhls.xbdbotv.live/live/MTk3MTU1OTE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnhpdTU2dWE2YTU2dDZuZm9wZ3E5amkxcg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaga-126" group-title="Đang phát" , 10-10-2026 02:00 ⚽ Málaga vs Espanyol [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2Njc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnIxOGY2cXNyMDUzYm9vdGRuZWV0d2k0cg/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a46c1cf7-dfdc-42b3-be0d-9861da06721a" group-title="Sắp diễn ra" , 10-10-2026 06:30 ⚽ 1. FC Heidenheim 1846 vs FC Kaiserslautern (NGƯỜI CHÈ)
-https://hls.lauthaitv.cc/live/heiden-kaiser-gerbun2/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4b96aa28-1c1d-4211-80ed-28fbc8a0336a" group-title="Sắp diễn ra" , 10-10-2026 07:00 ⚽ Galatasaray vs Kasimpasa (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/galata-kasimpa-tursup/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/566fc276-4491-43cf-b28d-796f78580e1a" group-title="Sắp diễn ra" , 10-10-2026 08:00 ⚽ Al Nassr FC vs Al Diraiyah (NGƯỜI DÊ)
@@ -117,3 +115,17 @@ https://hls.lauthaitv.cc/live/barce-getafe-laliga/index.m3u8
 https://hls.lauthaitv.cc/live/hilal-ittihad-ksapro/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c26c58d3-503a-4353-9634-9f7a68798993" group-title="Sắp diễn ra" , 11-10-2026 08:45 ⚽ Napoli vs Frosinone (NGƯỜI CHÈ)
 https://hls.lauthaitv.cc/live/napoli-frosi-seriea/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/708629d1-761e-4507-aaad-1fd1509827b5" group-title="Sắp diễn ra" , 11-10-2026 08:45 ⚽ Paris Saint Germain vs Le Mans (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/psg-mans-ligue1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/aa8e2eac-2eed-4db3-ba40-88a4c964f6d4" group-title="Sắp diễn ra" , 11-10-2026 09:00 ⚽ Real Madrid vs Villarreal CF (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/real-villa-laliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9eab5dd0-0c07-4928-b5fb-32a3b7349ea0" group-title="Sắp diễn ra" , 11-10-2026 11:00 ⚽ Vasco de Gama vs Remo (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/vasco-remo-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/fd21836e-eb19-47e7-ac60-9b8b60f2b7f5" group-title="Sắp diễn ra" , 11-10-2026 13:00 ⚽ FC Juarez vs Club Tijuana (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/juarez-tijuana-mexliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ea885e53-7204-4583-b49a-c71013928043" group-title="Sắp diễn ra" , 11-10-2026 13:30 ⚽ Inter Miami CF vs DC United (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/miami-dcu-mls/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="Sắp diễn ra" , 11-10-2026 16:30 ⚽ Los Angeles FC vs Vancouver Whitecaps (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/lagc-vancou-mls/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ad9aa051-0608-4739-b587-8d56f6102f22" group-title="Sắp diễn ra" , 11-10-2026 17:10 ⚽ Club America vs Rayados de Monterrey (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/amer-rayados-mexliga/index.m3u8
