@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persik-kediri-7162" group-title="Đang phát" , 09-10-2026 15:30 ⚽ Persik Kediri vs Madura United [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk4MTM1MTg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmtnZTRscTNyZ2Y2MzJwY2Nqa2JwZmloYQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="Đang phát" , 09-10-2026 17:00 ⚽ Kashiwa Reysol vs Vissel Kobe [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MTkwOTc6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmk5czNzaXV6eHhya3A1NnoycTAyOTB2cA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" group-title="Đang phát" , 09-10-2026 17:00 ⚽ Kashima Antlers vs Gamba Osaka [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MTkxMDA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnJyeGowc213M2ltbnY2dnQ2bXVtY2ZtMA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shenzhen-peng-city-18015" group-title="Đang phát" , 09-10-2026 18:35 ⚽ Shenzhen Peng City vs Henan Songshan Longmen [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk2NzQ2MDk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmJoZGJzcjRmdXJ0OXNyN3pnNGtlMGhlag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/qingdao-hainiu-18013" group-title="Đang phát" , 09-10-2026 18:35 ⚽ Qingdao Hainiu vs Beijing Guoan [LIVE] (Lẩu Ếch)
@@ -23,8 +17,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzU0NDg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZ
 https://cdnhls.xbdbotv.live/live/MTk3MzU0NDI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmV2MHRkdmwyNnpidXF2amp1eWo2d3loeQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Đang phát" , 10-10-2026 00:00 ⚽ Galatasaray vs Kasımpaşa [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3NDY1OTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnBldXIwYnBiNzZiMTF2ZnNiZ3g2MTA1dw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/c9f42855-6fcb-4490-bb33-5cad597d55e0" group-title="Sắp diễn ra" , 10-10-2026 00:00 ⚽ Kashima Antlers vs Gamba Osaka (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/kashi-gamba-j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Đang phát" , 10-10-2026 01:00 ⚽ Al Nassr vs Al Draih [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3Nzg3MzA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnh4cGR1NWMzdjZ0ampra3dxeXM0YWc0cQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Đang phát" , 10-10-2026 01:30 ⚽ Borussia Dortmund vs Werder Bremen [LIVE] (TIGER)
@@ -63,7 +55,19 @@ https://hls.lauthaitv.cc/live/delfin-mushuc-ligapro/index.m3u8
 https://hls.lauthaitv.cc/live/cordo-boca-argdiv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/0054690f-3b0f-46d2-9b90-42caaba30756" group-title="Sắp diễn ra" , 10-10-2026 15:00 ⚽ Puebla vs Club Leon (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/puebla-leon-mexliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/south-melbourne-1509" group-title="Đang phát" , 10-10-2026 15:35 ⚽ South Melbourne vs Melbourne Victory [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk4ODQ0MDg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnFtazk3bnB4dWxkOGxodXZra2VidzBvOA/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/24f7e459-66be-4146-b868-4422dccfd293" group-title="Sắp diễn ra" , 10-10-2026 17:00 ⚽ Tigres UANL vs Toluca (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/tigres-toluca-mexliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Đang phát" , 10-10-2026 18:30 ⚽ Arsenal vs Leeds United [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk3MjIxNTM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOngwaGVwMmJqNWhlY2RkOXhwcGQ3MmJwdg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Đang phát" , 10-10-2026 18:30 ⚽ Arsenal vs Leeds United [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MjIxNTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmQ1a2phNThnYnNpdnB1NWh6dGFkcHdjaA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 10-10-2026 23:30 ⚽ FC Barcelona vs Getafe [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2Njk6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnR0b2gxODV3ZXc1NXc4ZjFvbmM1dmZieg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 10-10-2026 23:30 ⚽ FC Barcelona vs Getafe [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2Njk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OndpdWgyczA5eXFreWllZHZoeTkxNncxZQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14" group-title="Đang phát" , 10-10-2026 23:30 ⚽ Manchester United vs Tottenham Hotspur [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MjIxNDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm96N2kwem82Zmpvb3A3eXNrZ29sYW9qYQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Đang phát" , 11-10-2026 02:00 ⚽ Real Madrid vs Villarreal [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnF2cGxweWxvaHloNzQ0a2R0aHljaGU1ag/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Đang phát" , 11-10-2026 02:00 ⚽ Real Madrid vs Villarreal [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJtZ3dpYjAyMGgweGhxOGlkZ3Zwem50YQ/index.m3u8
