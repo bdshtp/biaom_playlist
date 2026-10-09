@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e2bbe711-793a-444c-88d6-4defb06aa575" group-title="Sắp diễn ra" , 09-10-2026 12:30 ⚽ Santos FC vs Flamengo (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/santos-flamen-brasa/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1f97cd7e-fbbb-48f0-b8cd-b1d8cac57b6e" group-title="Sắp diễn ra" , 09-10-2026 13:00 ⚽ Atletico Paranaense vs Atlético Mineiro (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/para-mine-brasa/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/227f5406-1596-43ea-bfd3-b542b8acfbde" group-title="Sắp diễn ra" , 09-10-2026 13:05 ⚽ Atletico Nacional Medellin vs Deportes Tolima (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/mdellin-tolima-cate/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6563d0c2-4a39-46d4-b1a9-4ac1c23b3d5a" group-title="Sắp diễn ra" , 09-10-2026 14:30 ⚽ Palmeiras vs Bahia (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/palme-bahia-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/077728eb-4993-4beb-a86b-c0f74b83d99f" group-title="Sắp diễn ra" , 09-10-2026 15:10 ⚽ Fortaleza F.C vs Millonarios (NGƯỜI NẶN)
