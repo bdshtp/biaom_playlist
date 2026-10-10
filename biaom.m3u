@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/thep-xanh-nam-inh-18518" group-title="Đang phát" , 10-10-2026 18:00 ⚽ Thép Xanh Nam Định vs Ninh Bình [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhzcGd4cHBiOWZxZXhxbXlia3R5NnFjaw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Đang phát" , 10-10-2026 18:30 ⚽ Arsenal vs Leeds United [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxNTM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOngwaGVwMmJqNWhlY2RkOXhwcGQ3MmJwdg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Đang phát" , 10-10-2026 18:30 ⚽ Arsenal vs Leeds United [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxNTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmQ1a2phNThnYnNpdnB1NWh6dGFkcHdjaA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/genoa-102" group-title="Đang phát" , 10-10-2026 20:00 ⚽ Genoa vs Fiorentina [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnRmdjJoa3Q0ZDBkamV0YWNwMGkxejFkcg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" group-title="Đang phát" , 10-10-2026 21:00 ⚽ Sunderland vs Brighton & Hove Albion [LIVE] (333)
@@ -23,10 +17,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2Njk6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnR
 https://cdnhls.xbdbotv.live/live/MTk3MzI2Njk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OndpdWgyczA5eXFreWllZHZoeTkxNncxZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14" group-title="Đang phát" , 10-10-2026 23:30 ⚽ Manchester United vs Tottenham Hotspur [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm96N2kwem82Zmpvb3A3eXNrZ29sYW9qYQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/16cfbe87-6672-477d-91ad-adfdf2c77a2a" group-title="Sắp diễn ra" , 11-10-2026 01:00 ⚽ Thep Xanh Nam Dinh vs Ninh Binh FC (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/namdinh-ninhbinh-vleague/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/cc8720ad-bed8-4a4a-b194-d167c37e18ac" group-title="Sắp diễn ra" , 11-10-2026 01:30 ⚽ Arsenal vs Leeds United (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/ars-lee-prem/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Đang phát" , 11-10-2026 01:45 ⚽ Napoli vs Frosinone [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NjA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnpoMG1ndWpoZGd2YnAyMzNzaTcybDJzZg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-saint-germain-591" group-title="Đang phát" , 11-10-2026 01:45 ⚽ Paris Saint-Germain vs Le Mans [LIVE] (Lẩu Ếch)
@@ -35,9 +25,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1ODY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnF2cGxweWxvaHloNzQ0a2R0aHljaGU1ag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Đang phát" , 11-10-2026 02:00 ⚽ Real Madrid vs Villarreal [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJtZ3dpYjAyMGgweGhxOGlkZ3Zwem50YQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/637da7ae-0b1f-4731-8af1-ef70dc6b2891" group-title="Sắp diễn ra" , 11-10-2026 03:00 ⚽ Genoa vs Fiorentina (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/genoa-fio-seriea/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/454dcad6-7bcd-4d51-9809-41e756766723" group-title="Sắp diễn ra" , 11-10-2026 03:30 ⚽ FC Augsburg vs FC Bayern Munich Women (NGƯỜI CAT)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/454dcad6-7bcd-4d51-9809-41e756766723" group-title="Sắp diễn ra" , 11-10-2026 03:30 ⚽ FC Augsburg vs FC Bayern Munich (NGƯỜI CAT)
 https://hls.lauthaitv.cc/live/augs-bayern-bun/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/cd55f265-646a-43d1-a0ab-ceaa9192b115" group-title="Sắp diễn ra" , 11-10-2026 03:30 ⚽ 1. FSV Mainz 05 vs Bayer 04 Leverkusen (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/mainz-leverkusen-bun/index.m3u8
