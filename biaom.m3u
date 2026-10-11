@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Đang phát" , 12-10-2026 01:45 ⚽ Cagliari vs Juventus [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnVwanpqOHNvemxmdGpoMDBtYWRqZGMyZA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" group-title="Đang phát" , 12-10-2026 01:45 ⚽ Troyes vs Olympique Marseille [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1ODQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnE0ZjEwenZ4NW5tcXc5c3dnajZmMnN4Yg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 12-10-2026 02:00 ⚽ Racing Santander vs Valencia [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNxMHNnYmt5bHgxZDZiZTlubDk0cWZ1Yg/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f20fd764-601a-4e64-8fe0-889f1663a64a" group-title="Sắp diễn ra" , 12-10-2026 08:45 ⚽ Cagliari vs Juventus (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/cagli-juve-seriea/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="Sắp diễn ra" , 12-10-2026 10:30 ⚽ Flamengo vs Fluminese (NGƯỜI SÓI)
