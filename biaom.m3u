@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/qingdao-west-coast-257391" group-title="Đang phát" , 11-10-2026 17:00 ⚽ Qingdao West Coast vs Dalian Yingbo [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk2NzQ2MDQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnlwZnIzNHd0Z2pod2k0MmlqMnh4bmxuMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-utrecht-750" group-title="Đang phát" , 11-10-2026 17:15 ⚽ FC Utrecht vs Willem II [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MTQ2MzI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnI0cXh3dHlzMG02azRva2h2bWQ3aWV3dw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Đang phát" , 11-10-2026 17:30 ⚽ Como vs AS Roma [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omx4aDlpcmU3bXU4b3c2bTI2b2JqYjZldA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Đang phát" , 11-10-2026 17:30 ⚽ Como vs AS Roma [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NjU6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmNpaWNvdWlwcG1qazNrYzdtNzg3MnFzdQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/song-lam-nghe-an-18514" group-title="Đang phát" , 11-10-2026 18:00 ⚽ Sông Lam Nghệ An vs Công an TP.Hồ Chí Minh [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnFsZW9va3dla2VyY2M2ZjhoazNpeWx6Ng/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Đang phát" , 11-10-2026 19:00 ⚽ Elche vs Celta Vigo [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omd4azBuaXNwNDllOWh4ejVtajY2MXg0dQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lazio-43" group-title="Đang phát" , 11-10-2026 20:00 ⚽ Lazio vs Monza [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NjI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmppaWxhdzFsaTRxazNzY3JmdnQ0ajJjeg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hull-city-22" group-title="Đang phát" , 11-10-2026 20:00 ⚽ Hull City vs Everton [LIVE] (SAPPORO)
@@ -29,39 +17,21 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxNDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmh
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmFpdGV2NXVkcHh1bTV1bzkwbWViaWJzaA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Đang phát" , 11-10-2026 23:00 ⚽ Sassuolo vs Milan [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmppa3lmaTBwaThsMnVjY25rbGs3a253cA/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e8ee41a8-ee35-480f-9db9-2e9577a325f7" group-title="Sắp diễn ra" , 12-10-2026 00:00 ⚽ Qingdao West Coast FC vs Dalian Yingbo FC (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/9887/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6205827d-017c-4d48-9ab6-f78d542aee94" group-title="Sắp diễn ra" , 12-10-2026 00:30 ⚽ Como vs AS Roma (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/como-asroma-seriea/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d2ef64ea-a7e2-4176-bdcf-f19d23e4b470" group-title="Sắp diễn ra" , 12-10-2026 01:00 ⚽ Southampton vs Portsmouth (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/sou-por-eflchamp/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/66dcfdb2-286d-4a9c-ab4b-f748c5dc1d8a" group-title="Sắp diễn ra" , 12-10-2026 01:00 ⚽ Song Lam Nghe An vs Cong An Ho Chi Minh FC (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/slna-cahcm-vleague/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Đang phát" , 12-10-2026 01:45 ⚽ Cagliari vs Juventus [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NjY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnVwanpqOHNvemxmdGpoMDBtYWRqZGMyZA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" group-title="Đang phát" , 12-10-2026 01:45 ⚽ Troyes vs Olympique Marseille [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MTU1ODQ6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnE0ZjEwenZ4NW5tcXc5c3dnajZmMnN4Yg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 12-10-2026 02:00 ⚽ Racing Santander vs Valencia [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNxMHNnYmt5bHgxZDZiZTlubDk0cWZ1Yg/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6d34affe-5c18-4288-9c5f-3a88f8a294b7" group-title="Sắp diễn ra" , 12-10-2026 02:00 ⚽ Elche vs RC Celta (NGƯỜI CHÈ)
-https://hls.lauthaitv.cc/live/elche-celta-laliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/8ebf3d77-e796-403f-b46e-6995c62b655b" group-title="Sắp diễn ra" , 12-10-2026 02:00 ⚽ Hammarby vs Djurgardens (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/ham-dju-sweall/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d3650d28-7234-4181-856a-5b907cd10942" group-title="Sắp diễn ra" , 12-10-2026 02:15 ⚽ Hanoi FC vs Bac Ninh FC (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/hnfc-bacninh-vleague/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a7452da0-6ab9-4da6-8cfb-3f4ac9a8c9b4" group-title="Sắp diễn ra" , 12-10-2026 03:00 ⚽ Hull City vs Everton (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/hul-eve-prem/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/db1111dc-5183-4114-883a-7cd4a5b2189c" group-title="Sắp diễn ra" , 12-10-2026 03:00 ⚽ Crystal Palace vs Nottingham Forest (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/cry-not-prem/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/52a355bf-a56d-4124-8137-6240875c11e8" group-title="Sắp diễn ra" , 12-10-2026 03:30 ⚽ FC Koln vs Borussia Monchengladbach (NGƯỜI PHÁO)
 https://hls.lauthaitv.cc/live/koln-monche-bun/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/59f91583-cf65-4336-bc7b-ed30b3da4a6c" group-title="Sắp diễn ra" , 12-10-2026 04:00 ⚽ Brondby IF vs Lyngby (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/brond-lyng-densup/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/85e4d475-90c2-473d-ae60-e6195dd9ab33" group-title="Sắp diễn ra" , 12-10-2026 04:15 ⚽ Real Sociedad vs Deportivo La Coruna (NGƯỜI SẮT)
 https://hls.lauthaitv.cc/live/socie-coruna-laliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ Liverpool vs Manchester City Women (NGƯỜI CAT)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ Liverpool vs Manchester City (NGƯỜI CAT)
 https://hls.lauthaitv.cc/live/liv-mnc-prem-cat/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ Liverpool vs Manchester City Women (NGƯỜI BẠC)
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/706fafa3-d0a1-48a8-b005-1de8a8aae0a4" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ Liverpool vs Manchester City (NGƯỜI BẠC)
 https://hls.lauthaitv.cc/live/liv-mnc-prem-bac/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/132c5788-2e76-47eb-bac8-84812fadfd5e" group-title="Sắp diễn ra" , 12-10-2026 05:30 ⚽ SC Freiburg vs Schalke 04 (NGƯỜI PHÁO)
 https://hls.lauthaitv.cc/live/frei-shalke-bun/index.m3u8
@@ -85,3 +55,13 @@ https://hls.lauthaitv.cc/live/bahia-mirassol-brasa/index.m3u8
 https://hls.lauthaitv.cc/live/louis-lagalaxy-mls/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bc00d975-70ea-4db2-b917-ff90f88a0fd0" group-title="Sắp diễn ra" , 12-10-2026 15:15 ⚽ Pumas U.N.A.M. vs Cruz Azul (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/pumas-cruz-mexliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Đang phát" , 12-10-2026 20:45 ⚽ Pakhtakor Tashkent vs Al-Qadsiah [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9rcGE4dGhqdWVlOXRvZjl2OW44MXFkbw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vps-1840" group-title="Đang phát" , 12-10-2026 22:00 ⚽ VPS vs Gnistan [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4NzgyMzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl5cmN1YzczdHNhNmIzb21oaWoycmZ5Mg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Đang phát" , 12-10-2026 23:00 ⚽ Tractor Sazi vs Al Shamal SC [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnY3NjMxMXB1dmo5azlhY2p2eTBvNWxqYw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" group-title="Đang phát" , 12-10-2026 23:00 ⚽ Al Wasl vs Al Ahli [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk4NjcxMjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnM4bXFsZWhuMjA4NWRremV5c3lsOHh6aA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 12-10-2026 23:30 ⚽ Atalanta vs Venezia [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1Njc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng5dzdodm5uY2VzMGxmZ2Ztemp4bzFsZw/index.m3u8
