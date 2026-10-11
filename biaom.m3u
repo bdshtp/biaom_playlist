@@ -1,21 +1,57 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f20fd764-601a-4e64-8fe0-889f1663a64a" group-title="Sắp diễn ra" , 12-10-2026 08:45 ⚽ Cagliari vs Juventus (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/cagli-juve-seriea/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ece6059a-a6d7-4a08-b048-a5797e40fc81" group-title="Sắp diễn ra" , 12-10-2026 10:30 ⚽ Flamengo vs Fluminese (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/flamen-flumi-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d490d00c-513d-4b28-a704-c10ecf84f879" group-title="Sắp diễn ra" , 12-10-2026 12:30 ⚽ Bahia vs Mirassol (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/bahia-mirassol-brasa/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/b392327f-e2e8-4fca-b5e5-e66709b5c0be" group-title="Sắp diễn ra" , 12-10-2026 13:00 ⚽ St.Louis City vs Los Angeles Galaxy (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/louis-lagalaxy-mls/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bc00d975-70ea-4db2-b917-ff90f88a0fd0" group-title="Sắp diễn ra" , 12-10-2026 15:15 ⚽ Pumas U.N.A.M. vs Cruz Azul (NGƯỜI NẶN)
 https://hls.lauthaitv.cc/live/pumas-cruz-mexliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/08fd013b-5bd7-47f0-b7ed-bb50c3291302" group-title="Sắp diễn ra" , 12-10-2026 19:00 ⚽ Burgos CF vs Granada CF (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/burgos-granada-spa2nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Đang phát" , 12-10-2026 20:45 ⚽ Pakhtakor Tashkent vs Al-Qadsiah [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9rcGE4dGhqdWVlOXRvZjl2OW44MXFkbw/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3fad3ae0-aafb-4ef1-88ec-d51aa5807dac" group-title="Sắp diễn ra" , 12-10-2026 21:00 ⚽ Shanxi Chongde Ronghai vs Jiangxi Lushan (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/shanxi-jiangxi-chnl2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vps-1840" group-title="Đang phát" , 12-10-2026 22:00 ⚽ VPS vs Gnistan [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NzgyMzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl5cmN1YzczdHNhNmIzb21oaWoycmZ5Mg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Đang phát" , 12-10-2026 23:00 ⚽ Tractor Sazi vs Al Shamal SC [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnY3NjMxMXB1dmo5azlhY2p2eTBvNWxqYw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-wasl-6931" group-title="Đang phát" , 12-10-2026 23:00 ⚽ Al Wasl vs Al Ahli [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnM4bXFsZWhuMjA4NWRremV5c3lsOHh6aA/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/18c40765-c8e6-44d7-a168-aab63fbcb896" group-title="Sắp diễn ra" , 12-10-2026 23:00 ⚽ Phong Phu Ha Nam (w) vs Ha Noi II (w) (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/hanamw-hn2w-vielw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 12-10-2026 23:30 ⚽ Atalanta vs Venezia [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1Njc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng5dzdodm5uY2VzMGxmZ2Ztemp4bzFsZw/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d34b57f4-d932-472f-b014-79251f27c3da" group-title="Sắp diễn ra" , 13-10-2026 00:00 ⚽ Livyi Bereg vs Zorya (NGƯỜI SẮT)
+https://hls.lauthaitv.cc/live/livyi-zorya-ukrprem/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/796e6f0a-d6f4-4bcf-a18c-ee7f49fa772b" group-title="Sắp diễn ra" , 13-10-2026 01:00 ⚽ Thai Nguyen T&T (w) vs Ha Noi (w) (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/thainguyenw-hnw-vielw/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a117b3da-8111-43b7-9591-c35de3f34c16" group-title="Sắp diễn ra" , 13-10-2026 01:30 ⚽ Hougang United FC vs Balestier Khalsa FC (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/hougang-balest-sinprem/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/08f3e2e4-a722-49cd-bfdd-f614650b1849" group-title="Sắp diễn ra" , 13-10-2026 02:00 ⚽ Real Valladolid CF vs Albacete Balompié SAD (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/valaa-alba-spa2nd/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2430e514-a15f-47c4-ae3a-d33ccabeb055" group-title="Sắp diễn ra" , 13-10-2026 03:45 ⚽ Pakhtakor vs Al Qadsiah (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/pakh-qadsiah-afcc1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ebca0e19-d61a-4d94-a903-df35a2471a7b" group-title="Sắp diễn ra" , 13-10-2026 05:00 ⚽ Vaasa VPS vs Gnistan Helsinki (NGƯỜI PHÁO)
+https://hls.lauthaitv.cc/live/vaasa-gnistan-finveik/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/89043ae9-7189-4e1e-8adc-57273a234a2a" group-title="Sắp diễn ra" , 13-10-2026 05:00 ⚽ PAOK Saloniki vs Kalamata F.C (NGƯỜI THỎ)
+https://hls.lauthaitv.cc/live/paok-kalama-gresup/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1ab9304f-aa4c-46d6-accd-bd5d821673c2" group-title="Sắp diễn ra" , 13-10-2026 06:00 ⚽ AC Oulu vs HJK Helsinki (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/oulu-hjk-finveik/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f597e31d-b818-423f-bda1-ea978696619f" group-title="Sắp diễn ra" , 13-10-2026 06:30 ⚽ Atalanta vs Venezia (NGƯỜI CAT)
+https://hls.lauthaitv.cc/live/atlanta-venezi-seriea/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/83b5336b-be74-468a-9833-6e71275f1175" group-title="Sắp diễn ra" , 13-10-2026 07:00 ⚽ Malmo FF vs Kalmar (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/malmo-kalmar-sweal/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f8b10ac0-392a-4ed2-859d-20b0fb61e769" group-title="Sắp diễn ra" , 13-10-2026 07:00 ⚽ KFUM Oslo vs Vålerenga Fotball Elite (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/kfum-valenre-noree/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/566fc276-4491-43cf-b28d-796f78580e1a" group-title="Sắp diễn ra" , 13-10-2026 08:15 ⚽ Al Nassr FC vs Neftchi Fergana (NGƯỜI CHÈ)
+https://hls.lauthaitv.cc/live/nassr-neftchi-afcc1/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="Sắp diễn ra" , 13-10-2026 09:00 ⚽ Coventry City vs Newcastle United (NGƯỜI CÁO)
+https://hls.lauthaitv.cc/live/cov-new-prem/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/75cbc626-8ddd-466a-bcda-b4b3e1c5fce2" group-title="Sắp diễn ra" , 13-10-2026 09:00 ⚽ Levante vs Sevilla FC (NGƯỜI DÊ)
+https://hls.lauthaitv.cc/live/levante-sevilla-laliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2e3b9b92-a8f4-4e8f-9056-a80dba9e52cc" group-title="Sắp diễn ra" , 13-10-2026 11:00 ⚽ Universidad de Chile vs Nublense (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/dechile-nublense-chiliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/57c429ec-f2a8-48be-aaa5-5a33b48af805" group-title="Sắp diễn ra" , 13-10-2026 13:30 ⚽ Chapecoense SC vs Athletico Paranense (NGƯỜI NẶN)
+https://hls.lauthaitv.cc/live/chape-parana-brasa/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/1bedbf0c-4edf-4546-b96b-631738913ea5" group-title="Sắp diễn ra" , 13-10-2026 14:00 ⚽ Red Bull Bragantino vs Cruzeiro (NGƯỜI SÓI)
+https://hls.lauthaitv.cc/live/bragant-cruzei-brasa/index.m3u8
