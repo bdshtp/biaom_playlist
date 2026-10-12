@@ -1,18 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 12-10-2026 23:30 ⚽ Atalanta vs Venezia [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1Njc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng5dzdodm5uY2VzMGxmZ2Ztemp4bzFsZw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Đang phát" , 13-10-2026 01:15 ⚽ Al Nassr vs Neftchi [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp2NG1leXk0cG1iYmxnbnBvYnl0ZXNzbQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Đang phát" , 13-10-2026 01:45 ⚽ Torino FC vs Udinese [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxjZmlxbW13ejJ0eTlreTYyOGxkYzdwNA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Đang phát" , 13-10-2026 02:00 ⚽ Coventry City vs Newcastle United [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnM5ajEzZm5kbXo4NXk2dDA3eDhwZGZrYg/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f597e31d-b818-423f-bda1-ea978696619f" group-title="Sắp diễn ra" , 13-10-2026 06:30 ⚽ Atalanta vs Venezia (NGƯỜI CAT)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/279209162a09a96041220187794a02ab/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/83b5336b-be74-468a-9833-6e71275f1175" group-title="Sắp diễn ra" , 13-10-2026 07:00 ⚽ Malmo FF vs Kalmar (NGƯỜI CÁO)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/d8a422150f48ea9ff7b4fb0669d178a5/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f8b10ac0-392a-4ed2-859d-20b0fb61e769" group-title="Sắp diễn ra" , 13-10-2026 07:00 ⚽ KFUM Oslo vs Valerenga Fotbal Elite (NGƯỜI DÊ)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/f2df8299ea2d246723a2c25b617f35ff/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/566fc276-4491-43cf-b28d-796f78580e1a" group-title="Sắp diễn ra" , 13-10-2026 08:15 ⚽ Al Nassr FC vs Neftchi Fergana (NGƯỜI CHÈ)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/9fe58e11ed08c4acc5f97dae349a16b6/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ef4acf46-78e4-45ad-aaf6-746547441c62" group-title="Sắp diễn ra" , 13-10-2026 09:00 ⚽ Coventry City vs Newcastle United (NGƯỜI CÁO)
