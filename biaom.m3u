@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Đang phát" , 12-10-2026 20:45 ⚽ Pakhtakor Tashkent vs Al-Qadsiah [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMzM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9rcGE4dGhqdWVlOXRvZjl2OW44MXFkbw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vps-1840" group-title="Đang phát" , 12-10-2026 22:00 ⚽ VPS vs Gnistan [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NzgyMzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnl5cmN1YzczdHNhNmIzb21oaWoycmZ5Mg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Đang phát" , 12-10-2026 23:00 ⚽ Tractor Sazi vs Al Shamal SC [LIVE] (TÔM CHIÊN)
@@ -17,6 +15,8 @@ https://cdnhls.xbdbotv.live/live/MTk4NjcwOTI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omt
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxjZmlxbW13ejJ0eTlreTYyOGxkYzdwNA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Đang phát" , 13-10-2026 02:00 ⚽ Coventry City vs Newcastle United [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnM5ajEzZm5kbXo4NXk2dDA3eDhwZGZrYg/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f597e31d-b818-423f-bda1-ea978696619f" group-title="Sắp diễn ra" , 13-10-2026 06:30 ⚽ Atalanta vs Venezia (NGƯỜI CAT)
+https://customer-8u96y3p526cf0vss.cloudflarestream.com/279209162a09a96041220187794a02ab/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/83b5336b-be74-468a-9833-6e71275f1175" group-title="Sắp diễn ra" , 13-10-2026 07:00 ⚽ Malmo FF vs Kalmar (NGƯỜI CÁO)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/d8a422150f48ea9ff7b4fb0669d178a5/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f8b10ac0-392a-4ed2-859d-20b0fb61e769" group-title="Sắp diễn ra" , 13-10-2026 07:00 ⚽ KFUM Oslo vs Valerenga Fotbal Elite (NGƯỜI DÊ)
