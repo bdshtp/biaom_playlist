@@ -1,30 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" group-title="Đang phát" , 13-10-2026 17:00 ⚽ Shanghai Port vs Daejeon Citizen [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNjM6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnNrNW8wMmFwbjFheGVkaDNwMnNnbW1pcA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pohang-steelers-1506" group-title="Đang phát" , 13-10-2026 17:00 ⚽ Pohang Steelers vs Johor Darul Ta'zim [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNzA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRmZTFwdW43cXh4Y21neWoyOXVzb2I4NA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" group-title="Đang phát" , 13-10-2026 17:00 ⚽ Kyoto Sanga vs Ratchaburi Mitrphol FC [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omt1Ym9ueWdhYnFucHloNTh5aWt3ZXF1Zw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Đang phát" , 13-10-2026 19:15 ⚽ Công an Hà Nội vs Kashima Antlers [LIVE] (Lẩu Ếch)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Đang phát" , 13-10-2026 19:15 ⚽ Buriram United vs Beijing Guoan [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk4NjcwNTU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmR1ZmF4czEzNDMza2FtYWJ4Z25mZXlmMQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Đang phát" , 13-10-2026 19:15 ⚽ Công an Hà Nội vs Kashima Antlers [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk4NjcwNDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmlvdXl1OW10dGhvcnN1MnZ5cHBvang1cg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Đang phát" , 13-10-2026 19:15 ⚽ Buriram United vs Beijing Guoan [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNTU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmZxOGsyanJxamNnaXk1ZWJlaHJucjNneA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/east-bengal-4017" group-title="Đang phát" , 13-10-2026 20:45 ⚽ East Bengal vs Al Shorta [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NjIzNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oms2aGE3OG11ZW41M3g3N25iaGMwNmh4Mw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6787a688-4e06-4e5a-bea9-bcd89db1bc5d" group-title="Sắp diễn ra" , 13-10-2026 21:45 ⚽ Newcastle Jets vs Gamba Osaka (NGƯỜI SẮT)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/cb2286437124ed63c8f5db5dc6b7840d/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Đang phát" , 13-10-2026 23:45 ⚽ Sabah vs Slavia Praha [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NzM2NTk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZweHpqdzEzbTg3cTF3em94ZmI0NTQ0dg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Đang phát" , 13-10-2026 23:45 ⚽ Lens vs Sporting CP [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NzM2NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmI0aGMwazI2dDhla2ZwZGxvYnJpNndhYw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d9dadf54-6734-47c0-9ad4-4e3c9c54dae2" group-title="Sắp diễn ra" , 14-10-2026 00:00 ⚽ Pohang Steelers vs Johor Darul Ta'zim (NGƯỜI CÁO)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/0b1bd6f071546fe559ed72dd535b4e68/manifest/video.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3cd9c8b6-7fed-434b-b5c8-121f2c237b44" group-title="Sắp diễn ra" , 14-10-2026 00:00 ⚽ Shanghai Port FC vs Daejeon Citizen (NGƯỜI THỎ)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/ff595d515cc22ada8365e101fa51804d/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Đang phát" , 14-10-2026 01:15 ⚽ Al Ittihad vs Shabab Al Ahli Dubai [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4NjcwMzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnJpY3E5NWZqajRvcmp4ODQ4Mng2ejZmdQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f8dd968c-bb1e-4de2-a337-84a1d98e34e9" group-title="Sắp diễn ra" , 14-10-2026 01:30 ⚽ Bandirmaspor vs Sivasspor (NGƯỜI PHÁO)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/57850af02260e764a375037877018373/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Đang phát" , 14-10-2026 02:00 ⚽ Villarreal vs Napoli [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NzMyNDU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omxxb3o1c2c1MXdrMGtpcnhzY29ocXo2Mw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Đang phát" , 14-10-2026 02:00 ⚽ Inter Milan vs Club Brugge [LIVE] (Lẩu Ếch)
