@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/buriram-united-6809" group-title="Đang phát" , 13-10-2026 19:15 ⚽ Buriram United vs Beijing Guoan [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNTU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmR1ZmF4czEzNDMza2FtYWJ4Z25mZXlmMQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Đang phát" , 13-10-2026 19:15 ⚽ Công an Hà Nội vs Kashima Antlers [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmlvdXl1OW10dGhvcnN1MnZ5cHBvang1cg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/east-bengal-4017" group-title="Đang phát" , 13-10-2026 20:45 ⚽ East Bengal vs Al Shorta [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NjIzNTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oms2aGE3OG11ZW41M3g3N25iaGMwNmh4Mw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Đang phát" , 13-10-2026 23:45 ⚽ Sabah vs Slavia Praha [LIVE] (Vịt Nướng)
@@ -51,5 +47,23 @@ https://customer-8u96y3p526cf0vss.cloudflarestream.com/9b21c36ea9dc897265110dd41
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/9e4101552b03f2f0040b95a55e8c33a6/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/83b9e8c0-3e4f-447d-a259-589c6becaad7" group-title="Sắp diễn ra" , 14-10-2026 14:30 ⚽ Boca Juniors vs Vasco de Gama (NGƯỜI NẶN)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/0e5fa516187616249009b8509820711f/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Đang phát" , 14-10-2026 14:45 ⚽ Melbourne Victory vs Seoul [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk4NjIzNDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Ong5Y2IxNXpsbzNvYWU5dnhmanMwdmxobw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4797bd0a-9e94-489b-907b-1fb0ab1c39c9" group-title="Sắp diễn ra" , 14-10-2026 15:30 ⚽ Millonarios vs Deportiva Once Caldas (NGƯỜI SÓI)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/19b7f0c885ca19ca5db6aca785d3b32e/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-2503" group-title="Đang phát" , 14-10-2026 16:30 ⚽ Yokohama vs Urawa Red Diamonds [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4NzcyNjE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnZzYnNoejNleHBhZDZlNDE4dTF6Y3liZg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vissel-kobe-3867" group-title="Đang phát" , 14-10-2026 17:00 ⚽ Vissel Kobe vs Jeonbuk Hyundai Motors [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk4NjcwMjc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmwyMjExY204cjh4cHV2ZWEyb2o2amE0Yg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashiwa-reysol-298" group-title="Đang phát" , 14-10-2026 17:00 ⚽ Kashiwa Reysol vs Port FC [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4NjcwMjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc3OTB2M3MxYTRyajdrYWx4bjF3d2t1Mw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Đang phát" , 14-10-2026 19:15 ⚽ Persib vs Thể Công-Viettel [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk4NjIzNDg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnZiZWwyemVybHhtY3Q0a2E3NWduOGwycg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lask-linz-3369" group-title="Đang phát" , 14-10-2026 23:45 ⚽ LASK Linz vs Liverpool [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MzY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Onl1djl3ODEwa21yYmJmOGhscndkOXVwYw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/feyenoord-73" group-title="Đang phát" , 14-10-2026 23:45 ⚽ Feyenoord vs Como [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk4NzM2Njk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnJzMHV0ZnRrYm16YWVrb2ZucThqbTJteA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Đang phát" , 15-10-2026 02:00 ⚽ Aston Villa vs Fenerbahçe [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk4NzM2NzY6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnY2eWxreWkzc3YxNXN0dnV4eHphOHhsaQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" group-title="Đang phát" , 15-10-2026 02:00 ⚽ AS Roma vs Real Madrid [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4NzM2NzQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnBwbWd3ZzVjd2NjY3U1NXE1b3R0bG16NA/index.m3u8
