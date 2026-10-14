@@ -49,3 +49,13 @@ https://customer-8u96y3p526cf0vss.cloudflarestream.com/da3f20e476965055f5a9cd9af
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/bc0cfae3b445ca04f4730bd664361b02/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/25d9792e-22fa-4274-ab68-9aa491799004" group-title="Sắp diễn ra" , 15-10-2026 16:30 ⚽ Los Angeles FC vs Austin FC (NGƯỜI NẶN)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/31319f7636178b8976a4c986b7ef9b11/manifest/video.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Đang phát" , 15-10-2026 17:00 ⚽ Wofoo Tai Po vs Lion City Sailors FC [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4NjIyOTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnFsdzllcGtvdzVhenZrc21hbmF6M25lcw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Đang phát" , 15-10-2026 17:00 ⚽ Gangwon FC vs Phnom Penh Crown [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4NjIyODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1pdDlmODVtMHZoMHhsemk0MmEzNmk0aA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" group-title="Đang phát" , 15-10-2026 19:15 ⚽ BG Pathum United vs Adelaide United [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4NjIyNzg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om91M3BieWdhZmpwMnZpYjN1aTU2bXh6Zg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Đang phát" , 15-10-2026 19:15 ⚽ Tampines Rovers vs Machida Zelvia [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk4NjIyNzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJsaWloZWFkcmdkeWZ4czlyYXc4NmQxbw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kuching-fa-160711" group-title="Đang phát" , 15-10-2026 19:15 ⚽ Kuching FA vs Kitchee [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk4NjIyNjg6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnFkdTlqcWIxbDBpZnQ4bjZudHpqOGwwMA/index.m3u8
