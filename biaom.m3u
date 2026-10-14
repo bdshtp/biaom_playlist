@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/melbourne-victory-958" group-title="Đang phát" , 14-10-2026 14:45 ⚽ Melbourne Victory vs Seoul [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk4NjIzNDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Ong5Y2IxNXpsbzNvYWU5dnhmanMwdmxobw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4797bd0a-9e94-489b-907b-1fb0ab1c39c9" group-title="Sắp diễn ra" , 14-10-2026 15:30 ⚽ Millonarios vs Deportiva Once Caldas (NGƯỜI SÓI)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/19b7f0c885ca19ca5db6aca785d3b32e/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/yokohama-2503" group-title="Đang phát" , 14-10-2026 16:30 ⚽ Yokohama vs Urawa Red Diamonds [LIVE] (TRÚC BẠCH)
@@ -11,8 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NjcwMjc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omw
 https://cdnhls.xbdbotv.live/live/MTk4NjcwMjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnc3OTB2M3MxYTRyajdrYWx4bjF3d2t1Mw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Đang phát" , 14-10-2026 19:15 ⚽ Persib vs Thể Công-Viettel [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk4NjIzNDg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnZiZWwyemVybHhtY3Q0a2E3NWduOGwycg/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/df6e2e3f-6db1-4cc7-b6a7-894c3f476010" group-title="Sắp diễn ra" , 14-10-2026 21:45 ⚽ Melbourne Victory vs FC Seoul (NGƯỜI PHÁO)
-https://customer-8u96y3p526cf0vss.cloudflarestream.com/d37f99e42d5d4f017f7336c6a9eb4cdd/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/6bcb9af1-12f6-44b2-a7d9-931caacdc13a" group-title="Sắp diễn ra" , 14-10-2026 23:30 ⚽ Yokohama FC vs Urawa Red Diamonds (NGƯỜI THỎ)
 https://customer-8u96y3p526cf0vss.cloudflarestream.com/a6b53e51ed9f3698f8ababbb3366d215/manifest/video.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lask-linz-3369" group-title="Đang phát" , 14-10-2026 23:45 ⚽ LASK Linz vs Liverpool [LIVE] (TÔM CHIÊN)
