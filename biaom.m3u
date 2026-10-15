@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wofoo-tai-po-5971" group-title="Đang phát" , 15-10-2026 17:00 ⚽ Wofoo Tai Po vs Lion City Sailors FC [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk4NjIyOTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnFsdzllcGtvdzVhenZrc21hbmF6M25lcw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/gangwon-7273" group-title="Đang phát" , 15-10-2026 17:00 ⚽ Gangwon FC vs Phnom Penh Crown [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NjIyODQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm1pdDlmODVtMHZoMHhsemk0MmEzNmk0aA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Đang phát" , 15-10-2026 19:15 ⚽ Svay Rieng vs Shanghai Shenhua [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4NjIyNzU6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnIxNnFkdzZobmpnOTR1dDdzYWdob25kNg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bg-pathum-united-13363" group-title="Đang phát" , 15-10-2026 19:15 ⚽ BG Pathum United vs Adelaide United [LIVE] (TÔM CHIÊN)
@@ -31,8 +27,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM4NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmR
 https://cdnhls.xbdbotv.live/live/MTk4NzM4Mzk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmIzdmFsOHNzcmxmc29sbWx6ZDc4NGFlNw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brighton-hove-albion-78" group-title="Đang phát" , 16-10-2026 02:00 ⚽ Brighton & Hove Albion vs Kauno Žalgiris [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NzQwNDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9qNDZoMnN2Nmcya24wMnU0YmY1aHptaA/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/d610c93c-bba5-4f9b-8cd0-5d54438909eb" group-title="Sắp diễn ra" , 16-10-2026 02:15 ⚽ BG Pathum United vs Adelaide United (NGƯỜI SẮT)
-https://hls.lauthaitv.cc/live/pathum-adelai-afcc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/654e096b-1af2-42f9-8d2c-1bc86990c7c4" group-title="Sắp diễn ra" , 16-10-2026 02:15 ⚽ Svay Rieng FC vs Shanghai Shenhua FC (NGƯỜI THỎ)
 https://hls.lauthaitv.cc/live/svay-shanghai-afcc2/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e939ae7c-aa02-42f6-939d-2e03f5d51197" group-title="Sắp diễn ra" , 16-10-2026 03:40 ⚽ Al Faisaly Harmah vs Al Kholood (NGƯỜI BẠC)
