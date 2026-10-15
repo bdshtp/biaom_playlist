@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/96a1a623-2198-4fc9-8e0b-4d1304ac4d68" group-title="Sắp diễn ra" , 16-10-2026 10:00 ⚽ Independiente del Valle Women vs Belgrano Women (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/vallew-belw-copaw/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/38bd56da-aaf6-4543-8728-80c3e30568ba" group-title="Sắp diễn ra" , 16-10-2026 12:15 ⚽ Deportivo Rionegro vs Patriotas FC (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/rione-patriot-col2nd/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/ae48c62a-870a-4055-ad06-13cf5dafdbd8" group-title="Sắp diễn ra" , 16-10-2026 13:00 ⚽ CA Huracan vs Gimnasia La Plata (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/huracan-gimna-argdiv1/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/2026c8b8-eb4d-4c3f-ab85-45382795de23" group-title="Sắp diễn ra" , 16-10-2026 14:30 ⚽ Estudiantes La Plata vs Flamengo (NGƯỜI NẶN)
