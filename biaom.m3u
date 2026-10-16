@@ -9,8 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk4MTM1MDQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Oml
 https://cdnhls.xbdbotv.live/live/MTk3MzU0MzU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnh6b2l1ajc5MWZrbmE2anF6cXh1b3Z2bw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/energie-cottbus-3322" group-title="Đang phát" , 16-10-2026 23:30 ⚽ Energie Cottbus vs Nürnberg [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MzU0MzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmFpOHlxZnY1dWp3bTRuYmIzOHBhOWk4NA/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/79026896-66c9-4854-8398-f45c3c1f6d90" group-title="Sắp diễn ra" , 17-10-2026 00:00 ⚽ Aurora Saigon United vs Quy Nhon United (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/saigon-quynhon-vleague2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sc-heerenveen-1053" group-title="Đang phát" , 17-10-2026 01:00 ⚽ SC Heerenveen vs Excelsior [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MTQ2Mjg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnhubG5xcXFndHVkMGN6dWxvejdlcWh2MA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/eintracht-frankfurt-366" group-title="Đang phát" , 17-10-2026 01:30 ⚽ Eintracht Frankfurt vs FC Köln [LIVE] (TÔM CHIÊN)
@@ -29,6 +27,10 @@ https://hls.lauthaitv.cc/live/madura-bhayang-idnsup/index.m3u8
 https://hls.lauthaitv.cc/live/kelan-starcity-massup/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/a89adfad-1928-4a4e-a8b5-5608fb590e4b" group-title="Sắp diễn ra" , 17-10-2026 04:30 ⚽ Al Ahli vs Al-Wakrah SC (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/ahli-wakrah-qatstars/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/11a54719-4748-46c7-bd13-0acd3f6282d0" group-title="Sắp diễn ra" , 17-10-2026 05:00 ⚽ FC Otelul Galati vs FK Csikszereda M. Ciuc (NGƯỜI BẠC)
+https://hls.lauthaitv.cc/live/galati-ciuc-romliga/index.m3u8
+#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/11a54719-4748-46c7-bd13-0acd3f6282d0" group-title="Sắp diễn ra" , 17-10-2026 05:00 ⚽ FC Otelul Galati vs FK Csikszereda M. Ciuc (BLV Casting)
+https://hls.lauthaitv.cc/live/galati-ciuc-testing/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/f28394cc-6269-4dc3-be2f-c2e64826fe10" group-title="Sắp diễn ra" , 17-10-2026 06:00 ⚽ KS Wieczysta Krakow vs Rakow Czestochowa (NGƯỜI DÊ)
 https://hls.lauthaitv.cc/live/wiec-czesto-eks/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/dde8feb1-9433-4b0b-b70c-7e5ac1ad238c" group-title="Sắp diễn ra" , 17-10-2026 06:30 ⚽ Holstein Kiel vs Hertha Berlin (NGƯỜI CAT)
