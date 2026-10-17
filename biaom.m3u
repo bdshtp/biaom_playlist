@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/central-coast-mariners-410" group-title="Đang phát" , 17-10-2026 15:40 ⚽ Central Coast Mariners vs Newcastle Jets [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3NTg4MTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmVjeDEyN2xzZTk2bGxoNGh0a3ZiaWE5ag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="Đang phát" , 17-10-2026 17:00 ⚽ Đông Á Thanh Hoá vs Thép Xanh Nam Định [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmJ5bXRwY2EydnF1czRtZGVhZzVmbW1rdA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shb-a-nang-15024" group-title="Đang phát" , 17-10-2026 18:00 ⚽ SHB Đà Nẵng vs Hải Phòng [LIVE] (TÔM CHIÊN)
@@ -9,8 +7,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI5MTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Onh
 https://cdnhls.xbdbotv.live/live/MTk3MjIxNDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZwaWdndm02cjdjNmRwZ3A4YzF3ZDYwMQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/espanyol-528" group-title="Đang phát" , 17-10-2026 19:00 ⚽ Espanyol vs Atlético Madrid [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om93YWZ4bms2aTBwcnhyNTlvbXFiNzh6cA/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="Sắp diễn ra" , 17-10-2026 19:00 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/verdy-tokyofc-j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/venezia-267" group-title="Đang phát" , 17-10-2026 20:00 ⚽ Venezia vs Napoli [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndzOGI5ZDZ0bTZhZXkyYjZwczZmaDN2YQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="Sắp diễn ra" , 17-10-2026 20:00 ⚽ Macarthur FC vs Perth Glory (NGƯỜI CÁO)
@@ -31,6 +27,8 @@ https://hls.lauthaitv.cc/live/garuda-arema-idnsup/index.m3u8
 https://hls.lauthaitv.cc/live/cent-news-aleague/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bologna-8513" group-title="Đang phát" , 17-10-2026 23:00 ⚽ Bologna vs Inter Milan [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnZ4aG9mdmxocHgyZjNkc3FwNDd6NjF6dA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Real Betis vs FC Barcelona [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmVpM2p1aG53MGYwOTZhY3RtcGhsY21hag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Real Betis vs FC Barcelona [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZ2dGR0YmdzYXRyZ2xscDYyd2xhZGY3OA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-bayern-munchen-503" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Bayern Munich vs RB Leipzig [LIVE] (SAPPORO)
