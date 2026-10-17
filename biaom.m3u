@@ -1,18 +1,6 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" group-title="Đang phát" , 18-10-2026 01:45 ⚽ AS Roma vs Genoa [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTA6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omd0dHFxbHM2M3pjMzVibmgxdHozZHZuMQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" group-title="Đang phát" , 18-10-2026 01:45 ⚽ AS Roma vs Genoa [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmJycXczZjgzYWM5a3RjYm9yeHMzbnUxbg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" group-title="Đang phát" , 18-10-2026 01:45 ⚽ Troyes vs Lens [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NzU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnB5eGJoZXl3b2g5YnF1aTNoZHNqOHJqOA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Đang phát" , 18-10-2026 01:45 ⚽ LOSC Lille vs Brest [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1ODA6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnU5enpheXM5dWY0ODI1OTAyYXRib2w0bg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Đang phát" , 18-10-2026 02:00 ⚽ Valencia vs Athletic Bilbao [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRoNTM2M3lmcHNya2VxbWhmNWFweTBlcQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="Sắp diễn ra" , 18-10-2026 05:15 ⚽ RC Strasbourg Alsace vs Paris Saint Germain (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/stras-pasg-ligue1/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="Sắp diễn ra" , 18-10-2026 09:00 ⚽ Valencia CF vs Athletic Club (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/valen-athle-laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="Sắp diễn ra" , 18-10-2026 10:00 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT)
 https://hls.lauthaitv.cc/live/malaga-socie-laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="Sắp diễn ra" , 18-10-2026 13:07 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT)
