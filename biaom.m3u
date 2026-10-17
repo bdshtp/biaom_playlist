@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/espanyol-528" group-title="Đang phát" , 17-10-2026 19:00 ⚽ Espanyol vs Atlético Madrid [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om93YWZ4bms2aTBwcnhyNTlvbXFiNzh6cA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/venezia-267" group-title="Đang phát" , 17-10-2026 20:00 ⚽ Venezia vs Napoli [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOndzOGI5ZDZ0bTZhZXkyYjZwczZmaDN2YQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" group-title="Đang phát" , 17-10-2026 21:00 ⚽ Manchester City vs Ipswich Town [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzc6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmxyank3bGg5ZnFyZWl6M3d3dDV5NXVzdg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fulham-11" group-title="Đang phát" , 17-10-2026 21:00 ⚽ Fulham vs Hull City [LIVE] (Lẩu Ếch)
@@ -31,8 +27,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NzU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnB
 https://cdnhls.xbdbotv.live/live/MTk3MTU1ODA6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnU5enpheXM5dWY0ODI1OTAyYXRib2w0bg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Đang phát" , 18-10-2026 02:00 ⚽ Valencia vs Athletic Bilbao [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRoNTM2M3lmcHNya2VxbWhmNWFweTBlcQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/b038da03-3220-4337-8a92-05b6fe72afbd" group-title="Sắp diễn ra" , 18-10-2026 02:00 ⚽ Espanyol vs Atletico Madrid (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/espanyol-atm-laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/8ea25661-0d29-4b23-8175-9e75c067d67c" group-title="Sắp diễn ra" , 18-10-2026 03:00 ⚽ Venezia vs Napoli (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/venez-napoli-seriea/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/21025877-3c97-4f9e-83d1-eadcdde18680" group-title="Sắp diễn ra" , 18-10-2026 03:30 ⚽ 1. FC Union Berlin vs Borussia Dortmund (NGƯỜI BẠC)
