@@ -1,12 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bologna-8513" group-title="Đang phát" , 17-10-2026 23:00 ⚽ Bologna vs Inter Milan [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnZ4aG9mdmxocHgyZjNkc3FwNDd6NjF6dA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Real Betis vs FC Barcelona [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmVpM2p1aG53MGYwOTZhY3RtcGhsY21hag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Real Betis vs FC Barcelona [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NjI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZ2dGR0YmdzYXRyZ2xscDYyd2xhZGY3OA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-bayern-munchen-503" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Bayern Munich vs RB Leipzig [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MzUxNTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmpobjdnbHl3MDhpdGtjeWh6NDJhdzVrNg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Newcastle United vs Aston Villa [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmI1eHU5ZjNtZjNwM3QxcW9pMGtnbWh2eQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" group-title="Đang phát" , 18-10-2026 01:45 ⚽ AS Roma vs Genoa [LIVE] (TIGER)
@@ -21,14 +17,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1ODA6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnU
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRoNTM2M3lmcHNya2VxbWhmNWFweTBlcQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="Sắp diễn ra" , 18-10-2026 05:15 ⚽ RC Strasbourg Alsace vs Paris Saint Germain (NGƯỜI SÓI)
 https://hls.lauthaitv.cc/live/stras-pasg-ligue1/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bc0893f6-415a-4fa4-aaac-619b538cf183" group-title="Sắp diễn ra" , 18-10-2026 06:00 ⚽ Bologna vs Inter Milan (NGƯỜI THỎ)
-https://hls.lauthaitv.cc/live/bolog-inter-seriea/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/7b9d9e2d-778e-4e46-97f9-33846ac12e38" group-title="Sắp diễn ra" , 18-10-2026 06:30 ⚽ Newcastle United vs Aston Villa (NGƯỜI PHÁO)
-https://hls.lauthaitv.cc/live/new-ast-prem/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/402572ca-49c7-4139-aa30-b8a0457e47b9" group-title="Sắp diễn ra" , 18-10-2026 06:30 ⚽ Real Betis vs FC Barcelona (NGƯỜI BẠC)
-https://hls.lauthaitv.cc/live/betis-barce-laliga/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/0010a157-7c7f-44c7-a230-396cbab01db3" group-title="Sắp diễn ra" , 18-10-2026 06:30 ⚽ FC Bayern Munich vs RB Leipzig (NGƯỜI CÁO)
-https://hls.lauthaitv.cc/live/bayern-leipzig-bun/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/4ef564db-6218-466c-af18-409631532d25" group-title="Sắp diễn ra" , 18-10-2026 09:00 ⚽ Valencia CF vs Athletic Club (NGƯỜI CÁO)
 https://hls.lauthaitv.cc/live/valen-athle-laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="Sắp diễn ra" , 18-10-2026 10:00 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT)
