@@ -1,12 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/112aaa85-7e33-4e66-b2dd-27a6d4522651" group-title="Sắp diễn ra" , 17-10-2026 12:00 ⚽ Defensa Y Justicia vs Instituto de Córdoba (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/defensa-instituto-argdiv12/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/47275c59-f0d6-4b57-a5bc-e91ba6f63656" group-title="Sắp diễn ra" , 17-10-2026 13:00 ⚽ Mirassol vs Internacional (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/miras-interna-brasa/index.m3u8
+https://hls.lauthaitv.cc/live/miras-interna-brasa2/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/9ff3ad37-a557-448d-85af-0d0ea00f74da" group-title="Sắp diễn ra" , 17-10-2026 15:00 ⚽ Necaxa vs Atlas FC (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/necaxa-atlas-mexliga/index.m3u8
+https://hls.lauthaitv.cc/live/necaxa-atlas-mexliga1/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/39c21149-811a-4e69-9079-7ecd817f600c" group-title="Sắp diễn ra" , 17-10-2026 17:00 ⚽ Club Tijuana vs Puebla (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/tijuana-puebla-mexliga/index.m3u8
+https://hls.lauthaitv.cc/live/tijuana-puebla-mexliga1/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/26b2e8b5-5101-4e97-9b99-2d070bbf0d07" group-title="Sắp diễn ra" , 17-10-2026 19:00 ⚽ Tokyo Verdy vs FC Tokyo (NGƯỜI PHÁO)
 https://hls.lauthaitv.cc/live/verdy-tokyofc-j1/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/8a1ac361-930b-479e-88e1-7c9184a051b5" group-title="Sắp diễn ra" , 17-10-2026 20:00 ⚽ Macarthur FC vs Perth Glory (NGƯỜI CÁO)
