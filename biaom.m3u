@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ong-a-thanh-hoa-11246" group-title="Đang phát" , 17-10-2026 17:00 ⚽ Đông Á Thanh Hoá vs Thép Xanh Nam Định [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmJ5bXRwY2EydnF1czRtZGVhZzVmbW1rdA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shb-a-nang-15024" group-title="Đang phát" , 17-10-2026 18:00 ⚽ SHB Đà Nẵng vs Hải Phòng [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnhrM2tkaWhlbTlxNjV1MTRzZ2k0NmdyZw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/everton-13" group-title="Đang phát" , 17-10-2026 18:30 ⚽ Everton vs Chelsea [LIVE] (NEM NƯỚNG )
@@ -27,8 +25,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NjI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZ
 https://cdnhls.xbdbotv.live/live/MTk3MzUxNTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmpobjdnbHl3MDhpdGtjeWh6NDJhdzVrNg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Đang phát" , 17-10-2026 23:30 ⚽ Newcastle United vs Aston Villa [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmI1eHU5ZjNtZjNwM3QxcW9pMGtnbWh2eQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/0bc62dcb-9c80-4289-aec5-dec2cbc1512d" group-title="Sắp diễn ra" , 18-10-2026 00:00 ⚽ CLB Thanh Hoa vs Thep Xanh Nam Dinh (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/thanhhoa-namdinh-vleague/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/229a7053-6f45-4ac9-b30e-1ae6478daae6" group-title="Sắp diễn ra" , 18-10-2026 01:30 ⚽ Everton vs Chelsea (NGƯỜI PHÁO)
 https://hls.lauthaitv.cc/live/eve-che-prem/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-37" group-title="Đang phát" , 18-10-2026 01:45 ⚽ AS Roma vs Genoa [LIVE] (TIGER)
