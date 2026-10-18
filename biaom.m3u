@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" group-title="Đang phát" , 18-10-2026 17:30 ⚽ Udinese vs Lecce [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrc2c0OHR0eDF0aDc4YWNscnZ2b2cyYQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/osasuna-459" group-title="Đang phát" , 18-10-2026 19:00 ⚽ Osasuna vs Racing Santander [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmw5bXBtZmFkdmRxOG92dm5uY3MybzhiMw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Đang phát" , 18-10-2026 20:00 ⚽ Fiorentina vs Como [LIVE] (333)
@@ -21,7 +19,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMzU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm5
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm16cjEwYTJraGltNHhtb295ODA2NXEwag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/malaga-126" group-title="Đang phát" , 18-10-2026 23:30 ⚽ Málaga vs Real Sociedad [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm4zZGswZ3ZmbHQ0aW00azNuYWZkNzR3bQ/index.m3u8
-#EXTINF:-1 , 19-10-2026 00:30 ⚽ Udinese vs Lecce (NGƯỜI SÓI)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-twente-593" group-title="Đang phát" , 19-10-2026 01:00 ⚽ FC Twente vs FC Utrecht [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk3MTQ2MjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnpvOWM1anZlMGt0ZDN5anI1bXVheXNvdQ/index.m3u8
 #EXTINF:-1 , 19-10-2026 01:00 ⚽ Ninh Binh FC vs Hoang Anh Gia Lai (NGƯỜI BẠC)
