@@ -1,20 +1,16 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e3bb1ae7-786d-41e1-bd69-1b86a38fc571" group-title="Sắp diễn ra" , 18-10-2026 05:15 ⚽ RC Strasbourg Alsace vs Paris Saint Germain (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/stras-pasg-ligue1/index.m3u8
-#EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/3a9acb89-6ccf-4ef8-83b8-cbcea0d5bc0d" group-title="Sắp diễn ra" , 18-10-2026 10:00 ⚽ Malaga vs Real Sociedad (NGƯỜI CAT)
-https://hls.lauthaitv.cc/live/malaga-socie-laliga/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e25aa537-5465-48c8-8591-4cb11f3eab11" group-title="Sắp diễn ra" , 18-10-2026 13:07 ⚽ Guadalajara vs Tigres UANL (NGƯỜI CAT)
 https://hls.lauthaitv.cc/live/guada-tigres-mexliga2/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/0a53b431-7506-436e-b17d-2c35ae8b15a8" group-title="Sắp diễn ra" , 18-10-2026 13:30 ⚽ Atlanta United vs Inter Miami CF (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/atlanta-miami-mls/index.m3u8
+https://hls.lauthaitv.cc/live/atlanta-miami-mls2/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/95158410-9651-4159-aa63-4b8c0c5b86a8" group-title="Sắp diễn ra" , 18-10-2026 14:00 ⚽ Sao Paulo vs Vasco de Gama (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/saopaulo-vasco-brasa/index.m3u8
+https://hls.lauthaitv.cc/live/saopaulo-vasco-brasa2/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/e0b7a074-cc0f-4def-ba38-90304ddb2115" group-title="Sắp diễn ra" , 18-10-2026 16:30 ⚽ Los Angeles Galaxy vs San Diego (NGƯỜI NẶN)
-https://hls.lauthaitv.cc/live/lagalaxy-sandieago-mls/index.m3u8
+https://hls.lauthaitv.cc/live/lagalaxy-sandieago-mls2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wuhan-three-towns-235302" group-title="Đang phát" , 18-10-2026 17:00 ⚽ Wuhan Three Towns vs Shanghai Shenhua [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk2NzQ1OTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm9vMGR5NjlmYWJkNW16eDBvaGg2OHJwcw/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/bae59623-ea7b-439c-acb4-ae259dab86e5" group-title="Sắp diễn ra" , 18-10-2026 17:10 ⚽ Cruz Azul vs FC Juarez (NGƯỜI SÓI)
-https://hls.lauthaitv.cc/live/cruz-juarez-mexliga/index.m3u8
+https://hls.lauthaitv.cc/live/cruz-juarez-mexliga2/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" group-title="Đang phát" , 18-10-2026 17:30 ⚽ Udinese vs Lecce [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NDk6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrc2c0OHR0eDF0aDc4YWNscnZ2b2cyYQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://biaomtv.link/wp-json/s8-image/5416297a-e4be-4e2d-a960-4aac533a56cf" group-title="Sắp diễn ra" , 18-10-2026 18:55 ⚽ Fagiano Okayama vs Vissel Kobe (NGƯỜI NẶN)
