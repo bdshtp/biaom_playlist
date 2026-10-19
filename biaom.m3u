@@ -1,16 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Đang phát" , 19-10-2026 18:00 ⚽ Công an TP.Hồ Chí Minh vs Thể Công-Viettel [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnQ1NHMzNnpkMTVweGt6dHc5cXZrajYwNg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/alfayha-17724" group-title="Đang phát" , 19-10-2026 22:05 ⚽ Al-Fayha vs Al Ahli [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pZXZ5aXEyMjRsNmxsbWV5ZnozZDV5dw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/monza-1628" group-title="Đang phát" , 19-10-2026 23:30 ⚽ Monza vs Cagliari [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnk3N3VhNW1iZXRwenJ1Z2xwNTQ0NjJreA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/trabzonspor-688" group-title="Đang phát" , 20-10-2026 00:00 ⚽ Trabzonspor vs Beşiktaş [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3NDY1OTE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmplYTdweWhoMjdpcWYybnZyb3hwMmJwaw/index.m3u8
-#EXTINF:-1 , 20-10-2026 00:00 ⚽ Metalist Kharkiv vs Livyi Bereg (NGƯỜI BẠC)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-hilal-7011" group-title="Đang phát" , 20-10-2026 01:00 ⚽ Al Hilal vs Al Hazm [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Om4xZTJzYWMwenEycjUzMzEzcTM4ODNuNg/index.m3u8
-#EXTINF:-1 , 20-10-2026 01:00 ⚽ Cong An Ho Chi Minh FC vs The Cong Viettel (NGƯỜI DÊ)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/parma-398" group-title="Đang phát" , 20-10-2026 01:45 ⚽ Parma vs Torino FC [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm91bWc2YmJweG9yN2w5NWVweWwwcG9lYg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="Đang phát" , 20-10-2026 02:00 ⚽ Getafe vs Rayo Vallecano [LIVE] (Lẩu Ếch)
@@ -19,7 +15,9 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnR
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg/index.m3u8
 #EXTINF:-1 , 20-10-2026 02:30 ⚽ FC Belshina Babruisk vs Slavia Mozyr (NGƯỜI BẠC)
 #EXTINF:-1 , 20-10-2026 04:00 ⚽ Karagumruk vs Keciorengucu (NGƯỜI PHÁO)
+#EXTINF:-1 , 20-10-2026 04:00 ⚽ Karagumruk vs Keciorengucu (BLV Casting)
 #EXTINF:-1 , 20-10-2026 05:00 ⚽ FC Universitatea Cluj vs Arges (NGƯỜI DÊ)
+#EXTINF:-1 , 20-10-2026 05:00 ⚽ FC Universitatea Cluj vs Arges (BLV Casting)
 #EXTINF:-1 , 20-10-2026 05:05 ⚽ Al Fayha vs Al Ahli (NGƯỜI CÁO)
 #EXTINF:-1 , 20-10-2026 07:00 ⚽ Viborg vs Midtjylland (NGƯỜI PHÁO)
 #EXTINF:-1 , 20-10-2026 07:00 ⚽ Trabzonspor vs Besiktas JK (NGƯỜI CAT)
