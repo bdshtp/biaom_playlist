@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/monza-1628" group-title="Đang phát" , 19-10-2026 23:30 ⚽ Monza vs Cagliari [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NTI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnk3N3VhNW1iZXRwenJ1Z2xwNTQ0NjJreA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/trabzonspor-688" group-title="Đang phát" , 20-10-2026 00:00 ⚽ Trabzonspor vs Beşiktaş [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3NDY1OTE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmplYTdweWhoMjdpcWYybnZyb3hwMmJwaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-hilal-7011" group-title="Đang phát" , 20-10-2026 01:00 ⚽ Al Hilal vs Al Hazm [LIVE] (TIGER)
@@ -11,7 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnRtdGk5MnozM2t0dXozZjR1OGluZWt3cA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Đang phát" , 20-10-2026 02:00 ⚽ Tottenham Hotspur vs Coventry City [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg/index.m3u8
-#EXTINF:-1 , 20-10-2026 05:05 ⚽ Al Fayha vs Al Ahli (NGƯỜI CÁO)
 #EXTINF:-1 , 20-10-2026 07:00 ⚽ Viborg vs Midtjylland (NGƯỜI PHÁO)
 #EXTINF:-1 , 20-10-2026 07:00 ⚽ Trabzonspor vs Besiktas JK (NGƯỜI CAT)
 #EXTINF:-1 , 20-10-2026 08:00 ⚽ Al Hilal vs Al Hazem (NGƯỜI THỎ)
