@@ -9,8 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1NTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnRtdGk5MnozM2t0dXozZjR1OGluZWt3cA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Đang phát" , 20-10-2026 02:00 ⚽ Tottenham Hotspur vs Coventry City [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnkyNWdicThxcWU1Y2R0MDN1dmt2czBlNg/index.m3u8
-#EXTINF:-1 , 20-10-2026 07:00 ⚽ Viborg vs Midtjylland (NGƯỜI PHÁO)
-#EXTINF:-1 , 20-10-2026 07:00 ⚽ Trabzonspor vs Besiktas JK (NGƯỜI CAT)
 #EXTINF:-1 , 20-10-2026 08:00 ⚽ Al Hilal vs Al Hazem (NGƯỜI THỎ)
 #EXTINF:-1 , 20-10-2026 08:45 ⚽ Parma vs Torino (NGƯỜI CÁO)
 #EXTINF:-1 , 20-10-2026 09:00 ⚽ Tottenham Hotspur vs Coventry City (NGƯỜI CAT)
@@ -18,3 +16,25 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMzQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Onk
 #EXTINF:-1 , 20-10-2026 12:00 ⚽ Club Atlético Newell's Old Boys vs CA Central Cordoba SDE (NGƯỜI NẶN)
 #EXTINF:-1 , 20-10-2026 13:00 ⚽ Corinthians vs Vitoria (NGƯỜI SÓI)
 #EXTINF:-1 , 20-10-2026 15:05 ⚽ Deportivo Pasto vs Alianza Fútbol Club (NGƯỜI NẶN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bhayangkara-5631" group-title="Đang phát" , 20-10-2026 19:00 ⚽ Bhayangkara vs PSIM Yogyakarta [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk4MTM1Mjk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmsxdmsyeGlqaXlkZHNrbDFsdmF2ZDdrNA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/dewa-united-259106" group-title="Đang phát" , 20-10-2026 19:00 ⚽ Dewa United vs Persijap [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4MTM1Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnBrdWdkbWw2ZjI3ZWFraDA5b3Fpajcyag/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-draih-17733" group-title="Đang phát" , 20-10-2026 22:00 ⚽ Al Draih vs Al Riyadh [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NDc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmE3ZDMwd2diZTB5YWk2b3Rpamw2bnI5Nw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-taawoun-2392" group-title="Đang phát" , 20-10-2026 22:10 ⚽ Al Taawoun vs Al-Qadsiah [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NDg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omg3Mno3ajExaW96cDM5cXh4N3p5eHVtaQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Đang phát" , 20-10-2026 23:45 ⚽ Sabah vs Borussia Dortmund [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk4NzMyNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnc1aWJiNjV5MTZmODJ2cmQ2YTBhYzM3cQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fenerbahce-88" group-title="Đang phát" , 20-10-2026 23:45 ⚽ Fenerbahçe vs Slavia Praha [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4NzM2Nzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnIzbGwxOXJpOXhxeml4eHhheWllOGk0Mg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Đang phát" , 21-10-2026 01:00 ⚽ Al Nassr vs NEOM SC [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpN3dkOWRtajI1cWU2aHIxaHl2OTN3dw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Đang phát" , 21-10-2026 02:00 ⚽ VfB Stuttgart vs Atlético Madrid [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4NzMyMjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnFzMmdrd3plbWNscmY1MmNnem1zcWViNg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-saint-germain-591" group-title="Đang phát" , 21-10-2026 02:00 ⚽ Paris Saint-Germain vs FC Barcelona [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk4NzI1OTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZqbG5oM3J5dDNwZDNqczF2emdkMGFvOQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" group-title="Đang phát" , 21-10-2026 02:00 ⚽ Manchester City vs AEK Athens [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk4NzI2MjQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnY4d3g0cGpycXdsZWYzazdueDZvendlMw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 21-10-2026 02:00 ⚽ Liverpool vs Villarreal [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk4NzI2Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnMwZzJrZmFybG13eXE0bTkxdnc5ZWFicg/index.m3u8
