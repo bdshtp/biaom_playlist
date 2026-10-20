@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sabah-138649" group-title="Đang phát" , 20-10-2026 23:45 ⚽ Sabah vs Borussia Dortmund [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk4NzMyNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnc1aWJiNjV5MTZmODJ2cmQ2YTBhYzM3cQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fenerbahce-88" group-title="Đang phát" , 20-10-2026 23:45 ⚽ Fenerbahçe vs Slavia Praha [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NzM2Nzc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnIzbGwxOXJpOXhxeml4eHhheWllOGk0Mg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-nassr-2506" group-title="Đang phát" , 21-10-2026 01:00 ⚽ Al Nassr vs NEOM SC [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpN3dkOWRtajI1cWU2aHIxaHl2OTN3dw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Đang phát" , 21-10-2026 02:00 ⚽ VfB Stuttgart vs Atlético Madrid [LIVE] (TÔM CHIÊN)
@@ -13,8 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI1OTI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmZ
 https://cdnhls.xbdbotv.live/live/MTk4NzI2MjQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnY4d3g0cGpycXdsZWYzazdueDZvendlMw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 21-10-2026 02:00 ⚽ Liverpool vs Villarreal [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4NzI2Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnMwZzJrZmFybG13eXE0bTkxdnc5ZWFicg/index.m3u8
-#EXTINF:-1 , 21-10-2026 06:45 ⚽ Sabah Baku vs Borussia Dortmund (NGƯỜI CAT)
-#EXTINF:-1 , 21-10-2026 06:45 ⚽ Fenerbahce vs Slavia Praha (NGƯỜI DÊ)
 #EXTINF:-1 , 21-10-2026 08:00 ⚽ Al Nassr FC vs NEOM Sports Club (NGƯỜI CÁO)
 #EXTINF:-1 , 21-10-2026 09:00 ⚽ Paris Saint Germain vs FC Barcelona (NGƯỜI CAT)
 #EXTINF:-1 , 21-10-2026 09:00 ⚽ Paris Saint Germain vs FC Barcelona (NGƯỜI RÂM)
