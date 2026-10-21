@@ -1,10 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Đang phát" , 21-10-2026 23:45 ⚽ LOSC Lille vs Galatasaray [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk4NzMyNTE6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmw3eHg3eHAzank0YWlyeXl4dG04ejVodg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Đang phát" , 21-10-2026 23:45 ⚽ Como vs Manchester United [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk4NzI2MzQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnlhZXM1M2FxZjB6YnkxemxnNXpzdDc5bw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Đang phát" , 21-10-2026 23:45 ⚽ Como vs Manchester United [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk4NzI2MzQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om5qenR5NXVpNjB4bzFkNTZrOHlxZ2Vqaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/levante-3457" group-title="Đang phát" , 22-10-2026 01:00 ⚽ Levante vs Athletic Bilbao [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2ODY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmpwcXZwdnc3b3NkcmQyNjR2bmRjczQyeg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Đang phát" , 22-10-2026 02:00 ⚽ Real Madrid vs RB Leipzig [LIVE] (Lẩu Ếch)
@@ -15,9 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM2OTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmF
 https://cdnhls.xbdbotv.live/live/MTk4NzI2MDg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNnZTdnMTFodGIxMDdiY3I3b2dqZXJ3ag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Đang phát" , 22-10-2026 02:00 ⚽ Aston Villa vs Viking [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk4NzM2OTM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmlzdGJ0aDczbnNvM3Y0MHM2N2lpOTVpcg/index.m3u8
-#EXTINF:-1 , 22-10-2026 06:45 ⚽ Como vs Manchester United (NGƯỜI RÂM)
-#EXTINF:-1 , 22-10-2026 06:45 ⚽ Como vs Manchester United (NGƯỜI BẠC)
-#EXTINF:-1 , 22-10-2026 06:45 ⚽ LOSC Lille vs Galatasaray (NGƯỜI DÊ)
 #EXTINF:-1 , 22-10-2026 08:00 ⚽ Levante vs Athletic Club (NGƯỜI CÁO)
 #EXTINF:-1 , 22-10-2026 09:00 ⚽ Real Madrid vs RB Leipzig (NGƯỜI CAT)
 #EXTINF:-1 , 22-10-2026 09:00 ⚽ FC Bayern Munich vs Arsenal (NGƯỜI RÂM)
