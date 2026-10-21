@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Đang phát" , 22-10-2026 02:00 ⚽ Real Madrid vs RB Leipzig [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk4NzM2OTA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnZ0YnZuOW5qNGVpOWx4bWVlcjJzaDR4Zg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-betis-485" group-title="Đang phát" , 22-10-2026 02:00 ⚽ Real Betis vs Feyenoord [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NzM2OTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmFkaW15MDUwb3A0NXdoYXQ1cHdsejV0aQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-bayern-munchen-503" group-title="Đang phát" , 22-10-2026 02:00 ⚽ Bayern Munich vs Arsenal [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk4NzI2MDg6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNnZTdnMTFodGIxMDdiY3I3b2dqZXJ3ag/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Đang phát" , 22-10-2026 02:00 ⚽ Aston Villa vs Viking [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk4NzM2OTM6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmlzdGJ0aDczbnNvM3Y0MHM2N2lpOTVpcg/index.m3u8
 #EXTINF:-1 , 22-10-2026 12:00 ⚽ Montevideo City Torque vs Atlético Mineiro (NGƯỜI SÓI)
 #EXTINF:-1 , 22-10-2026 13:00 ⚽ FC Cincinnati vs DC United (NGƯỜI NẶN)
 #EXTINF:-1 , 22-10-2026 15:00 ⚽ Toluca vs Club Tijuana (NGƯỜI SÓI)
