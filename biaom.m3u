@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ajax-629" group-title="Đang phát" , 23-10-2026 02:00 ⚽ Ajax Amsterdam vs Atalanta [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk4NzQwMTQ6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOm1pZXcwOWE3d2djMjViNG95NG1mNDVnag/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tsg-hoffenheim-2726" group-title="Đang phát" , 23-10-2026 02:00 ⚽ TSG 1899 Hoffenheim vs Olympique Lyon [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4NzM5NDc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmVnM20wN3k2OTJna201NWhtczltbTQxMA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/celtic-53" group-title="Đang phát" , 23-10-2026 02:00 ⚽ Celtic vs Celta Vigo [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk4NzM5NTA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmRxMHBnem5nd2locXhkNW5qeTRsZ2p1aQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/afc-bournemouth-52" group-title="Đang phát" , 23-10-2026 02:00 ⚽ AFC Bournemouth vs Milan [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4NzM5NDQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZhNmR5bDllOXhtYzR2c2M5eHJzajhqYg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/besiktas-554" group-title="Đang phát" , 23-10-2026 02:00 ⚽ Beşiktaş vs Crystal Palace [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NzM5NDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnRlZHZzb3psdjc1d25rdGlhdXB4MHc5OA/index.m3u8
 #EXTINF:-1 , 23-10-2026 12:00 ⚽ Fluminense W vs Flamengo W (NGƯỜI SÓI)
 #EXTINF:-1 , 23-10-2026 14:30 ⚽ Flamengo vs Estudiantes La Plata (NGƯỜI NẶN)
 #EXTINF:-1 , 23-10-2026 15:00 ⚽ Atletico Nacional Medellin vs Deportivo Pasto (NGƯỜI PHÁO)
@@ -42,7 +32,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" group-title="Đang phát" , 24-10-2026 02:00 ⚽ Ipswich Town vs Nottingham Forest [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8
 #EXTINF:-1 , 24-10-2026 02:15 ⚽ The Cong Viettel vs Bac Ninh FC (NGƯỜI BẠC)
-#EXTINF:-1 , 24-10-2026 02:30 ⚽ Veres vs Kolos Kovalivka (NGƯỜI TRÂU)
+#EXTINF:-1 , 24-10-2026 02:30 ⚽ Ahal FK vs Al Ansar SC (NGƯỜI TRÂU)
 #EXTINF:-1 , 24-10-2026 03:30 ⚽ Al Faisaly vs Al Nassr FC (NGƯỜI RÂM)
 #EXTINF:-1 , 24-10-2026 05:00 ⚽ Botosani FC vs Petrolul Ploiesti (NGƯỜI PHÁO)
 #EXTINF:-1 , 24-10-2026 05:30 ⚽ Al Ittihad Club vs Al Diraiyah (NGƯỜI THỎ)
