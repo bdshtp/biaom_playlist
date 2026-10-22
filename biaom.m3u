@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kairat-3108" group-title="Đang phát" , 22-10-2026 21:30 ⚽ Kairat vs Panathinaikos [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk4NzQwMzM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Onh5Z2l1Mjh2ejUzdmR0dWE4am9lNGlodg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ofi-118" group-title="Đang phát" , 22-10-2026 23:45 ⚽ OFI vs Bayer Leverkusen [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk4NzM4Mjk6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmtnNmd3Y2VheWRscXoyaHp0OHVvMnM4cg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lech-poznan-302" group-title="Đang phát" , 22-10-2026 23:45 ⚽ Lech Poznań vs Sunderland [LIVE] (NEM NƯỚNG )
@@ -19,8 +17,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzM5NTA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmR
 https://cdnhls.xbdbotv.live/live/MTk4NzM5NDQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnZhNmR5bDllOXhtYzR2c2M5eHJzajhqYg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/besiktas-554" group-title="Đang phát" , 23-10-2026 02:00 ⚽ Beşiktaş vs Crystal Palace [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NzM5NDY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnRlZHZzb3psdjc1d25rdGlhdXB4MHc5OA/index.m3u8
-#EXTINF:-1 , 23-10-2026 04:30 ⚽ FC Kairat Almaty vs Panathinaikos (NGƯỜI BẠC)
-#EXTINF:-1 , 23-10-2026 04:45 ⚽ Al Fateh vs Al Shabab FC (NGƯỜI PHÁO)
 #EXTINF:-1 , 23-10-2026 06:45 ⚽ Lech Poznan vs Sunderland (NGƯỜI RÂM)
 #EXTINF:-1 , 23-10-2026 06:45 ⚽ Juventus vs Stade Rennais FC (NGƯỜI BẠC)
 #EXTINF:-1 , 23-10-2026 06:45 ⚽ OFI Crete FC vs Bayer 04 Leverkusen (NGƯỜI DÊ)
