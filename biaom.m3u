@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hoang-anh-gia-lai-2847" group-title="Đang phát" , 23-10-2026 17:00 ⚽ Hoàng Anh Gia Lai vs Sông Lam Nghệ An [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk4NzI5MjQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omx5am85anYyd2kyMXp2YjRsaWZqZ2c0ZQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/the-congviettel-18975" group-title="Đang phát" , 23-10-2026 19:15 ⚽ Thể Công-Viettel vs Bắc Ninh [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NzI5MjU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omc5bzVib3F5eTNudjJqZTBkOG9hdDFndw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-faisaly-6883" group-title="Đang phát" , 23-10-2026 20:30 ⚽ Al Faisaly vs Al Nassr [LIVE] (Vịt Nướng)
@@ -12,7 +10,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzU0MzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnR
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfl-bochum-1848-999" group-title="Đang phát" , 23-10-2026 23:30 ⚽ VfL Bochum 1848 vs VfL Wolfsburg [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk3MzU0Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmtkZGxjazYzczZ3bXdyNGhvd2hkeDJ5bg/index.m3u8
 #EXTINF:-1 , 24-10-2026 00:00 ⚽ Dynamo Kyiv vs Kudrivka (NGƯỜI NHỆN)
-#EXTINF:-1 , 24-10-2026 00:00 ⚽ Hoang Anh Gia Lai vs Song Lam Nghe An (NGƯỜI SÓI)
 #EXTINF:-1 , 24-10-2026 01:00 ⚽ Al-Arabi SC vs Al Nejmeh SC (NGƯỜI CÁO)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Đang phát" , 24-10-2026 01:30 ⚽ VfB Stuttgart vs Borussia Mönchengladbach [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk3MzUxNDE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmYwN3AzOXJsbTRpcjRpMGNiNHh1cHc5bQ/index.m3u8
