@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Đang phát" , 24-10-2026 01:30 ⚽ VfB Stuttgart vs Borussia Mönchengladbach [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MzUxNDE6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmYwN3AzOXJsbTRpcjRpMGNiNHh1cHc5bQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torino-613" group-title="Đang phát" , 24-10-2026 01:45 ⚽ Torino FC vs Monza [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1Mzk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmtycW5pNjU3NDB6b2ZlMnF5aGNsbnl5dw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brest-266" group-title="Đang phát" , 24-10-2026 01:45 ⚽ Brest vs OGC Nice [LIVE] (Vịt Nướng)
@@ -10,18 +8,37 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" group-title="Đang phát" , 24-10-2026 02:00 ⚽ Ipswich Town vs Nottingham Forest [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8
 #EXTINF:-1 , 24-10-2026 08:30 ⚽ VfB Stuttgart vs Borussia Monchengladbach (NGƯỜI CÁO)
-#EXTINF:-1 , 24-10-2026 08:45 ⚽ Stade Brestois 29 vs OGC Nice (NGƯỜI DÊ)
-#EXTINF:-1 , 24-10-2026 09:00 ⚽ Deportivo Alavés vs Malaga (NGƯỜI CAT)
-#EXTINF:-1 , 24-10-2026 09:00 ⚽ Ipswich Town vs Nottingham Forest (NGƯỜI RÂM)
 #EXTINF:-1 , 24-10-2026 11:30 ⚽ Gimnasia Mendoza vs CA Platense (NGƯỜI SÓI)
 #EXTINF:-1 , 24-10-2026 13:00 ⚽ Cruzeiro vs Remo (NGƯỜI NẶN)
 #EXTINF:-1 , 24-10-2026 15:00 ⚽ Necaxa vs FC Juarez (NGƯỜI SÓI)
 #EXTINF:-1 , 24-10-2026 17:00 ⚽ Atlante FC vs Atletico San Luis (NGƯỜI NẶN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Đang phát" , 24-10-2026 18:30 ⚽ Aston Villa vs Manchester City [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRndHZucXV2aGltaGNlOGNocWRpMzBsMA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rayo-vallecano-377" group-title="Đang phát" , 24-10-2026 19:00 ⚽ Rayo Vallecano vs Elche [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDY6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmY2YXByMTFmYTg0b3B0bHU5cGFoNjlhNw/index.m3u8
 #EXTINF:-1 , 24-10-2026 19:00 ⚽ Sanfrecce Hiroshima vs Shimizu S-Pulse (NGƯỜI DÊ)
 #EXTINF:-1 , 24-10-2026 19:00 ⚽ Ulsan HD FC vs Pohang Steelers (NGƯỜI TRÂU)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Đang phát" , 24-10-2026 20:00 ⚽ Como vs Sassuolo [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDU6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnM5Y3FocWhnejA2Zm01YTJiejh6anhnag/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Đang phát" , 24-10-2026 20:00 ⚽ Cagliari vs Bologna [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm1xYjA4cXRlYmVsZDE1a3huZ3Z4dHF1eQ/index.m3u8
 #EXTINF:-1 , 24-10-2026 20:00 ⚽ Vissel Kobe vs Machida Zelvia (NGƯỜI BẠC)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Đang phát" , 24-10-2026 21:00 ⚽ Coventry City vs Fulham [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onpra2R4YWNjcDFyNWxsdnd2ajVxc3Nvbw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Đang phát" , 24-10-2026 21:00 ⚽ Arsenal vs Everton [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRzZmoxdG1odGRuZ2JvaXR4b3FlZzR3Nw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 24-10-2026 21:15 ⚽ Racing Santander vs Espanyol [LIVE] (TRÚC BẠCH)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmF2NzZkYXlqOTQ0d3d4M3VyZWFnaHlzdQ/index.m3u8
 #EXTINF:-1 , 24-10-2026 21:30 ⚽ Tianjin Jinmen Tiger FC vs Shanghai Port FC (NGƯỜI NHỆN)
 #EXTINF:-1 , 24-10-2026 21:40 ⚽ Melbourne Victory vs Melbourne City (NGƯỜI THỎ)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Đang phát" , 24-10-2026 23:00 ⚽ Napoli vs AS Roma [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrbW15a243cXgyYnBmdWxpNHJteWZmNQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Đang phát" , 24-10-2026 23:30 ⚽ Valencia vs Villarreal [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk3MzI2NDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnNtejB2Z2J5MmQ1OXhqamwzaTd4YjJzdw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-dortmund-68" group-title="Đang phát" , 24-10-2026 23:30 ⚽ Borussia Dortmund vs Eintracht Frankfurt [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MzUxNDM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Ono3ZnA3cmVqbjVwN3NiYTk2ejZtenh5OQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="Đang phát" , 24-10-2026 23:30 ⚽ Chelsea vs Tottenham Hotspur [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk3MjIxMzE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOm9vaTY3c3VyNGl3bm4ycjVpd3pjcnplcQ/index.m3u8
 #EXTINF:-1 , 24-10-2026 23:45 ⚽ Akron Togliatti vs Dynamo Moscow (NGƯỜI CÁO)
 #EXTINF:-1 , 25-10-2026 01:00 ⚽ Hong Linh Ha Tinh vs XM Hai Phong FC (NGƯỜI THỎ)
 #EXTINF:-1 , 25-10-2026 01:00 ⚽ Truong Tuoi Dong Nai vs Thep Xanh Nam Dinh (NGƯỜI CAT)
@@ -40,3 +57,12 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8
 #EXTINF:-1 , 25-10-2026 06:30 ⚽ Borussia Dortmund vs Eintracht Frankfurt (NGƯỜI BẠC)
 #EXTINF:-1 , 25-10-2026 08:00 ⚽ Al Riyadh vs Al Taawoun (NGƯỜI PHÁO)
 #EXTINF:-1 , 25-10-2026 08:30 ⚽ Young Boys vs St. Gallen (NGƯỜI CÁO)
+#EXTINF:-1 , 25-10-2026 08:45 ⚽ Lazio vs Parma (NGƯỜI BẠC)
+#EXTINF:-1 , 25-10-2026 08:45 ⚽ RC Lens vs Paris FC (NGƯỜI TRÂU)
+#EXTINF:-1 , 25-10-2026 09:00 ⚽ Atletico Madrid vs Deportivo La Coruna (NGƯỜI RÂM)
+#EXTINF:-1 , 25-10-2026 09:30 ⚽ Gil Vicente vs FC Porto (NGƯỜI DÊ)
+#EXTINF:-1 , 25-10-2026 11:30 ⚽ New York Red Bulls vs Inter Miami CF (NGƯỜI NẶN)
+#EXTINF:-1 , 25-10-2026 12:30 ⚽ Chapecoense SC vs Fluminese (NGƯỜI SÓI)
+#EXTINF:-1 , 25-10-2026 14:30 ⚽ Santos FC vs Bahia (NGƯỜI NẶN)
+#EXTINF:-1 , 25-10-2026 15:30 ⚽ Real Salt Lake vs St.Louis City (NGƯỜI SÓI)
+#EXTINF:-1 , 25-10-2026 17:10 ⚽ Pumas U.N.A.M. vs Tigres UANL (NGƯỜI NHỆN)
