@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Đang phát" , 23-10-2026 22:30 ⚽ Al Ittihad vs Al Draih [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NjE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om5sbDBxZTNlODlpeHI3dmEwMmU1em16cQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/darmstadt-98-482" group-title="Đang phát" , 23-10-2026 23:30 ⚽ Darmstadt 98 vs FC St. Pauli [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MzU0MzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnRmcmF4OWI5dm9xN3pucG10ajhybnJhcQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vfb-stuttgart-3319" group-title="Đang phát" , 24-10-2026 01:30 ⚽ VfB Stuttgart vs Borussia Mönchengladbach [LIVE] (TIGER)
@@ -13,8 +11,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTU1NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm9
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ0am52OGlxcjVnZGwwcXdsZjhkNWxtMw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ipswich-town-116" group-title="Đang phát" , 24-10-2026 02:00 ⚽ Ipswich Town vs Nottingham Forest [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm8ybGtqNmZ4eXM1NmhkcHoxaHcxaHR4OQ/index.m3u8
-#EXTINF:-1 , 24-10-2026 05:30 ⚽ Al Ittihad Club vs Al Diraiyah (NGƯỜI THỎ)
-#EXTINF:-1 , 24-10-2026 06:00 ⚽ CSKA 1948 Sofia vs Botev Plovdiv (NGƯỜI DÊ)
 #EXTINF:-1 , 24-10-2026 06:30 ⚽ VfL Bochum 1848 vs VfL Wolfsburg (NGƯỜI CAT)
 #EXTINF:-1 , 24-10-2026 07:00 ⚽ Elfsborg vs Malmo FF (NGƯỜI TRÂU)
 #EXTINF:-1 , 24-10-2026 08:00 ⚽ Al Qadsiah vs Al Hilal (NGƯỜI THỎ)
