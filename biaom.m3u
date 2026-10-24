@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Đang phát" , 24-10-2026 20:00 ⚽ Como vs Sassuolo [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NDU6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnM5Y3FocWhnejA2Zm01YTJiejh6anhnag/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cagliari-585" group-title="Đang phát" , 24-10-2026 20:00 ⚽ Cagliari vs Bologna [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NDY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm1xYjA4cXRlYmVsZDE1a3huZ3Z4dHF1eQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/coventry-city-117" group-title="Đang phát" , 24-10-2026 21:00 ⚽ Coventry City vs Fulham [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMzA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onpra2R4YWNjcDFyNWxsdnd2ajVxc3Nvbw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-19" group-title="Đang phát" , 24-10-2026 21:00 ⚽ Arsenal vs Everton [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMzM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmRzZmoxdG1odGRuZ2JvaXR4b3FlZzR3Nw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 24-10-2026 21:15 ⚽ Racing Santander vs Espanyol [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NDc6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmF2NzZkYXlqOTQ0d3d4M3VyZWFnaHlzdQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Đang phát" , 24-10-2026 23:00 ⚽ Napoli vs AS Roma [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1NDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVrbW15a243cXgyYnBmdWxpNHJteWZmNQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/valencia-214" group-title="Đang phát" , 24-10-2026 23:30 ⚽ Valencia vs Villarreal [LIVE] (NEM NƯỚNG )
@@ -27,9 +17,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1NDI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm85M2NjeG9memwxZjN3cWtpMzNzaHZ1cw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Đang phát" , 25-10-2026 02:00 ⚽ Atlético Madrid vs Deportivo La Coruña [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag/index.m3u8
-#EXTINF:-1 , 25-10-2026 03:30 ⚽ FC Koln vs Schalke 04 (NGƯỜI CÁO)
-#EXTINF:-1 , 25-10-2026 04:00 ⚽ Coventry City vs Fulham (NGƯỜI TRÂU)
-#EXTINF:-1 , 25-10-2026 04:00 ⚽ Arsenal vs Everton (NGƯỜI PHÁO)
 #EXTINF:-1 , 25-10-2026 04:15 ⚽ Racing Santander vs Espanyol (NGƯỜI CAT)
 #EXTINF:-1 , 25-10-2026 05:00 ⚽ Shakhtar Donestk vs Zorya (NGƯỜI NHỆN)
 #EXTINF:-1 , 25-10-2026 06:00 ⚽ Napoli vs AS Roma (NGƯỜI THỎ)
