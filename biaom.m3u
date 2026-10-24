@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nurnberg-956" group-title="Đang phát" , 25-10-2026 01:30 ⚽ Nürnberg vs Kaiserslautern [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MzU0Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmdieDhueDRveWZ2ZnZweWNuM3o0NmQ1Yw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lazio-43" group-title="Đang phát" , 25-10-2026 01:45 ⚽ Lazio vs Parma [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1NDI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF5NWw3YmpqdmQwZ2l3ajl6amVubTFsYg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Đang phát" , 25-10-2026 01:45 ⚽ Lens vs Paris [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm85M2NjeG9memwxZjN3cWtpMzNzaHZ1cw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Đang phát" , 25-10-2026 02:00 ⚽ Atlético Madrid vs Deportivo La Coruña [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag/index.m3u8
-#EXTINF:-1 , 25-10-2026 09:30 ⚽ Gil Vicente vs FC Porto (NGƯỜI DÊ)
 #EXTINF:-1 , 25-10-2026 11:30 ⚽ New York Red Bulls vs Inter Miami CF (NGƯỜI DÊ)
 #EXTINF:-1 , 25-10-2026 12:30 ⚽ Chapecoense SC vs Fluminese (NGƯỜI SÓI)
 #EXTINF:-1 , 25-10-2026 14:30 ⚽ Santos FC vs Bahia (NGƯỜI NẶN)
@@ -34,6 +25,7 @@ https://cdnhls.xbdbotv.live/live/MTk3MjIxMjg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm8
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMjk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OndnZm1hZm5zdzJtc2l6bmpjNHJ3cmg4eg/index.m3u8
 #EXTINF:-1 , 25-10-2026 21:00 ⚽ FC Tokyo vs Mito Hollyhock (NGƯỜI CÁO)
 #EXTINF:-1 , 25-10-2026 22:00 ⚽ Arema FC vs Dewa United FC (NGƯỜI NẶN)
+#EXTINF:-1 , 25-10-2026 22:00 ⚽ Arema FC vs Dewa United FC (BLV Casting)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/celta-de-vigo-36" group-title="Đang phát" , 25-10-2026 22:15 ⚽ Celta Vigo vs Real Betis [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NDk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Oml0Mm1kZTN5Z2Jka2Fua3l1cjdyN3JyNA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Đang phát" , 25-10-2026 23:15 ⚽ Olympique Marseille vs Le Havre [LIVE] (TRÚC BẠCH)
