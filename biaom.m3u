@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-riyadh-17705" group-title="Đang phát" , 25-10-2026 01:00 ⚽ Al Riyadh vs Al Taawoun [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3Nzg3NTc6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnliZHkyeDJpcDc2M3RydHFrazJxbnl0ZA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nurnberg-956" group-title="Đang phát" , 25-10-2026 01:30 ⚽ Nürnberg vs Kaiserslautern [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3MzU0Mjg6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOmdieDhueDRveWZ2ZnZweWNuM3o0NmQ1Yw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lazio-43" group-title="Đang phát" , 25-10-2026 01:45 ⚽ Lazio vs Parma [LIVE] (Vịt Nướng)
@@ -9,10 +7,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1NDI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NzE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm85M2NjeG9memwxZjN3cWtpMzNzaHZ1cw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Đang phát" , 25-10-2026 02:00 ⚽ Atlético Madrid vs Deportivo La Coruña [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2NTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omw0bXFsNTlrdm9pY2ZraTY0dGE4NjQwag/index.m3u8
-#EXTINF:-1 , 25-10-2026 08:30 ⚽ Young Boys vs St. Gallen (NGƯỜI CÁO)
-#EXTINF:-1 , 25-10-2026 08:45 ⚽ Lazio vs Parma (NGƯỜI BẠC)
-#EXTINF:-1 , 25-10-2026 08:45 ⚽ RC Lens vs Paris FC (NGƯỜI TRÂU)
-#EXTINF:-1 , 25-10-2026 09:00 ⚽ Atletico Madrid vs Deportivo La Coruna (NGƯỜI RÂM)
 #EXTINF:-1 , 25-10-2026 09:30 ⚽ Gil Vicente vs FC Porto (NGƯỜI DÊ)
 #EXTINF:-1 , 25-10-2026 11:30 ⚽ New York Red Bulls vs Inter Miami CF (NGƯỜI DÊ)
 #EXTINF:-1 , 25-10-2026 12:30 ⚽ Chapecoense SC vs Fluminese (NGƯỜI SÓI)
