@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/udinese-346" group-title="Đang phát" , 26-10-2026 02:45 ⚽ Udinese vs Milan [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1Mzg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmhtN2FuY2h3Z2cybmxyNG92MW5rajFzZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 26-10-2026 03:00 ⚽ FC Barcelona vs Real Madrid [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmoxZmg3dnBuOWM5ZDJpOGQwNWhnY2lpNA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 26-10-2026 03:00 ⚽ FC Barcelona vs Real Madrid [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NDg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmxwODBkemhwdzZoN3JnZHlkbzgzcXgzNg/index.m3u8
-#EXTINF:-1 , 26-10-2026 11:05 ⚽ Alianza Fútbol Club vs Internacional de Bogota (NGƯỜI PHÁO)
-#EXTINF:-1 , 26-10-2026 12:15 ⚽ River Plate vs Racing Club (NGƯỜI NẶN)
 #EXTINF:-1 , 26-10-2026 13:00 ⚽ Atlas FC vs Puebla (NGƯỜI SÓI)
 #EXTINF:-1 , 26-10-2026 15:00 ⚽ Los Angeles FC vs Los Angeles Galaxy (NGƯỜI NẶN)
 #EXTINF:-1 , 26-10-2026 15:00 ⚽ Queretaro FC vs Cruz Azul (NGƯỜI SÓI)
