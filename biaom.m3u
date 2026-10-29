@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" group-title="Đang phát" , 29-10-2026 02:30 ⚽ Manchester City vs Brighton & Hove Albion [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4ODQwNjQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhwMjZkZTkwOGpwdm45c2VzOHBxZGZwNg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sunderland-3" group-title="Đang phát" , 29-10-2026 02:45 ⚽ Sunderland vs Brentford [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk4ODQwNjI6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnA4N3Q3YWcydHY2NHh6ZDZ4cGoyZXBlbg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fulham-11" group-title="Đang phát" , 29-10-2026 02:45 ⚽ Fulham vs Crystal Palace [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk4ODQwNTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1lYzQ5cjYzaG95eHNmcWhmY256djkzcg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/afc-bournemouth-52" group-title="Đang phát" , 29-10-2026 02:45 ⚽ AFC Bournemouth vs Aston Villa [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk4ODQwNTg6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4Omxkd2YzZHpmbzlma2syNXd1enMzd3o4MQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 29-10-2026 03:00 ⚽ Liverpool vs Chelsea [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmprNjVhcnUwMjg2Z2U4ZXpidXE1dnRsYg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 29-10-2026 03:00 ⚽ Liverpool vs Chelsea [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4ODQwNjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZyeTE0Y3lwbzVuYXFua3h1dXo0aTEzZQ/index.m3u8
-#EXTINF:-1 , 29-10-2026 12:30 ⚽ Santos FC vs Palmeiras (NGƯỜI SÓI)
-#EXTINF:-1 , 29-10-2026 13:30 ⚽ Inter Miami CF vs FC Cincinnati (NGƯỜI NẶN)
 #EXTINF:-1 , 29-10-2026 14:30 ⚽ Nashville FC vs Philadelphia Union (NGƯỜI SÓI)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/adelaide-united-2967" group-title="Đang phát" , 29-10-2026 14:45 ⚽ Adelaide United vs Lion City Sailors FC [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk4NjIyODg6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmswcG80aGZjczFqa3cyMmx2dG1qZHVkYg/index.m3u8
