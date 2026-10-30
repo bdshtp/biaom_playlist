@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sporting-braga-884" group-title="Đang phát" , 30-10-2026 01:45 ⚽ Sporting Braga vs Famalicão [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3NDQyNjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmtrYWJuODNjbThvd293YTh2ZDJ0NjU5eg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Đang phát" , 30-10-2026 02:45 ⚽ Fiorentina vs Atalanta [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1Mzc6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmdoZ2I0bXJ2YnQ4YzV2ZW5uNGxocTF6dA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/everton-13" group-title="Đang phát" , 30-10-2026 02:45 ⚽ Everton vs Newcastle United [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4ODQwNjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnpwdWM5cXljdnVvZWNsOHFwam0wMGZ4dw/index.m3u8
-#EXTINF:-1 , 30-10-2026 09:45 ⚽ Everton vs Newcastle United (NGƯỜI CAT)
-#EXTINF:-1 , 30-10-2026 09:45 ⚽ Fiorentina vs Atalanta (NGƯỜI DÊ)
-#EXTINF:-1 , 30-10-2026 12:30 ⚽ Atlético Mineiro vs Cruzeiro (NGƯỜI SÓI)
-#EXTINF:-1 , 30-10-2026 13:00 ⚽ Vasco de Gama vs Flamengo (NGƯỜI NẶN)
 #EXTINF:-1 , 30-10-2026 14:30 ⚽ Gremio vs Atletico Paranaense (NGƯỜI SÓI)
 #EXTINF:-1 , 30-10-2026 15:30 ⚽ Atletico Nacional Medellin vs Independiente Santa Fe (NGƯỜI NẶN)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brisbane-roar-1238" group-title="Đang phát" , 30-10-2026 16:00 ⚽ Brisbane Roar vs Auckland [LIVE] (SAPPORO)
