@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" group-title="Đang phát" , 01-11-2026 02:45 ⚽ Milan vs Inter Milan [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MjA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmRrOWpjOTRnb243MGJpbDF0YXpubWtnOA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/troyes-7047" group-title="Đang phát" , 01-11-2026 02:45 ⚽ Troyes vs Le Mans [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnN0NDNoMmg1d2FvdXZsbWdoNDZ2NTcydA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 01-11-2026 03:00 ⚽ FC Barcelona vs Deportivo Alavés [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmVkNTllZjB6bnBuZzYxdG5tZmdlNXFrcA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Đang phát" , 01-11-2026 03:00 ⚽ Aston Villa vs Fulham [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMjI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN5N3BueXJwNjBvbHMyYTFmYjFzN3U0aQ/index.m3u8
-#EXTINF:-1 , 01-11-2026 10:00 ⚽ Aston Villa vs Fulham (NGƯỜI CÁO)
-#EXTINF:-1 , 01-11-2026 13:00 ⚽ Pachuca vs Tigres UANL (NGƯỜI NẶN)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Đang phát" , 01-11-2026 15:00 ⚽ Perth Glory vs Adelaide United [LIVE] (TRÚC BẠCH)
 https://cdnhls.xbdbotv.live/live/MTk3NTg4MDU6bjlsaDFnc2lrZDhzZjZhZW5oZjl2cG9xOnMzajFhcnQ0MnY4YWhoMmx4ZmdidDF5dw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/perth-glory-300" group-title="Đang phát" , 01-11-2026 15:00 ⚽ Perth Glory vs Adelaide United [LIVE] (SAPPORO)
