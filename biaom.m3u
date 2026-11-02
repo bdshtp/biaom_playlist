@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Đang phát" , 02-11-2026 20:45 ⚽ Pakhtakor Tashkent vs Al Nassr [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMzU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmZoNXQybjQ3YTRpODVsbng0YTMwa2Y5Nw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/pakhtakor-3970" group-title="Đang phát" , 02-11-2026 20:45 ⚽ Pakhtakor Tashkent vs Al Nassr [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk4NjcxMzU6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnI4ZDFsaHJiOG5qam1yMWl2OWxvenp4bg/index.m3u8
-#EXTINF:-1 , 02-11-2026 22:00 ⚽ Central Stallions vs Deren FC (NGƯỜI BẠC)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Đang phát" , 02-11-2026 23:00 ⚽ Tractor Sazi vs Neftchi [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMjc6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnNkbzdheWZvaDRvdTc0dXkydmJ1cW1zOQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tractor-sazi-3411" group-title="Đang phát" , 02-11-2026 23:00 ⚽ Tractor Sazi vs Neftchi [LIVE] (333)
@@ -14,9 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NjcxMTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnh
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMTM6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnk4bTRtYTNnM2dtdTAzaGI0eHZyaXRxbw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Đang phát" , 03-11-2026 00:30 ⚽ Sassuolo vs Fiorentina [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1MTk6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmozcjNrcTd3c3owNXdtd3k3cms4eWg3cw/index.m3u8
-#EXTINF:-1 , 03-11-2026 01:00 ⚽ Kryvbas vs Dynamo Kyiv (NGƯỜI THỎ)
-#EXTINF:-1 , 03-11-2026 01:00 ⚽ Zorya vs FK Epitsentr Dunayivtsi (NGƯỜI BẠC)
-#EXTINF:-1 , 03-11-2026 02:00 ⚽ Chonburi FC vs BG Pathum United (NGƯỜI CHIẾN)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 03-11-2026 02:45 ⚽ Atalanta vs Parma [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1Mjc6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2Om1wNHE1NmRjMXNoZXRrZzF6Mjkxcjliag/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lorient-9257" group-title="Đang phát" , 03-11-2026 02:45 ⚽ Lorient vs Brest [LIVE] (Vịt Nướng)
@@ -27,11 +19,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2NDA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om1
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNqdHMyb2M5a2h0d2l1cXhuejRhb2J4Zg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Đang phát" , 03-11-2026 03:00 ⚽ Newcastle United vs Everton [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNkNTNudjhwOHhlZGM0MmtnNmcya2hmNg/index.m3u8
-#EXTINF:-1 , 03-11-2026 03:45 ⚽ Pakhtakor vs Al Nassr FC (LỮ BỐ)
-#EXTINF:-1 , 03-11-2026 03:45 ⚽ Pakhtakor vs Al Nassr FC (NGƯỜI RÂM)
-#EXTINF:-1 , 03-11-2026 05:00 ⚽ Krylya Sovetov vs Zenit St. Petersburg (NGƯỜI TRÂU)
-#EXTINF:-1 , 03-11-2026 05:15 ⚽ Real Oviedo vs UD Las Palmas (NGƯỜI NHỆN)
-#EXTINF:-1 , 03-11-2026 05:30 ⚽ FC Voluntari vs Farul Constanta (NGƯỜI CHIẾN)
 #EXTINF:-1 , 03-11-2026 06:00 ⚽ Al Sadd vs Al Ahli (NGƯỜI RÂM)
 #EXTINF:-1 , 03-11-2026 06:00 ⚽ Al Wasl SC vs Al Quwa Al Jawiya (NGƯỜI NẶN)
 #EXTINF:-1 , 03-11-2026 07:00 ⚽ Genclerbirligi vs Alanyaspor (NGƯỜI CAT)
