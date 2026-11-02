@@ -1,15 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/elche-1099" group-title="Đang phát" , 02-11-2026 00:30 ⚽ Elche vs Valencia [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2Mzk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOncwZ29jbHU1YmtmY3h6Z215MG80ejlrOQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Đang phát" , 02-11-2026 02:45 ⚽ Juventus vs Napoli [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MjM6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJpMXo2OGJmMXh2bWpzNHlxdGd3ZDFvMw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Đang phát" , 02-11-2026 02:45 ⚽ Olympique Marseille vs Toulouse FC [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NjE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnN4dWwwajcwOTltNWNweDBsMTJnb3hlNg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/athletic-club-13258" group-title="Đang phát" , 02-11-2026 03:00 ⚽ Athletic Bilbao vs Real Sociedad [LIVE] (TRÚC BẠCH)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2NDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOng2eDdqc3dla3I4NDQyZDYyNzgwd3h4Zw/index.m3u8
-#EXTINF:-1 , 02-11-2026 09:45 ⚽ Juventus vs Napoli (NGƯỜI CAT)
-#EXTINF:-1 , 02-11-2026 09:45 ⚽ Marseille vs Toulouse FC (NGƯỜI CÁO)
-#EXTINF:-1 , 02-11-2026 11:30 ⚽ Nashville FC vs New York Red Bulls (NGƯỜI NẶN)
 #EXTINF:-1 , 02-11-2026 13:00 ⚽ Santos Laguna vs Necaxa (NGƯỜI SÓI)
 #EXTINF:-1 , 02-11-2026 14:00 ⚽ New England Revolution vs Inter Miami CF (NGƯỜI NẶN)
 #EXTINF:-1 , 02-11-2026 16:45 ⚽ Portland Timbers vs Houston Dynamo (NGƯỜI SÓI)
