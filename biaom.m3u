@@ -1,35 +1,41 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-sociedad-594" group-title="Đang phát" , 08-11-2026 22:15 ⚽ Real Sociedad vs Rayo Vallecano [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MjY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnFiNzJkemdvc25zc2V6eWg2cnIydHpxbA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brest-266" group-title="Đang phát" , 08-11-2026 23:15 ⚽ Brest vs Olympique Lyon [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NTQ6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm9lcjZmeXI2M3B4ZDQyc2ZsZGlvOXloZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14" group-title="Đang phát" , 08-11-2026 23:30 ⚽ Manchester United vs Aston Villa [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmJreXkzemxqdXJhb3o1a3hoeXUyNnlkeQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-united-14" group-title="Đang phát" , 08-11-2026 23:30 ⚽ Manchester United vs Aston Villa [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMDY6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnFuZjhqOWcybmpicm1vdGl3b3Ixd2RnMg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Đang phát" , 09-11-2026 00:00 ⚽ Inter Milan vs Como [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnd3OGMxaXZoZHNpMGVvejd4YW02dHdhbA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/inter-2930" group-title="Đang phát" , 09-11-2026 00:00 ⚽ Inter Milan vs Como [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MTQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnJwNGxqdmhjaHIxcmswZWk2MHBhd2JrOQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/villarreal-3477" group-title="Đang phát" , 09-11-2026 00:30 ⚽ Villarreal vs Getafe [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MjM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Onc4NXdiOHl6NmVmNnp2MmsxZHlmd3Jraw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tsg-hoffenheim-2726" group-title="Đang phát" , 09-11-2026 01:30 ⚽ TSG 1899 Hoffenheim vs Schalke 04 [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MzUxMjI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmJleTA4aWhhZDZnMHhsdzgxc25tc2dwZg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fiorentina-109" group-title="Đang phát" , 09-11-2026 02:45 ⚽ Fiorentina vs Juventus [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MTY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmFmeXBwMzI3OWdudWozMWcwaDFmbzFidQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/lens-271" group-title="Đang phát" , 09-11-2026 02:45 ⚽ Lens vs Olympique Marseille [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnNuemM4cDE4Znk2eThzYXBtanluMWJqYw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Đang phát" , 09-11-2026 03:00 ⚽ Atlético Madrid vs FC Barcelona [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZybHRyd3pldnE5cjQ5cXBkeTF5bjR2aA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atletico-madrid-7980" group-title="Đang phát" , 09-11-2026 03:00 ⚽ Atlético Madrid vs FC Barcelona [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MzI6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnpvc2JnMmNndWdqenBka3B6MHk5dHJrZA/index.m3u8
-#EXTINF:-1 , 09-11-2026 06:15 ⚽ Stade Brestois 29 vs Lyon (NGƯỜI CÁO)
-#EXTINF:-1 , 09-11-2026 06:30 ⚽ Manchester United vs Aston Villa (NGƯỜI RÂM)
-#EXTINF:-1 , 09-11-2026 06:30 ⚽ Manchester United vs Aston Villa (NGƯỜI BẠC)
-#EXTINF:-1 , 09-11-2026 06:30 ⚽ SC Freiburg vs 1. FC Union Berlin (NGƯỜI THỎ)
-#EXTINF:-1 , 09-11-2026 07:00 ⚽ Inter Milan vs Como (NGƯỜI TRÂU)
-#EXTINF:-1 , 09-11-2026 07:30 ⚽ Villarreal CF vs Getafe (NGƯỜI CAT)
-#EXTINF:-1 , 09-11-2026 08:30 ⚽ TSG Hoffenheim vs Schalke 04 (NGƯỜI CÁO)
 #EXTINF:-1 , 09-11-2026 09:45 ⚽ RC Lens vs Marseille (NGƯỜI NHỆN)
 #EXTINF:-1 , 09-11-2026 10:00 ⚽ Atletico Madrid vs FC Barcelona (NGƯỜI RÂM)
 #EXTINF:-1 , 09-11-2026 11:15 ⚽ Bolivar vs The Strongest (NGƯỜI CÁO)
 #EXTINF:-1 , 09-11-2026 14:00 ⚽ Queretaro FC vs Puebla (NGƯỜI SÓI)
 #EXTINF:-1 , 09-11-2026 16:00 ⚽ Club Leon vs Club Deportivo Guadalajara (NGƯỜI SÓI)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cska-sofia-ii-7893" group-title="Đang phát" , 09-11-2026 19:30 ⚽ CSKA Sofia II vs Rilski Sportist [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MzE2ODk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmNmaHdlbDU0cW9zZzZ1NHg2NTE5YTNjNg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" group-title="Đang phát" , 09-11-2026 19:30 ⚽ Wadi Degla vs Kahraba Ismailia [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhhY3kzczZwajh2endkdWk5a3ltNnRrcA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/wadi-degla-7057" group-title="Đang phát" , 09-11-2026 19:30 ⚽ Wadi Degla vs Kahraba Ismailia [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk5MDI0NTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmRxbWt3NWIyYjh0MHZ2cmk2NDJpbXhhNQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/etar-3715" group-title="Đang phát" , 09-11-2026 22:00 ⚽ Etar vs Montana [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MzE2ODM6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxsbHZ6N3d4cWswbHRyamJpMmxnanFrYQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/zed-fc-238533" group-title="Đang phát" , 09-11-2026 22:00 ⚽ ZED FC vs Samanod [LIVE] (HÀU NƯỚNG)
+https://cdnhls.xbdbotv.live/live/MTk5MDI0NTg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnE4YW8wam1qenpqd3lraHI4NDR6dmI0bw/index.m3u8
+#EXTINF:-1 , 09-11-2026 23:00 ⚽ FC Victoria Mykolaivka vs Ahrobiznes Volochysk (NGƯỜI BẠC)
+#EXTINF:-1 , 10-11-2026 00:30 ⚽ Bentonit Idzhevan vs Araks Ararat (NGƯỜI NHỆN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" group-title="Đang phát" , 10-11-2026 01:00 ⚽ Botoşani vs Oțelul Galați [LIVE] (HÀU NƯỚNG)
+https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnUybXhvODU4Zm4xcTh1cDI4dHNwaWhjMQ/index.m3u8
+#EXTINF:-1 , 10-11-2026 02:30 ⚽ Wadi Degla SC vs Kahraba Ismailia (NGƯỜI BẠC)
+#EXTINF:-1 , 10-11-2026 03:00 ⚽ A.P.S. Zakynthos vs Niki Volou (NGƯỜI NẶN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067" group-title="Đang phát" , 10-11-2026 03:15 ⚽ Torreense vs União de Leiria [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8
+#EXTINF:-1 , 10-11-2026 05:00 ⚽ ZED FC vs Samanod (NGƯỜI RÂM)
+#EXTINF:-1 , 10-11-2026 06:00 ⚽ FC Iberia 1999 Tbilisi vs Gagra FC (NGƯỜI CAT)
+#EXTINF:-1 , 10-11-2026 06:30 ⚽ Veles Moscow vs KAMAZ Naberezhnye Chelny (NGƯỜI CÁO)
+#EXTINF:-1 , 10-11-2026 08:00 ⚽ Kristiansund BK vs Valerenga Fotbal Elite (NGƯỜI TRÂU)
+#EXTINF:-1 , 10-11-2026 08:00 ⚽ Botosani FC vs FC Otelul Galati (NGƯỜI NHỆN)
+#EXTINF:-1 , 10-11-2026 09:30 ⚽ Sabadell vs Real Sociedad B (NGƯỜI CÁO)
+#EXTINF:-1 , 10-11-2026 10:30 ⚽ Tecnico Universitario vs Manta FC (NGƯỜI TRÂU)
+#EXTINF:-1 , 10-11-2026 12:30 ⚽ Sportivo Luqueno vs Club Sportivo 2 de Mayo (NGƯỜI SÓI)
+#EXTINF:-1 , 10-11-2026 14:00 ⚽ Atletico Junior Barranquilla vs Cucuta Deportivo (NGƯỜI THỎ)
