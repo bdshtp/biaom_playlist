@@ -1,12 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/botosani-3195" group-title="Đang phát" , 10-11-2026 01:00 ⚽ Botoşani vs Oțelul Galați [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk3Mjk2NDU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnUybXhvODU4Zm4xcTh1cDI4dHNwaWhjMQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/torreense-7067" group-title="Đang phát" , 10-11-2026 03:15 ⚽ Torreense vs União de Leiria [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MzY0NjA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnZiOXl2cGN4cnJ4YTMwaTVqN2w4c2N5ZA/index.m3u8
-#EXTINF:-1 , 10-11-2026 09:30 ⚽ Sabadell vs Real Sociedad B (NGƯỜI CÁO)
-#EXTINF:-1 , 10-11-2026 10:30 ⚽ Tecnico Universitario vs Manta FC (NGƯỜI TRÂU)
-#EXTINF:-1 , 10-11-2026 12:30 ⚽ Sportivo Luqueno vs Club Sportivo 2 de Mayo (NGƯỜI THỎ)
-#EXTINF:-1 , 10-11-2026 14:00 ⚽ Atletico Junior Barranquilla vs Cucuta Deportivo (NGƯỜI SÓI)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Đang phát" , 10-11-2026 19:00 ⚽ Santa Clara U23 vs Torreense U23 [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3Njc4OTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omdvc3BlaHhia3d1ajRldTlpM2x4NDZ5Nw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Đang phát" , 10-11-2026 19:00 ⚽ Santa Clara U23 vs Torreense U23 [LIVE] (ASAHI)
