@@ -1,20 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Đang phát" , 10-11-2026 19:00 ⚽ Santa Clara U23 vs Torreense U23 [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3Njc4OTQ6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omdvc3BlaHhia3d1ajRldTlpM2x4NDZ5Nw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/santa-clara-u23-269423" group-title="Đang phát" , 10-11-2026 19:00 ⚽ Santa Clara U23 vs Torreense U23 [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3Njc4OTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Onp1eGZvYnUxNGUzcTl2eTZjcXliZG9oZA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Đang phát" , 10-11-2026 19:00 ⚽ Việt Nam U23 vs Thái Lan U23 [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk5MDQwNTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm04OXBvb3M1ZzZnbXU5NzdvZGJidG9qOA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Đang phát" , 10-11-2026 19:00 ⚽ Việt Nam U23 vs Thái Lan U23 [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk5MDQwNTA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnlyYmd6ank5NzhyZnVxNjdvNnVyZ2V6cw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-mokawloon-623" group-title="Đang phát" , 10-11-2026 22:00 ⚽ Al Mokawloon vs Telekom Egypt [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk5MDI0NTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmc4ODFybWRid2JybDM4Y3BoamQwZ2xxaQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Đang phát" , 11-11-2026 00:45 ⚽ Real Madrid W vs Paris W [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnVkbHR2dGpmZXlvZzFpejN1amR2cTkzeA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Đang phát" , 11-11-2026 00:45 ⚽ BK Häcken W vs Chelsea W [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmRkbWIzaHZvMHloMDNmOHJoYnVwenluNw/index.m3u8
-#EXTINF:-1 , 11-11-2026 02:00 ⚽ Vietnam U23 vs Thailand U23 (NGƯỜI RÂM)
-#EXTINF:-1 , 11-11-2026 02:00 ⚽ Santa Clara U23 vs Torreense U23 (NGƯỜI THỎ)
 #EXTINF:-1 tvg-logo="" group-title="Đang phát" , 11-11-2026 03:00 ⚽ Tavernes vs Valencia [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4OTMzNTY6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmxyZzNwMGtsM2ozYTZ3dnJwc3NwYXI5Mw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-sg-w-140488" group-title="Đang phát" , 11-11-2026 03:00 ⚽ Paris SG W vs Bayern Munich W [LIVE] (NEM NƯỚNG )
@@ -23,11 +7,29 @@ https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmF
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmM2ZzJydHB5ajFvOGl6NHphanQ5ZmxkMw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/roma-w-230721" group-title="Đang phát" , 11-11-2026 03:00 ⚽ AS Roma W vs Servette Chênois W [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MTU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOndkNjBxd2Fwc3RkZzM0bWJkeHQyOGc3bA/index.m3u8
-#EXTINF:-1 , 11-11-2026 05:00 ⚽ El Mokawloon El Arab vs Telecom Egypt (NGƯỜI SÓI)
-#EXTINF:-1 , 11-11-2026 07:45 ⚽ Real Madrid Women vs Paris FC Women (NGƯỜI CAT)
-#EXTINF:-1 , 11-11-2026 07:45 ⚽ Hacken Women vs Chelsea Women (NGƯỜI CÁO)
-#EXTINF:-1 , 11-11-2026 08:00 ⚽ CD Anaitasuna FT vs Deportivo Alavés (NGƯỜI NHỆN)
 #EXTINF:-1 , 11-11-2026 10:00 ⚽ Paris Saint Germain Women vs Bayern Munich Women (NGƯỜI TRÂU)
 #EXTINF:-1 , 11-11-2026 10:00 ⚽ Inter Milan Women vs Manchester City Women (NGƯỜI CÁO)
 #EXTINF:-1 , 11-11-2026 13:30 ⚽ Internacional de Bogota vs America de Cali (NGƯỜI THỎ)
 #EXTINF:-1 , 11-11-2026 15:30 ⚽ Deportiva Once Caldas vs Atletico Nacional Medellin (NGƯỜI NẶN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" group-title="Đang phát" , 11-11-2026 17:00 ⚽ Kawasaki Frontale vs Kashiwa Reysol [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnJlazZjYnk5Y2NhbHYyMGR5Z3Zva3p4Zw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kawasaki-frontale-3935" group-title="Đang phát" , 11-11-2026 17:00 ⚽ Kawasaki Frontale vs Kashiwa Reysol [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk5MDMxMDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnB1M2JlZzdub2h4OWIyOThxdHZqajVmaw/index.m3u8
+#EXTINF:-1 , 11-11-2026 22:00 ⚽ Luxembourg U17 vs Italy U17 (NGƯỜI BẠC)
+#EXTINF:-1 , 12-11-2026 00:00 ⚽ Vissel Kobe vs Machida Zelvia (NGƯỜI THỎ)
+#EXTINF:-1 , 12-11-2026 00:00 ⚽ Yokohama F.Marinos vs Kashima Antlers (NGƯỜI BẠC)
+#EXTINF:-1 , 12-11-2026 00:30 ⚽ Urawa Red Diamonds vs Cerezo Osaka (NGƯỜI TRÂU)
+#EXTINF:-1 , 12-11-2026 01:35 ⚽ China U19 vs Vietnam U19 (NGƯỜI NẶN)
+#EXTINF:-1 , 12-11-2026 02:00 ⚽ Viet Nam vs Chinese Taipei (NGƯỜI RÂM)
+#EXTINF:-1 , 12-11-2026 03:00 ⚽ Czech Republic U19 vs Netherlands U19 (NGƯỜI TRÂU)
+#EXTINF:-1 , 12-11-2026 03:00 ⚽ Germany U19 vs Sweden U19 (NGƯỜI CAT)
+#EXTINF:-1 , 12-11-2026 04:00 ⚽ Italy U19 vs Romania U19 (NGƯỜI NẶN)
+#EXTINF:-1 , 12-11-2026 05:00 ⚽ Spain U19 vs Iceland U19 (NGƯỜI RÂM)
+#EXTINF:-1 , 12-11-2026 06:00 ⚽ Czarni Sosnowiec Women vs SK Brann Women (NGƯỜI NHỆN)
+#EXTINF:-1 , 12-11-2026 07:00 ⚽ France U19 vs Norway U19 (NGƯỜI CAT)
+#EXTINF:-1 , 12-11-2026 08:00 ⚽ Malmo Women vs Ajax Amsterdam Women (NGƯỜI CÁO)
+#EXTINF:-1 , 12-11-2026 09:00 ⚽ Tottenham Hotspur Women vs Crystal Palace Women (NGƯỜI NHỆN)
+#EXTINF:-1 , 12-11-2026 10:00 ⚽ Juventus Women vs Lyon Women (NGƯỜI CÁO)
+#EXTINF:-1 , 12-11-2026 12:00 ⚽ Londrina PR vs Nautico (PE) (NGƯỜI THỎ)
+#EXTINF:-1 , 12-11-2026 15:00 ⚽ Toluca Women vs Club America Women (NGƯỜI SÓI)
+#EXTINF:-1 , 12-11-2026 17:00 ⚽ Pachuca Women vs Monterrey Women (NGƯỜI SÓI)
