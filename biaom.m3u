@@ -1,34 +1,40 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Đang phát" , 13-11-2026 00:00 ⚽ Armenia vs Síp [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmNwMzRubmhhMHd3a3I4c29rZXlmNDkxbw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" group-title="Đang phát" , 13-11-2026 00:00 ⚽ Thổ Nhĩ Kỳ vs Bỉ [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm9keDhqNXlncDJrbDU5dHhpMnljZTliMw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" group-title="Đang phát" , 13-11-2026 00:00 ⚽ Thổ Nhĩ Kỳ vs Bỉ [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OncxbDRuMmc5eDZjbWFnaGI4MGxodGZ6Yw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/navalcarnero-13433" group-title="Đang phát" , 13-11-2026 01:00 ⚽ Navalcarnero vs Real Betis [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk4OTMzNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pbWYxMWc3NWJiajcydzJjbndjNDl1eQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/montenegro-18836" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Montenegro vs Latvia [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk2NzY3NTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpZDI0djB3MXl2ejh1d3AwYzFxeW9naQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Albania vs Phần Lan [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk2NzY3NTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmdlejhkbzVzYzQzcnptaWZtc21wanU3Yg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Ý vs Pháp [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnhjejZ0cWk0YWo3aDNueWp3djU0c3pxZQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-18658" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Ý vs Pháp [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ0emplazVrYnR2bGc0amJya2NuOGp6dQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/czech-republic-18718" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Cộng hòa Séc vs Tây Ban Nha [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ1ZDIxc3gyOTF3Zm9yOGpwbWRlY3I1Zg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Anh vs Croatia [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk2NzY2NjA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNvN2kweDBzOHV0OXByd25yZjJ6N3NpcA/index.m3u8
-#EXTINF:-1 , 13-11-2026 05:00 ⚽ Uzbekistan vs Russia (NGƯỜI NẶN)
-#EXTINF:-1 , 13-11-2026 05:00 ⚽ Ghana vs Somalia (NGƯỜI TRÂU)
-#EXTINF:-1 , 13-11-2026 06:00 ⚽ D.R. Congo vs Sierra Leone (NGƯỜI NHỆN)
-#EXTINF:-1 , 13-11-2026 07:00 ⚽ Armenia vs Cyprus (NGƯỜI CAT)
-#EXTINF:-1 , 13-11-2026 07:00 ⚽ Turkiye vs Belgium (NGƯỜI NẶN)
-#EXTINF:-1 , 13-11-2026 09:00 ⚽ Senegal vs Sudan (NGƯỜI CÁO)
-#EXTINF:-1 , 13-11-2026 09:00 ⚽ Cote d'Ivoire vs Gambia (NGƯỜI NHỆN)
-#EXTINF:-1 , 13-11-2026 09:45 ⚽ Italy vs France (NGƯỜI TRÂU)
-#EXTINF:-1 , 13-11-2026 09:45 ⚽ Czechia vs Spain (NGƯỜI RÂM)
-#EXTINF:-1 , 13-11-2026 09:45 ⚽ England vs Croatia (NGƯỜI CAT)
 #EXTINF:-1 , 13-11-2026 12:00 ⚽ Boca Juniors Reserves vs Newells Old Boys Reserves (NGƯỜI SÓI)
 #EXTINF:-1 , 13-11-2026 13:00 ⚽ Estudiantes La Plata vs Independiente Rivadavia (NGƯỜI THỎ)
 #EXTINF:-1 , 13-11-2026 14:00 ⚽ Curacao vs Panama (NGƯỜI SÓI)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/saudi-arabia-18562" group-title="Đang phát" , 13-11-2026 21:30 ⚽ Ả Rập Xê Út vs Hàn Quốc [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk5MDI0MDM6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmhtNDluYjRmNXY2a3VkZGIyaHZrdGt6eQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/qatar-18544" group-title="Đang phát" , 13-11-2026 21:45 ⚽ Qatar vs Úc [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4ODMzMDA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ6NDluMWYxaHpuOTl3eWxham9ydHExeQ/index.m3u8
+#EXTINF:-1 , 13-11-2026 22:30 ⚽ Preston Lions vs Queensland Lions SC (NGƯỜI BẠC)
+#EXTINF:-1 , 13-11-2026 22:30 ⚽ Oakleigh Cannons vs Marconi Stallions (NGƯỜI NHỆN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/moldova-18778" group-title="Đang phát" , 14-11-2026 00:00 ⚽ Moldova vs Kazakhstan [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk2NzY3NTU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnUycjVlcmp0a240ZGRuNjhsejRlbGkxbg/index.m3u8
+#EXTINF:-1 , 14-11-2026 02:00 ⚽ Singapore vs Paraguay (NGƯỜI NẶN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-18694" group-title="Đang phát" , 14-11-2026 02:45 ⚽ Hà Lan vs Hy Lạp [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk2NzY2NTk6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmtkY3FlNWFlNWhkb2d4c2Nlb2h3Z3lpOA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bulgaria-18690" group-title="Đang phát" , 14-11-2026 02:45 ⚽ Bulgaria vs Iceland [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3NTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmg1b3Rzb204enlnNmhqb204OXFidDlzcg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/slovenia-18630" group-title="Đang phát" , 14-11-2026 02:45 ⚽ Slovenia vs Thuỵ Sĩ [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3MTA6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmhkNHBkaXAzc3ZnOGJ1MXV3Z2JteGxlaw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/scotland-18706" group-title="Đang phát" , 14-11-2026 02:45 ⚽ Scotland vs Macedonia [LIVE] (HÀU NƯỚNG)
+https://cdnhls.xbdbotv.live/live/MTk2NzY3MTE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnRicG81OGJkbnNtMG5rbGE5cnpqenpscg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/serbia-18873" group-title="Đang phát" , 14-11-2026 02:45 ⚽ Serbia vs Đức [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk2NzY2NTg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnZ3a2R2N3hnMmhzeTZkc3NyOGFxMG1mdA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/netherlands-18694" group-title="Đang phát" , 14-11-2026 02:45 ⚽ Hà Lan vs Hy Lạp [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk2NzY2NTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Om1naXhmdTVpandibHVldHlqMWI1OWZkYw/index.m3u8
+#EXTINF:-1 , 14-11-2026 03:00 ⚽ Zambia vs Burundi (NGƯỜI THỎ)
+#EXTINF:-1 , 14-11-2026 03:00 ⚽ Comoros vs Republic of the Congo (NGƯỜI RÂM)
+#EXTINF:-1 , 14-11-2026 04:30 ⚽ Saudi Arabia vs South Korea (NGƯỜI BẠC)
+#EXTINF:-1 , 14-11-2026 04:45 ⚽ Qatar vs Australia (NGƯỜI NHỆN)
+#EXTINF:-1 , 14-11-2026 06:00 ⚽ South Africa vs Kenya (NGƯỜI CAT)
+#EXTINF:-1 , 14-11-2026 06:00 ⚽ Nigeria vs Tanzania (NGƯỜI TRÂU)
+#EXTINF:-1 , 14-11-2026 07:00 ⚽ Moldova vs Kazakhstan (NGƯỜI CÁO)
+#EXTINF:-1 , 14-11-2026 09:00 ⚽ Egypt vs Malawi (NGƯỜI TRÂU)
+#EXTINF:-1 , 14-11-2026 09:45 ⚽ Serbia vs Germany (NGƯỜI RÂM)
+#EXTINF:-1 , 14-11-2026 09:45 ⚽ Netherlands vs Greece (NGƯỜI CAT)
+#EXTINF:-1 , 14-11-2026 09:45 ⚽ Slovenia vs Switzerland (NGƯỜI CÁO)
+#EXTINF:-1 , 14-11-2026 13:00 ⚽ Argentina vs Uruguay (NGƯỜI NẶN)
+#EXTINF:-1 , 14-11-2026 14:00 ⚽ Colombia vs Chile (NGƯỜI THỎ)
+#EXTINF:-1 , 14-11-2026 14:00 ⚽ Ecuador vs Costa Rica (NGƯỜI SÓI)
+#EXTINF:-1 , 14-11-2026 16:00 ⚽ Guatemala vs Canada (NGƯỜI SÓI)
