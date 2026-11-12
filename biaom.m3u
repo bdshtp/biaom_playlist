@@ -1,28 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Đang phát" , 12-11-2026 17:00 ⚽ Hwacheon KSPO W vs Gyeongju W [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk5MDI3NTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOno4YmdmNTl2Z2V6YzJsaDByMGhxdXpqZg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hwacheon-kspo-w-236963" group-title="Đang phát" , 12-11-2026 17:00 ⚽ Hwacheon KSPO W vs Gyeongju W [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk5MDI3NTA6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnJyZWN5aGpxajNkOGl4czdvdjAyNXE5Zw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Đang phát" , 12-11-2026 19:00 ⚽ Việt Nam U23 vs Singapore U23 [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk5MDUxNDg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOndtazViNmNjd3NuZTRodWM3NHBrMjVjOA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/vietnam-u23-131092" group-title="Đang phát" , 12-11-2026 19:00 ⚽ Việt Nam U23 vs Singapore U23 [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk5MDUxNDg6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnEwMW9sdWV1bDVqdXU5aTI3ZjY0am5qaQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/dayrout-250626" group-title="Đang phát" , 12-11-2026 19:30 ⚽ Dayrout vs Proxy [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3NzYxMjc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmVwc3hoa2RjcThwYmljcWh1aXBncHV1cQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nasr-16500" group-title="Đang phát" , 12-11-2026 19:30 ⚽ Nasr vs Pharco [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3NzYxMjQ6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmxvN2t2djg4OW1lNTZnb25xcTZ4dzA2eQ/index.m3u8
-#EXTINF:-1 , 12-11-2026 20:00 ⚽ New Zealand vs India (NGƯỜI BẠC)
-#EXTINF:-1 , 12-11-2026 22:00 ⚽ Thailand U23 vs Qatar U23 (NGƯỜI BẠC)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/armenia-18639" group-title="Đang phát" , 13-11-2026 00:00 ⚽ Armenia vs Síp [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmNwMzRubmhhMHd3a3I4c29rZXlmNDkxbw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" group-title="Đang phát" , 13-11-2026 00:00 ⚽ Thổ Nhĩ Kỳ vs Bỉ [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm9keDhqNXlncDJrbDU5dHhpMnljZTliMw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/turkey-18716" group-title="Đang phát" , 13-11-2026 00:00 ⚽ Thổ Nhĩ Kỳ vs Bỉ [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjM6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OncxbDRuMmc5eDZjbWFnaGI4MGxodGZ6Yw/index.m3u8
-#EXTINF:-1 , 13-11-2026 00:00 ⚽ Hwacheon WFC (w) vs Gyeongju (w) (NGƯỜI THỎ)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/navalcarnero-13433" group-title="Đang phát" , 13-11-2026 01:00 ⚽ Navalcarnero vs Real Betis [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4OTMzNDM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOm5pbWYxMWc3NWJiajcydzJjbndjNDl1eQ/index.m3u8
-#EXTINF:-1 , 13-11-2026 02:00 ⚽ Singapore U23 vs Vietnam U23 (NGƯỜI RÂM)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/montenegro-18836" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Montenegro vs Latvia [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk2NzY3NTY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZpZDI0djB3MXl2ejh1d3AwYzFxeW9naQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/albania-18641" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Albania vs Phần Lan [LIVE] (TÔM CHIÊN)
@@ -35,7 +19,6 @@ https://cdnhls.xbdbotv.live/live/MTk2NzY2NjI6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmJ1ZDIxc3gyOTF3Zm9yOGpwbWRlY3I1Zg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/england-18645" group-title="Đang phát" , 13-11-2026 02:45 ⚽ Anh vs Croatia [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk2NzY2NjA6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmNvN2kweDBzOHV0OXByd25yZjJ6N3NpcA/index.m3u8
-#EXTINF:-1 , 13-11-2026 03:00 ⚽ Iceland U21 vs Greece U21 (NGƯỜI CÁO)
 #EXTINF:-1 , 13-11-2026 05:00 ⚽ Uzbekistan vs Russia (NGƯỜI NẶN)
 #EXTINF:-1 , 13-11-2026 05:00 ⚽ Ghana vs Somalia (NGƯỜI TRÂU)
 #EXTINF:-1 , 13-11-2026 06:00 ⚽ D.R. Congo vs Sierra Leone (NGƯỜI NHỆN)
