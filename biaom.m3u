@@ -1,28 +1,12 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-tpho-chi-minh-13369" group-title="Đang phát" , 18-11-2026 18:00 ⚽ Công an TP.Hồ Chí Minh vs Buriram United [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MjA0NzI6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmR1MTh1N3k5ZGE2YjV3dHhpZDMycWk2MA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tampines-rovers-8105" group-title="Đang phát" , 18-11-2026 18:30 ⚽ Tampines Rovers vs Ratchaburi Mitrphol FC [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MjA0NzM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOndjZ2UwNTFpbnVscGF6Nmo3Y284a3pwZA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borneo-3157" group-title="Đang phát" , 18-11-2026 19:00 ⚽ Borneo vs Manila Digger [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MjA0NzE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ1NnRoYzR4cHFqMDlrbTVheXd3d3lqaw/index.m3u8
-#EXTINF:-1 , 18-11-2026 23:30 ⚽ Cerezo Osaka Sakai vs Urawa Red Diamonds Ladies Women (NGƯỜI BẠC)
-#EXTINF:-1 , 19-11-2026 00:00 ⚽ Suwon FC Women vs Gyeongju WFC Women (NGƯỜI THỎ)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Đang phát" , 19-11-2026 00:45 ⚽ Real Madrid W vs Inter Milano W [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmdiY3U1N3VwNWNjMWliM2hqbndlbWhhaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-w-250321" group-title="Đang phát" , 19-11-2026 00:45 ⚽ Real Madrid W vs Inter Milano W [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDc6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmUwOGxyY24zcG0xNmJuYWMyaXE4bDY4Yw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hacken-w-253910" group-title="Đang phát" , 19-11-2026 00:45 ⚽ BK Häcken W vs Manchester City W [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnYycTFncHFuaWRtY2RkcTAzNTE2NGlkcQ/index.m3u8
-#EXTINF:-1 , 19-11-2026 01:30 ⚽ Tampines Rovers FC vs Ratchaburi FC (NGƯỜI BẠC)
-#EXTINF:-1 , 19-11-2026 02:00 ⚽ Borneo FC vs Manila Digger FC (NGƯỜI TRÂU)
-#EXTINF:-1 , 19-11-2026 02:30 ⚽ Cong An Ho Chi Minh FC vs Buriram United (NGƯỜI RÂM)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-w-229269" group-title="Đang phát" , 19-11-2026 03:00 ⚽ Juventus W vs OH Leuven W [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDU6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnRwNjR1NmR3OXhld3poNmJlc3AyaTd1eQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-w-59583" group-title="Đang phát" , 19-11-2026 03:00 ⚽ Chelsea W vs Paris SG W [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmN6ZzlsM2t0M3J4dGxya2E4d3Fqa216Mw/index.m3u8
-#EXTINF:-1 , 19-11-2026 05:00 ⚽ El Gounah vs Al Ittihad (NGƯỜI RÂM)
-#EXTINF:-1 , 19-11-2026 05:30 ⚽ Al Buqaa vs Jerash Club (NGƯỜI CAT)
-#EXTINF:-1 , 19-11-2026 06:00 ⚽ Tabor Sezana vs NK Fuzinar (NGƯỜI NHỆN)
 #EXTINF:-1 , 19-11-2026 07:45 ⚽ Real Madrid Women vs Inter Milan Women (NGƯỜI CAT)
 #EXTINF:-1 , 19-11-2026 07:45 ⚽ Hacken Women vs Manchester City Women (NGƯỜI CÁO)
 #EXTINF:-1 , 19-11-2026 09:30 ⚽ Deportiva Minera vs FC Cartagena (NGƯỜI TRÂU)
