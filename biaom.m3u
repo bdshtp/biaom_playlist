@@ -1,29 +1,19 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/svay-rieng-27157" group-title="Đang phát" , 19-11-2026 19:00 ⚽ Svay Rieng vs Port FC [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MjA0Njg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Omh6MXVxcnh0Mzdjb3kydG9lcDJvM3F4MA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/persib-10211" group-title="Đang phát" , 19-11-2026 19:00 ⚽ Persib vs Shan United [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MjA0NzA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmtrOXB5ZjhsbnJnNGlhcXQwc3Q0eGZjbA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Đang phát" , 19-11-2026 19:30 ⚽ Công an Hà Nội vs Johor Darul Ta'zim [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk3MjA0Njk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmU2ZXdxdzgxdGJ4dHNoNWlocnp0c25uNw/index.m3u8
-#EXTINF:-1 , 19-11-2026 22:30 ⚽ Queensland Lions SC vs South Coast Wolves (NGƯỜI BẠC)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" group-title="Đang phát" , 20-11-2026 00:45 ⚽ Austria Wien W vs Bayern Munich W [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmZiNm1maWhkYXI1d210d3JueWxtc3I4bg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/paris-w-230767" group-title="Đang phát" , 20-11-2026 00:45 ⚽ Paris W vs Køge [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDM6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnRrbjI1b3l6Mjk1eTY3bmNjb29mcmltdQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/austria-wien-w-264551" group-title="Đang phát" , 20-11-2026 00:45 ⚽ Austria Wien W vs Bayern Munich W [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnF3M2J5eG9zcndsZDQweXN1YmtwZ2tvNg/index.m3u8
-#EXTINF:-1 , 20-11-2026 02:00 ⚽ Persib Bandung vs Shan United (NGƯỜI BẠC)
-#EXTINF:-1 , 20-11-2026 02:00 ⚽ Svay Rieng FC vs Port FC (NGƯỜI NẶN)
-#EXTINF:-1 , 20-11-2026 02:30 ⚽ Cong An Ha Noi FC vs Johor Darul Ta'zim (NGƯỜI RÂM)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/barcelona-w-134470" group-title="Đang phát" , 20-11-2026 03:00 ⚽ Barcelona W vs Servette Chênois W [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmtpbnBxc212OTNheXVzOGpvdmxxaXpkcQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/arsenal-w-62847" group-title="Đang phát" , 20-11-2026 03:00 ⚽ Arsenal W vs Lyon W [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk4Nzk1MDI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnlxODk4NGtmNjY3aWkydnpqMmx6N3E3Ng/index.m3u8
 #EXTINF:-1 , 20-11-2026 03:00 ⚽ France U17 vs Haiti U17 (NGƯỜI TRÂU)
-#EXTINF:-1 , 20-11-2026 03:30 ⚽ South Korea U17 vs Uganda U17 (NGƯỜI CAT)
-#EXTINF:-1 , 20-11-2026 04:00 ⚽ Saudi Arabia U17 vs Uruguay U17 (NGƯỜI NẶN)
-#EXTINF:-1 , 20-11-2026 05:25 ⚽ Al Ain FC vs Al-Dhafra (NGƯỜI TRÂU)
-#EXTINF:-1 , 20-11-2026 05:30 ⚽ Qatar U17 vs Panama U17 (NGƯỜI CAT)
-#EXTINF:-1 , 20-11-2026 06:00 ⚽ Argentina U17 vs Australia U17 (NGƯỜI RÂM)
+#EXTINF:-1 , 20-11-2026 06:00 ⚽ Argentina U17 vs Australia U17 (NGƯỜI CAT)
 #EXTINF:-1 , 20-11-2026 07:45 ⚽ Austria Wien Women vs Bayern Munich Women (NGƯỜI NHỆN)
 #EXTINF:-1 , 20-11-2026 07:45 ⚽ Paris FC Women vs HB Koge 's Women (NGƯỜI THỎ)
 #EXTINF:-1 , 20-11-2026 10:00 ⚽ Barcelona Women vs Servette Women (NGƯỜI NHỆN)
 #EXTINF:-1 , 20-11-2026 10:00 ⚽ Arsenal Women vs Lyon Women (NGƯỜI THỎ)
+#EXTINF:-1 , 20-11-2026 12:30 ⚽ Vasco de Gama vs Internacional (NGƯỜI CÁO)
+#EXTINF:-1 , 20-11-2026 14:30 ⚽ Sao Paulo vs Fluminese (NGƯỜI CÁO)
+#EXTINF:-1 , 20-11-2026 14:30 ⚽ Orlando City vs FC Cincinnati (NGƯỜI SÓI)
+#EXTINF:-1 , 20-11-2026 17:00 ⚽ Seattle Sounders vs Real Salt Lake (NGƯỜI SÓI)
