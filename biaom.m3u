@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 , 20-11-2026 12:30 ⚽ Vasco de Gama vs Internacional (NGƯỜI CÁO)
-#EXTINF:-1 , 20-11-2026 14:30 ⚽ Sao Paulo vs Fluminese (NGƯỜI CÁO)
-#EXTINF:-1 , 20-11-2026 14:30 ⚽ Orlando City vs FC Cincinnati (NGƯỜI SÓI)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Đang phát" , 20-11-2026 15:40 ⚽ Western Sydney Wanderers vs Adelaide United [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3NTg3OTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmFtdXgwMTh4aDI5djRzMnM3aWE2eHhkNQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/western-sydney-wanderers-1264" group-title="Đang phát" , 20-11-2026 15:40 ⚽ Western Sydney Wanderers vs Adelaide United [LIVE] (TIGER)
@@ -12,7 +9,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI5NDQ6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnE
 https://cdnhls.xbdbotv.live/live/MTk3MTkxNTk6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmpiYTZrYjYwbjkxcHcwZHNieXE3bmhjcg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kashima-antlers-3690" group-title="Đang phát" , 20-11-2026 17:00 ⚽ Kashima Antlers vs Shimizu S-Pulse [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MTkxNjA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnNmamdzMmEwdjZqbjRnM2M2dXlzejZxaA/index.m3u8
-#EXTINF:-1 , 20-11-2026 17:00 ⚽ Seattle Sounders vs Real Salt Lake (NGƯỜI SÓI)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/beijing-guoan-3370" group-title="Đang phát" , 20-11-2026 18:35 ⚽ Beijing Guoan vs Shanghai Port [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MjY5MzE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN0dWRzbmdwcjgzbm9nMTVjN2NrY201aQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/dewa-united-259106" group-title="Đang phát" , 20-11-2026 19:00 ⚽ Dewa United vs Persita [LIVE] (Lẩu Ếch)
@@ -23,7 +19,7 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI5NDU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmV
 https://cdnhls.xbdbotv.live/live/MTk3MDk3MzU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnhyMGdvYWM3MnczZHU3OHJmbnk1N3R2bw/index.m3u8
 #EXTINF:-1 , 20-11-2026 22:30 ⚽ PSS Sleman vs Arema FC (NGƯỜI BẠC)
 #EXTINF:-1 , 20-11-2026 22:40 ⚽ Western Sydney Wandereres vs Adelaide United (NGƯỜI TRÂU)
-#EXTINF:-1 , 21-11-2026 00:00 ⚽ CLB Thanh Hoa vs Hoang Anh Gia Lai (NGƯỜI CAT)
+#EXTINF:-1 , 21-11-2026 00:00 ⚽ CLB Thanh Hoa vs Hoang Anh Gia Lai (NGƯỜI CÁO)
 #EXTINF:-1 , 21-11-2026 00:00 ⚽ Kashima Antlers vs Shimizu S-Pulse (NGƯỜI NẶN)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/darmstadt-98-482" group-title="Đang phát" , 21-11-2026 00:30 ⚽ Darmstadt 98 vs Heidenheim [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MzU0MDE6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmlkejVvYTZsenh5bXppZ2NnZ2VtZGdndw/index.m3u8
