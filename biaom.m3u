@@ -1,51 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/manchester-city-9" group-title="Đang phát" , 21-11-2026 19:30 ⚽ Manchester City vs Fulham [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MjIwOTY6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnEybTEwb25neHhtZTZjazY1Y2c3enpzMw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/deportivo-alaves-2975" group-title="Đang phát" , 21-11-2026 20:00 ⚽ Deportivo Alavés vs Deportivo La Coruña [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MjI6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmFjNDI2a2N3cnh6aG9vbW9pdDU1NXhzMQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/como-268" group-title="Đang phát" , 21-11-2026 21:00 ⚽ Como vs Cagliari [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MDU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmNwOWt0b29jMXhvbDNkNjM2N3k0dzJ2OQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/borussia-monchengladbach-683" group-title="Đang phát" , 21-11-2026 21:30 ⚽ Borussia Mönchengladbach vs Borussia Dortmund [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MzUxMTE6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmZ1bXdub3Q3NzN5MXVwNGtvY290d2dybQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/aston-villa-15" group-title="Đang phát" , 21-11-2026 22:00 ⚽ Aston Villa vs Sunderland [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMDI6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOml3ZWxyb2tmcjV3aGk1azY1cWtwanNsbw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/tottenham-hotspur-6" group-title="Đang phát" , 21-11-2026 22:00 ⚽ Tottenham Hotspur vs Ipswich Town [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MjIwOTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmE0ZTdwbG80Znh0MG1hcmZmaTRsMG8xNQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/chelsea-18" group-title="Đang phát" , 21-11-2026 22:00 ⚽ Chelsea vs Leeds United [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk3MjIxMDA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmdweWE4NWNlNWkweHkydDhoMzM0MW9wbQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/rayo-vallecano-377" group-title="Đang phát" , 21-11-2026 22:15 ⚽ Rayo Vallecano vs Valencia [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MTU6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm4zemUydXdwdmY5dzJ5NzAzeTd6aWU2cQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/nice-450" group-title="Đang phát" , 21-11-2026 23:15 ⚽ OGC Nice vs Paris Saint-Germain [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NDI6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZ5ZGg2YXU0anZkNGc4cmdybGVqbTFrcQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/parma-398" group-title="Đang phát" , 22-11-2026 00:00 ⚽ Parma vs AS Roma [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk3MTM0OTk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OmM5cHJqdmtpdjkzOHRlODcxa29qcmd1cg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sevilla-676" group-title="Đang phát" , 22-11-2026 00:30 ⚽ Sevilla vs Real Betis [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MTM6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnJoYXpvZ3J2YjR1ZjVzbWZrcmRyMG0xaA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/schalke-04-67" group-title="Đang phát" , 22-11-2026 00:30 ⚽ Schalke 04 vs VfB Stuttgart [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MzUxMDk6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnpieGtlMDNvdnI3ZmVkOWt3cHRtYndjNA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Đang phát" , 22-11-2026 00:30 ⚽ Newcastle United vs Arsenal [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MjIwOTU6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmw0MW9wb3NmZzJ4Mjd5bWJhenJld2gxdA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-united-20" group-title="Đang phát" , 22-11-2026 00:30 ⚽ Newcastle United vs Arsenal [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MjIwOTU6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOnkybzNqaHowOW9ieDd3dXJoNmxoZ3lnMQ/index.m3u8
-#EXTINF:-1 , 22-11-2026 02:30 ⚽ Manchester City vs Fulham (NGƯỜI CÁO)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Đang phát" , 22-11-2026 02:45 ⚽ Napoli vs Torino FC [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MTM1MDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnFtNGVmc3VxZ3ZyeXJnMnFraWNwNTNlcg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Đang phát" , 22-11-2026 02:45 ⚽ LOSC Lille vs Olympique Lyon [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NDY6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnR4bnkwMDVldmt3bjRieXBmaXZqYjNrNg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Đang phát" , 22-11-2026 03:00 ⚽ Real Madrid vs Celta Vigo [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om40cXgxZ203YW80N3o3ZTZ5enM3MHJ4Mg/index.m3u8
-#EXTINF:-1 , 22-11-2026 03:00 ⚽ Deportivo Alavés vs Deportivo La Coruna (NGƯỜI THỎ)
-#EXTINF:-1 , 22-11-2026 03:00 ⚽ Galatasaray vs Samsunspor (NGƯỜI BẠC)
-#EXTINF:-1 , 22-11-2026 04:00 ⚽ Como vs Cagliari (NGƯỜI NHỆN)
-#EXTINF:-1 , 22-11-2026 04:30 ⚽ Borussia Monchengladbach vs Borussia Dortmund (NGƯỜI SÓI)
-#EXTINF:-1 , 22-11-2026 05:00 ⚽ Tottenham Hotspur vs Ipswich Town (NGƯỜI NẶN)
-#EXTINF:-1 , 22-11-2026 05:00 ⚽ Chelsea vs Leeds United (NGƯỜI RÂM)
-#EXTINF:-1 , 22-11-2026 05:00 ⚽ Bournemouth AFC vs Nottingham Forest (NGƯỜI CÁO)
-#EXTINF:-1 , 22-11-2026 05:00 ⚽ Aston Villa vs Sunderland (NGƯỜI BẠC)
-#EXTINF:-1 , 22-11-2026 06:15 ⚽ OGC Nice vs Paris Saint Germain (NGƯỜI NHỆN)
-#EXTINF:-1 , 22-11-2026 07:00 ⚽ Parma vs AS Roma (NGƯỜI CÁO)
-#EXTINF:-1 , 22-11-2026 07:30 ⚽ Newcastle United vs Arsenal (NGƯỜI RÂM)
-#EXTINF:-1 , 22-11-2026 07:30 ⚽ Sevilla FC vs Real Betis (NGƯỜI TRÂU)
 #EXTINF:-1 , 22-11-2026 09:45 ⚽ Napoli vs Torino (NGƯỜI CÁO)
 #EXTINF:-1 , 22-11-2026 09:45 ⚽ LOSC Lille vs Lyon (NGƯỜI TRÂU)
 #EXTINF:-1 , 22-11-2026 10:00 ⚽ Real Madrid vs RC Celta (NGƯỜI CAT)
@@ -53,3 +12,68 @@ https://cdnhls.xbdbotv.live/live/MTk3MzI2MTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om4
 #EXTINF:-1 , 22-11-2026 13:00 ⚽ Inter Miami CF vs Columbus Crew (NGƯỜI SÓI)
 #EXTINF:-1 , 22-11-2026 15:00 ⚽ Pumas U.N.A.M vs Rayados de Monterrey (NGƯỜI THỎ)
 #EXTINF:-1 , 22-11-2026 17:00 ⚽ Tigres UANL vs Club America (NGƯỜI SÓI)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" group-title="Đang phát" , 22-11-2026 18:00 ⚽ Hồng Lĩnh Hà Tĩnh vs Công an TP.Hồ Chí Minh [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk4NzI5NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5sdHB6N2Jka2poYWM4YzRqdDFrcHYwbw/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shb-a-nang-15024" group-title="Đang phát" , 22-11-2026 18:00 ⚽ SHB Đà Nẵng vs Ninh Bình [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk4NzI5NDk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ3ZTFuNXM5MXR2ZHZidHJ4ZHM4Nzk4cA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Đang phát" , 22-11-2026 18:30 ⚽ Juventus vs Venezia [LIVE] (SAPPORO)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmY1MmthNThoeWk3MXBpdzVobWFwdjdpMQ/index.m3u8
+#EXTINF:-1 , 22-11-2026 19:00 ⚽ Gwangju Football Club vs Bucheon FC 1995 (NGƯỜI BẠC)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 22-11-2026 20:00 ⚽ FC Barcelona vs Villarreal [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2MjA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmp6cmsyNDJ4MXg5b3V5cm9rNzNzNGc0NA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 22-11-2026 20:00 ⚽ FC Barcelona vs Villarreal [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2MjA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmZ0M2xreDFhMnozMTQzM3d0dXVkOXA1NQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Đang phát" , 22-11-2026 21:00 ⚽ Sassuolo vs Genoa [LIVE] (TÔM CHIÊN)
+https://cdnhls.xbdbotv.live/live/MTk3MTM0OTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9lbmJld3gzdXQ3a2k5ZGo5Y25xZTIyeA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bologna-8513" group-title="Đang phát" , 22-11-2026 21:00 ⚽ Bologna vs Udinese [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MDY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp0OXdvczJncGp3cHlka25weTJwYTk4NQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hull-city-22" group-title="Đang phát" , 22-11-2026 21:00 ⚽ Hull City vs Brighton & Hove Albion [LIVE] (HÀU NƯỚNG)
+https://cdnhls.xbdbotv.live/live/MTk3MjIwOTg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm53a2k5ZjB2MWg3Z3podmhkanNlM2R4bA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-augsburg-90" group-title="Đang phát" , 22-11-2026 21:30 ⚽ FC Augsburg vs FSV Mainz 05 [LIVE] (ASAHI)
+https://cdnhls.xbdbotv.live/live/MTk3MzUxMTM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmIxdWg1eWI1bmFkc2tyNnkwcG9uYjQ4Zg/index.m3u8
+#EXTINF:-1 , 22-11-2026 21:30 ⚽ Dingnan United vs Guizhou Guiyang Athletic FC (NGƯỜI BẠC)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 22-11-2026 22:15 ⚽ Racing Santander vs Real Sociedad [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2MTY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnp4enN5czM2YTAzNG80aGJ4cGI2OXFubg/index.m3u8
+#EXTINF:-1 , 22-11-2026 22:30 ⚽ Isenmulang Kalteng vs Borneo FC (NGƯỜI NẶN)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/werder-bremen-82" group-title="Đang phát" , 22-11-2026 23:30 ⚽ Werder Bremen vs Hamburger SV [LIVE] (HÀU NƯỚNG)
+https://cdnhls.xbdbotv.live/live/MTk3MzUxMTA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmdsc3M4YXpiNTh3Z2kzNnF2dGNjb3Y0OA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 22-11-2026 23:30 ⚽ Liverpool vs Manchester United [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MjIwOTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmd4MmgxcTFzb3h4b2YzcXJxZ3N6NDdxOA/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 22-11-2026 23:30 ⚽ Liverpool vs Manchester United [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk3MjIwOTc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmJ5bWhiNDhucW0xMGVmanNveHN0dml5YQ/index.m3u8
+#EXTINF:-1 , 22-11-2026 23:30 ⚽ Kuala Lumpur City FC vs Penang FC (NGƯỜI TRÂU)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" group-title="Đang phát" , 23-11-2026 00:00 ⚽ Milan vs Frosinone [LIVE] (333)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MDI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmM3bm1reWlsbmF2MGZqeDl1MDAxZGNmdg/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/osasuna-459" group-title="Đang phát" , 23-11-2026 00:30 ⚽ Osasuna vs Málaga [LIVE] (NEM NƯỚNG )
+https://cdnhls.xbdbotv.live/live/MTk3MzI2MTc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ6eTdoeThkcHF5b2s5N3h5OWJzeTZ2NQ/index.m3u8
+#EXTINF:-1 , 23-11-2026 00:30 ⚽ Erzurumspor FK vs Goztepe (NGƯỜI NHỆN)
+#EXTINF:-1 , 23-11-2026 01:00 ⚽ SHB Da Nang vs Ninh Binh FC (NGƯỜI RÂM)
+#EXTINF:-1 , 23-11-2026 01:00 ⚽ Hong Linh Ha Tinh vs Cong An Ho Chi Minh FC (NGƯỜI CAT)
+#EXTINF:-1 , 23-11-2026 01:30 ⚽ Juventus vs Venezia (NGƯỜI NẶN)
+#EXTINF:-1 , 23-11-2026 02:00 ⚽ Burnley vs Blackburn Rovers (NGƯỜI CÁO)
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Atalanta vs Inter Milan [LIVE] (Lẩu Ếch)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MDc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmR5YjNodnUxeDNpeHp5eGRwZWEzdDVzcQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Atalanta vs Inter Milan [LIVE] (TIGER)
+https://cdnhls.xbdbotv.live/live/MTk3MTM1MDc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmRpZTltYXltNXM5c3I3ZG1lcTV4c3NmeQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Olympique Marseille vs Le Mans [LIVE] (Vịt Nướng)
+https://cdnhls.xbdbotv.live/live/MTk3MTU1NDQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF4MDl0cTN0cXZ2anNjOHIwMnh1NHM4YQ/index.m3u8
+#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="Đang phát" , 23-11-2026 03:00 ⚽ Getafe vs Atlético Madrid [LIVE] (HÀU NƯỚNG)
+https://cdnhls.xbdbotv.live/live/MTk3MzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmp3ZDhjcGdzZTFyMnllcTJtajdlcDZ0MA/index.m3u8
+#EXTINF:-1 , 23-11-2026 03:00 ⚽ FC Barcelona vs Villarreal CF (NGƯỜI RÂM)
+#EXTINF:-1 , 23-11-2026 03:30 ⚽ AFC Ajax vs ADO Den Haag (NGƯỜI SÓI)
+#EXTINF:-1 , 23-11-2026 04:00 ⚽ Hull City vs Brighton Hove Albion (NGƯỜI CAT)
+#EXTINF:-1 , 23-11-2026 04:00 ⚽ Bologna vs Udinese (NGƯỜI THỎ)
+#EXTINF:-1 , 23-11-2026 04:30 ⚽ FC Augsburg vs 1. FSV Mainz 05 (NGƯỜI NẶN)
+#EXTINF:-1 , 23-11-2026 05:15 ⚽ Racing Santander vs Real Sociedad (NGƯỜI TRÂU)
+#EXTINF:-1 , 23-11-2026 06:30 ⚽ Liverpool vs Manchester United (NGƯỜI BẠC)
+#EXTINF:-1 , 23-11-2026 06:30 ⚽ Liverpool vs Manchester United (NGƯỜI RÂM)
+#EXTINF:-1 , 23-11-2026 07:00 ⚽ AC Milan vs Frosinone (NGƯỜI NHỆN)
+#EXTINF:-1 , 23-11-2026 07:30 ⚽ CA Osasuna vs Malaga (NGƯỜI CÁO)
+#EXTINF:-1 , 23-11-2026 08:15 ⚽ Sarpsborg 08 vs Lillestrom (NGƯỜI TRÂU)
+#EXTINF:-1 , 23-11-2026 09:45 ⚽ Atalanta vs Inter Milan (NGƯỜI NHỆN)
+#EXTINF:-1 , 23-11-2026 09:45 ⚽ Marseille vs Le Mans (NGƯỜI CÁO)
+#EXTINF:-1 , 23-11-2026 10:00 ⚽ Getafe vs Atletico Madrid (NGƯỜI CAT)
+#EXTINF:-1 , 23-11-2026 11:30 ⚽ Fluminese vs Mirassol (NGƯỜI SÓI)
+#EXTINF:-1 , 23-11-2026 12:30 ⚽ Red Bull Bragantino vs Vasco de Gama (NGƯỜI THỎ)
+#EXTINF:-1 , 23-11-2026 13:30 ⚽ Chicago Fire vs Charlotte FC (NGƯỜI SÓI)
+#EXTINF:-1 , 23-11-2026 15:00 ⚽ Queretaro FC vs Necaxa (NGƯỜI THỎ)
