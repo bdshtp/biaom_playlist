@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/hong-linh-ha-tinh-12296" group-title="Đang phát" , 22-11-2026 18:00 ⚽ Hồng Lĩnh Hà Tĩnh vs Công an TP.Hồ Chí Minh [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NzI5NDg6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm5sdHB6N2Jka2poYWM4YzRqdDFrcHYwbw/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shb-a-nang-15024" group-title="Đang phát" , 22-11-2026 18:00 ⚽ SHB Đà Nẵng vs Ninh Bình [LIVE] (TÔM CHIÊN)
-https://cdnhls.xbdbotv.live/live/MTk4NzI5NDk6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnQ3ZTFuNXM5MXR2ZHZidHJ4ZHM4Nzk4cA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/juventus-625" group-title="Đang phát" , 22-11-2026 18:30 ⚽ Juventus vs Venezia [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MDQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmY1MmthNThoeWk3MXBpdzVobWFwdjdpMQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 22-11-2026 20:00 ⚽ FC Barcelona vs Villarreal [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MjA6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmp6cmsyNDJ4MXg5b3V5cm9rNzNzNGc0NA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-barcelona-83" group-title="Đang phát" , 22-11-2026 20:00 ⚽ FC Barcelona vs Villarreal [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MjA6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmZ0M2xreDFhMnozMTQzM3d0dXVkOXA1NQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/sassuolo-2714" group-title="Đang phát" , 22-11-2026 21:00 ⚽ Sassuolo vs Genoa [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk3MTM0OTg6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6Om9lbmJld3gzdXQ3a2k5ZGo5Y25xZTIyeA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bologna-8513" group-title="Đang phát" , 22-11-2026 21:00 ⚽ Bologna vs Udinese [LIVE] (NEM NƯỚNG )
@@ -17,26 +7,18 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1MDY6dWppY2ViaXFnN2Fmazdhendla3Q3azE3Omp
 https://cdnhls.xbdbotv.live/live/MTk3MjIwOTg6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm53a2k5ZjB2MWg3Z3podmhkanNlM2R4bA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/fc-augsburg-90" group-title="Đang phát" , 22-11-2026 21:30 ⚽ FC Augsburg vs FSV Mainz 05 [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk3MzUxMTM6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OmIxdWg1eWI1bmFkc2tyNnkwcG9uYjQ4Zg/index.m3u8
-#EXTINF:-1 , 22-11-2026 21:30 ⚽ Dingnan United vs Guizhou Guiyang Athletic FC (NGƯỜI BẠC)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/racing-santander-9818" group-title="Đang phát" , 22-11-2026 22:15 ⚽ Racing Santander vs Real Sociedad [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MTY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnp4enN5czM2YTAzNG80aGJ4cGI2OXFubg/index.m3u8
-#EXTINF:-1 , 22-11-2026 22:30 ⚽ Isenmulang Kalteng vs Borneo FC (NGƯỜI NẶN)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/werder-bremen-82" group-title="Đang phát" , 22-11-2026 23:30 ⚽ Werder Bremen vs Hamburger SV [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk3MzUxMTA6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmdsc3M4YXpiNTh3Z2kzNnF2dGNjb3Y0OA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 22-11-2026 23:30 ⚽ Liverpool vs Manchester United [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MjIwOTc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmd4MmgxcTFzb3h4b2YzcXJxZ3N6NDdxOA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/liverpool-8" group-title="Đang phát" , 22-11-2026 23:30 ⚽ Liverpool vs Manchester United [LIVE] (TIGER)
 https://cdnhls.xbdbotv.live/live/MTk3MjIwOTc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmJ5bWhiNDhucW0xMGVmanNveHN0dml5YQ/index.m3u8
-#EXTINF:-1 , 22-11-2026 23:30 ⚽ Kuala Lumpur City FC vs Penang FC (NGƯỜI TRÂU)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/milan-113" group-title="Đang phát" , 23-11-2026 00:00 ⚽ Milan vs Frosinone [LIVE] (333)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1MDI6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OmM3bm1reWlsbmF2MGZqeDl1MDAxZGNmdg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/osasuna-459" group-title="Đang phát" , 23-11-2026 00:30 ⚽ Osasuna vs Málaga [LIVE] (NEM NƯỚNG )
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MTc6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmJ6eTdoeThkcHF5b2s5N3h5OWJzeTZ2NQ/index.m3u8
-#EXTINF:-1 , 23-11-2026 00:30 ⚽ Erzurumspor FK vs Goztepe (NGƯỜI NHỆN)
-#EXTINF:-1 , 23-11-2026 01:00 ⚽ SHB Da Nang vs Ninh Binh FC (NGƯỜI RÂM)
-#EXTINF:-1 , 23-11-2026 01:00 ⚽ Hong Linh Ha Tinh vs Cong An Ho Chi Minh FC (NGƯỜI CAT)
-#EXTINF:-1 , 23-11-2026 01:30 ⚽ Juventus vs Venezia (NGƯỜI NẶN)
-#EXTINF:-1 , 23-11-2026 02:00 ⚽ Burnley vs Blackburn Rovers (NGƯỜI CÁO)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Atalanta vs Inter Milan [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1MDc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmR5YjNodnUxeDNpeHp5eGRwZWEzdDVzcQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Atalanta vs Inter Milan [LIVE] (TIGER)
@@ -45,8 +27,6 @@ https://cdnhls.xbdbotv.live/live/MTk3MTM1MDc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmR
 https://cdnhls.xbdbotv.live/live/MTk3MTU1NDQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF4MDl0cTN0cXZ2anNjOHIwMnh1NHM4YQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="Đang phát" , 23-11-2026 03:00 ⚽ Getafe vs Atlético Madrid [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmp3ZDhjcGdzZTFyMnllcTJtajdlcDZ0MA/index.m3u8
-#EXTINF:-1 , 23-11-2026 03:00 ⚽ FC Barcelona vs Villarreal CF (NGƯỜI RÂM)
-#EXTINF:-1 , 23-11-2026 03:30 ⚽ AFC Ajax vs ADO Den Haag (NGƯỜI SÓI)
 #EXTINF:-1 , 23-11-2026 04:00 ⚽ Hull City vs Brighton Hove Albion (NGƯỜI CAT)
 #EXTINF:-1 , 23-11-2026 04:00 ⚽ Bologna vs Udinese (NGƯỜI THỎ)
 #EXTINF:-1 , 23-11-2026 04:30 ⚽ FC Augsburg vs 1. FSV Mainz 05 (NGƯỜI NẶN)
