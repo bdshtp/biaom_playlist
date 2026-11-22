@@ -1,13 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/napoli-597" group-title="Đang phát" , 22-11-2026 02:45 ⚽ Napoli vs Torino FC [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MDA6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OnFtNGVmc3VxZ3ZyeXJnMnFraWNwNTNlcg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/losc-lille-690" group-title="Đang phát" , 22-11-2026 02:45 ⚽ LOSC Lille vs Olympique Lyon [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NDY6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOnR4bnkwMDVldmt3bjRieXBmaXZqYjNrNg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/real-madrid-3468" group-title="Đang phát" , 22-11-2026 03:00 ⚽ Real Madrid vs Celta Vigo [LIVE] (ASAHI)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MTQ6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Om40cXgxZ203YW80N3o3ZTZ5enM3MHJ4Mg/index.m3u8
-#EXTINF:-1 , 22-11-2026 09:45 ⚽ Napoli vs Torino (NGƯỜI CÁO)
-#EXTINF:-1 , 22-11-2026 09:45 ⚽ LOSC Lille vs Lyon (NGƯỜI TRÂU)
-#EXTINF:-1 , 22-11-2026 10:00 ⚽ Real Madrid vs RC Celta (NGƯỜI CAT)
 #EXTINF:-1 , 22-11-2026 12:30 ⚽ Atlético Mineiro vs Boca Juniors (NGƯỜI THỎ)
 #EXTINF:-1 , 22-11-2026 13:00 ⚽ Inter Miami CF vs Columbus Crew (NGƯỜI SÓI)
 #EXTINF:-1 , 22-11-2026 15:00 ⚽ Pumas U.N.A.M vs Rayados de Monterrey (NGƯỜI THỎ)
