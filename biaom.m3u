@@ -1,16 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Atalanta vs Inter Milan [LIVE] (Lẩu Ếch)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MDc6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOmR5YjNodnUxeDNpeHp5eGRwZWEzdDVzcQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/atalanta-708" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Atalanta vs Inter Milan [LIVE] (TIGER)
-https://cdnhls.xbdbotv.live/live/MTk3MTM1MDc6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OmRpZTltYXltNXM5c3I3ZG1lcTV4c3NmeQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/olympique-marseille-44" group-title="Đang phát" , 23-11-2026 02:45 ⚽ Olympique Marseille vs Le Mans [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk3MTU1NDQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOnF4MDl0cTN0cXZ2anNjOHIwMnh1NHM4YQ/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/getafe-106" group-title="Đang phát" , 23-11-2026 03:00 ⚽ Getafe vs Atlético Madrid [LIVE] (HÀU NƯỚNG)
-https://cdnhls.xbdbotv.live/live/MTk3MzI2MTk6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmp3ZDhjcGdzZTFyMnllcTJtajdlcDZ0MA/index.m3u8
-#EXTINF:-1 , 23-11-2026 11:30 ⚽ Fluminese vs Mirassol (NGƯỜI SÓI)
-#EXTINF:-1 , 23-11-2026 12:30 ⚽ Red Bull Bragantino vs Vasco de Gama (NGƯỜI THỎ)
-#EXTINF:-1 , 23-11-2026 13:30 ⚽ Chicago Fire vs Charlotte FC (NGƯỜI SÓI)
-#EXTINF:-1 , 23-11-2026 15:00 ⚽ Queretaro FC vs Necaxa (NGƯỜI THỎ)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/neftchi-6483" group-title="Đang phát" , 23-11-2026 20:45 ⚽ Neftchi vs Al Hilal [LIVE] (ASAHI)
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMzk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2Omplem5rZXpoaXF2cGYyc3l6b28zYTFoMg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/italy-u17-136057" group-title="Đang phát" , 23-11-2026 21:30 ⚽ Ý U17 vs Bờ Biển Ngà U17 [LIVE] (TÔM CHIÊN)
@@ -25,9 +13,24 @@ https://cdnhls.xbdbotv.live/live/MTk4NjcxMTQ6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmF
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMzE6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OmZ6ZmV1amxtZmpydWZyOXkxZG5nbWIwYg/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/al-ittihad-476" group-title="Đang phát" , 24-11-2026 01:15 ⚽ Al Ittihad vs Pakhtakor Tashkent [LIVE] (TÔM CHIÊN)
 https://cdnhls.xbdbotv.live/live/MTk4NjcxMDY6dGljMHIwY2xmNjhsaWxyajl3eDMyeXd6OnN2bGUzbGpvdmNueHh3cHc2OTdlenFoYg/index.m3u8
+#EXTINF:-1 , 24-11-2026 02:30 ⚽ Spain U17 vs Fiji U17 (NGƯỜI RÂM)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/monza-1628" group-title="Đang phát" , 24-11-2026 02:45 ⚽ Monza vs Fiorentina [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk3MTM1MDE6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOm5zamFuMGJobzVoeG5xaWwxZ3k3MjU3Zw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/levante-3457" group-title="Đang phát" , 24-11-2026 03:00 ⚽ Levante vs Elche [LIVE] (Lẩu Ếch)
 https://cdnhls.xbdbotv.live/live/MTk3MzI2MTg6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnNjanV3NGNkMjZrdHRzZ3ZpYTNicmF5bQ/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/brentford-236" group-title="Đang phát" , 24-11-2026 03:00 ⚽ Brentford vs Everton [LIVE] (SAPPORO)
 https://cdnhls.xbdbotv.live/live/MTk3MjIxMDE6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmh0cWxwYjZ0dXRybTA2ZWR1bXhhemtxcg/index.m3u8
+#EXTINF:-1 , 24-11-2026 03:45 ⚽ Neftchi Fergana vs Al Hilal (NGƯỜI CÁO)
+#EXTINF:-1 , 24-11-2026 04:30 ⚽ Italy U17 vs Cote d'Ivoire U17 (NGƯỜI THỎ)
+#EXTINF:-1 , 24-11-2026 05:00 ⚽ Morocco U17 vs China U17 (NGƯỜI NẶN)
+#EXTINF:-1 , 24-11-2026 05:30 ⚽ Vietnam U17 vs New Zealand U17 (NGƯỜI RÂM)
+#EXTINF:-1 , 24-11-2026 06:00 ⚽ Al-Ain FC vs Esteghlal Tehran (NGƯỜI CAT)
+#EXTINF:-1 , 24-11-2026 06:00 ⚽ Al Shamal vs Al Ahli (NGƯỜI TRÂU)
+#EXTINF:-1 , 24-11-2026 07:00 ⚽ Başakşehir Futbol Kulübü vs Corum FK (NGƯỜI CÁO)
+#EXTINF:-1 , 24-11-2026 08:00 ⚽ Brondby IF vs Midtjylland (NGƯỜI NHỆN)
+#EXTINF:-1 , 24-11-2026 08:15 ⚽ Al Ittihad Club vs Pakhtakor (NGƯỜI NẶN)
+#EXTINF:-1 , 24-11-2026 09:45 ⚽ Monza vs Fiorentina (NGƯỜI TRÂU)
+#EXTINF:-1 , 24-11-2026 10:00 ⚽ Brentford vs Everton (NGƯỜI NHỆN)
+#EXTINF:-1 , 24-11-2026 12:30 ⚽ Internacional vs Vitoria (NGƯỜI SÓI)
+#EXTINF:-1 , 24-11-2026 14:00 ⚽ Santos vs Gremio (NGƯỜI THỎ)
+#EXTINF:-1 , 24-11-2026 15:00 ⚽ St.Louis City vs Los Angeles FC (NGƯỜI SÓI)
