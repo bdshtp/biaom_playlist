@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 , 24-11-2026 14:00 ⚽ Santos vs Gremio (NGƯỜI THỎ)
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/newcastle-jets-557" group-title="Đang phát" , 24-11-2026 14:45 ⚽ Newcastle Jets vs Kashiwa Reysol [LIVE] (Vịt Nướng)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwOTE6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmZyZDVkOTFjdzQwcWM5bDFjOTE5bHJvbQ/index.m3u8
-#EXTINF:-1 , 24-11-2026 15:00 ⚽ St.Louis City vs Los Angeles FC (NGƯỜI SÓI)
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" group-title="Đang phát" , 24-11-2026 17:00 ⚽ Kyoto Sanga vs Pohang Steelers [LIVE] (NEM NƯỚNG )
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNzU6dWppY2ViaXFnN2Fmazdhendla3Q3azE3OndlcHNueWQ1aWFrNjVxNjNncjVzNmp0dg/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/kyoto-sanga-3509" group-title="Đang phát" , 24-11-2026 17:00 ⚽ Kyoto Sanga vs Pohang Steelers [LIVE] (333)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwNzU6bHEzbHRwejVpcXZwcnF4Ym42cmVlc3Q2OnBnOGFoazcxZ24xd296YTFwbHkzY21veA/index.m3u8
-#EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/daejeon-citizen-5664" group-title="Đang phát" , 24-11-2026 17:00 ⚽ Daejeon Citizen vs Beijing Guoan [LIVE] (SAPPORO)
-https://cdnhls.xbdbotv.live/live/MTk4NjcwODQ6eGF6NjVwbnRsYnVzMmFsbGFrMXk3bTdyOmdkc2k3dW9pMzQwYXcxazZia3d3Y3E1dA/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/shanghai-port-5751" group-title="Đang phát" , 24-11-2026 19:15 ⚽ Shanghai Port vs Buriram United [LIVE] (HÀU NƯỚNG)
 https://cdnhls.xbdbotv.live/live/MTk4NjcwNjc6ZjloaXUzaDRjanBxdHhoeGFvY3I1OGZkOmZ5ZXp3bzJkZDJiYzFzYnVndnVlZG1tZw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/ratchaburi-mitrphol-fc-6405" group-title="Đang phát" , 24-11-2026 19:15 ⚽ Ratchaburi Mitrphol FC vs Johor Darul Ta'zim [LIVE] (Lẩu Ếch)
@@ -17,9 +7,6 @@ https://cdnhls.xbdbotv.live/live/MTk4NjcwNTk6YThsY2E2YTk4dWpna3Q2bXcydDZwYXRxOnB
 https://cdnhls.xbdbotv.live/live/MTk4NjcwNTk6aGY1ODc5dDVoeXprdGJiajd3azBucmU2OnhleTlpcW9ibWlwYzg0ZzRxbzIzazBqaw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/cong-an-nhan-dan-237001" group-title="Đang phát" , 24-11-2026 19:15 ⚽ Công an Hà Nội vs Vissel Kobe [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NjcwNTA6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOmE0aWFqZW05am1rYWc1eGozbnNrbTc2aA/index.m3u8
-#EXTINF:-1 , 24-11-2026 21:45 ⚽ Newcastle Jets vs Kashiwa Reysol (NGƯỜI BẠC)
-#EXTINF:-1 , 25-11-2026 00:00 ⚽ Kyoto Sanga vs Pohang Steelers (NGƯỜI BẠC)
-#EXTINF:-1 , 25-11-2026 00:00 ⚽ Daejeon Citizen vs Beijing Guoan (NGƯỜI TRÂU)
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/galatasaray-34" group-title="Đang phát" , 25-11-2026 00:45 ⚽ Galatasaray vs Aston Villa [LIVE] (Vịt Nướng)
 https://cdnhls.xbdbotv.live/live/MTk4NzMyMzY6aGd5eDdwZGEwMmRlNWExZXZhMThvNnRnOm85MWltZ2txZGVicWxhODJpY2JmcHJlNw/index.m3u8
 #EXTINF:-1 tvg-logo="https://d1c0s7hi3ugzoc.cloudfront.net/teams/bod-glimt-1668" group-title="Đang phát" , 25-11-2026 00:45 ⚽ Bodø / Glimt vs LASK Linz [LIVE] (NEM NƯỚNG )
@@ -49,6 +36,7 @@ https://cdnhls.xbdbotv.live/live/MTk4NzI2MTQ6ZDBuMm5wczd6c2ZuaXBpZ290dzI4bDd4OnB
 #EXTINF:-1 , 25-11-2026 07:45 ⚽ Bodo Glimt vs LASK Linz (NGƯỜI THỎ)
 #EXTINF:-1 , 25-11-2026 08:15 ⚽ Al Nassr vs Al Sadd (NGƯỜI RÂM)
 #EXTINF:-1 , 25-11-2026 10:00 ⚽ Real Madrid vs PSV Eindhoven (NGƯỜI CAT)
+#EXTINF:-1 , 25-11-2026 10:00 ⚽ Manchester City vs Napoli (NGƯỜI NHỆN)
 #EXTINF:-1 , 25-11-2026 10:00 ⚽ Arsenal vs Borussia Dortmund (NGƯỜI CÁO)
 #EXTINF:-1 , 25-11-2026 13:20 ⚽ Millonarios vs Atletico Bucaramanga (NGƯỜI SÓI)
 #EXTINF:-1 , 25-11-2026 17:00 ⚽ San Jose Earthquakes vs Houston Dynamo (NGƯỜI SÓI)
